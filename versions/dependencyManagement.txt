@@ -1,13 +1,13 @@
 
 
-[2A[1m<[0;1m-------------> 0% CONFIGURING [11ms][m[37D[1B[1m> root project[m[14D[1B[2A[1m<[0;1m-------------> 0% CONFIGURING [112ms][m[38D[1B[1m> root project > Resolve dependencies of :classpath > grails-gradle-plugin-4.0.7.pom[m[84D[1B[2A[1m<[0;1m-------------> 0% CONFIGURING [213ms][m[38D[1B[1m> root project > Resolve dependencies of :classpath > grails-gradle-plugin-4.0.7.pom > 2 KB/6 KB downloaded[m[107D[1B
-[3A[1m<[0;1m-------------> 0% CONFIGURING [312ms][m[0K[38D[1B[1m> root project > Resolve dependencies of :classpath > grails-bootstrap-4.0.7.pom[m[0K[80D[1B[1m> root project > Resolve dependencies of :classpath > grails-shell-4.0.7.pom[m[76D[1B[3A[1m<[0;1m-------------> 0% CONFIGURING [410ms][m[38D[3B
+[2A[1m<[0;1m-------------> 0% CONFIGURING [13ms][m[37D[1B[1m> root project[m[14D[1B[2A[1m<[0;1m-------------> 0% CONFIGURING [112ms][m[38D[1B[1m> root project > Resolve dependencies of :classpath > grails-gradle-plugin-4.0.8.pom[m[84D[1B[2A[1m<[0;1m-------------> 0% CONFIGURING [211ms][m[38D[1B[1m> root project > Resolve dependencies of :classpath > grails-gradle-plugin-4.0.8.pom > 5 KB/6 KB downloaded[m[107D[1B
+[3A[1m<[0;1m-------------> 0% CONFIGURING [313ms][m[0K[38D[1B[1m> root project > Resolve dependencies of :classpath > grails-bootstrap-4.0.8.pom[m[0K[80D[1B[1m> root project > Resolve dependencies of :classpath > grails-shell-4.0.8.pom[m[76D[1B[3A[1m<[0;1m-------------> 0% CONFIGURING [413ms][m[38D[1B> IDLE[0K[6D[2B[3A[1m<[0;1m-------------> 0% CONFIGURING [513ms][m[38D[2B[1m> root project > Resolve dependencies of :classpath[m[0K[51D[1B
 
-[5A[1m<[0;1m-------------> 0% CONFIGURING [513ms][m[0K[38D[1B[1m> root project > Resolve files of :classpath > grails-bootstrap-4.0.7.jar[m[0K[73D[1B[1m> root project > Resolve files of :classpath > grails-gradle-plugin-4.0.7.jar[m[77D[1B[1m> root project > Resolve files of :classpath > grails-shell-4.0.7.jar[m[69D[1B[1m> root project > Resolve files of :classpath > grails-gradle-model-4.0.7.jar[m[76D[1B[5A[1m<[0;1m-------------> 0% CONFIGURING [612ms][m[38D[3B[1m> root project > Resolve files of :classpath > grails-shell-4.0.7.jar > 113 KB/456 KB downloaded[m[96D[2B[5A[1m<[0;1m-------------> 0% CONFIGURING [713ms][m[38D[1B[1m> root project > Resolve files of :classpath > grails-bootstrap-4.0.7.jar > 147 KB/251 KB downloaded[m[100D[1B[1m> root project > Resolve files of :classpath > grails-gradle-plugin-4.0.7.jar > 325 KB/349 KB downloaded[m[104D[1B> IDLE[0K[6D[1B> IDLE[0K[6D[1B[5A[1m<[0;1m-------------> 0% CONFIGURING [812ms][m[38D[1B[1m> root project > Compiling /Users/tknox/git/grails-versions/versions/build.gradle into local compilation cache > Compiling bui[m[126D[1B> IDLE[0K[6D[3B[5A[1m<[0;1m-------------> 0% CONFIGURING [917ms][m[38D[1B[1m> root project[m[0K[14D[4B[5A[1m<[0;1m-------------> 0% CONFIGURING [1s][m[0K[35D[5B[4A[1m> root project > Resolve dependencies of :agent > Resolve dependencies of :detachedConfiguration1[m[97D[4B[4A[1m> root project > Resolve dependencies of :agent[m[0K[47D[4B[4A[1m> root project > Resolve dependencies of :agent > Resolve dependencies of :detachedConfiguration17[m[98D[4B
+[5A[1m<[0;1m-------------> 0% CONFIGURING [613ms][m[0K[38D[1B[1m> root project > Resolve files of :classpath > grails-gradle-model-4.0.8.jar[m[76D[1B[1m> root project > Resolve files of :classpath > grails-gradle-plugin-4.0.8.jar[m[77D[1B[1m> root project > Resolve files of :classpath > grails-bootstrap-4.0.8.jar[m[73D[1B[1m> root project > Resolve files of :classpath > grails-shell-4.0.8.jar[m[69D[1B[5A[1m<[0;1m-------------> 0% CONFIGURING [712ms][m[38D[1B> IDLE[0K[6D[1B[1m> root project > Resolve files of :classpath > grails-gradle-plugin-4.0.8.jar > 51 KB/349 KB downloaded[m[103D[3B[5A[1m<[0;1m-------------> 0% CONFIGURING [814ms][m[38D[2B> IDLE[0K[6D[1B[1m> root project > Resolve files of :classpath > grails-bootstrap-4.0.8.jar > 37 KB/251 KB downloaded[m[99D[2B[5A[1m<[0;1m-------------> 0% CONFIGURING [912ms][m[38D[3B> IDLE[0K[6D[1B[1m> root project > Resolve files of :classpath > grails-shell-4.0.8.jar > 44 KB/456 KB downloaded[m[95D[1B[5A[1m<[0;1m-------------> 0% CONFIGURING [1s][m[0K[35D[4B[1m> root project[m[0K[14D[1B[1A[1m> root project > Compiling /Users/tknox/git/grails-versions/versions/build.gradle into local compilation cache > Compiling bui[m[126D[1B[1A[1m> root project[m[0K[14D[1B[1A[1m> root project > Resolve dependencies of :agent > Resolve dependencies of :detachedConfiguration1[m[97D[1B[1A[1m> root project > Resolve dependencies of :agent[m[0K[47D[1B[5A[1m<[0;1m-------------> 0% CONFIGURING [2s][m[35D[5B
 
 
 
-[8A[1m> root project > Resolve dependencies of :runtime > grails-core-4.0.7.pom[m[0K[73D[1B[1m> root project > Resolve dependencies of :runtime > grails-plugin-interceptors-4.0.7.pom[m[88D[1B[1m> root project > Resolve dependencies of :runtime > grails-plugin-url-mappings-4.0.7.pom[m[88D[1B[1m> root project > Resolve dependencies of :runtime > grails-plugin-services-4.0.7.pom[m[84D[1B[1m> root project > Resolve dependencies of :runtime > grails-plugin-rest-4.0.7.pom[m[80D[1B[1m> root project > Resolve dependencies of :runtime > grails-plugin-i18n-4.0.7.pom[m[80D[1B[1m> root project > Resolve dependencies of :runtime > grails-logging-4.0.7.pom[m[76D[1B[1m> root project > Resolve dependencies of :runtime > grails-web-boot-4.0.7.pom[m[77D[1B[9A[1m<[0;1m-------------> 0% CONFIGURING [2s][m[35D[9B[8A> IDLE[0K[6D[6B[1m> root project > Resolve dependencies of :runtime > grails-plugin-databinding-4.0.7.pom[m[87D[1B> IDLE[0K[6D[1B[7A> IDLE[0K[6D[1B> IDLE[0K[6D[1B> IDLE[0K[6D[1B[1m> root project > Resolve dependencies of :runtime > grails-spring-4.0.7.pom[m[0K[75D[1B> IDLE[0K[6D[1B> IDLE[0K[6D[2B[4A[1m> root project > Resolve dependencies of :runtime > grails-web-common-4.0.7.pom[m[79D[4B[7A[1m> root project > Resolve dependencies of :runtime > grails-web-4.0.7.pom[m[72D[3B[1m> root project > Resolve dependencies of :runtime > grails-plugin-datasource-4.0.7.pom[m[86D[2B[1m> root project > Resolve dependencies of :runtime > grails-plugin-controllers-4.0.7.pom[m[87D[2B[7A[1m> root project > Resolve dependencies of :runtime > grails-plugin-codecs-4.0.7.pom[m[82D[3B> IDLE[0K[6D[2B> IDLE[0K[6D[2B[7A[1m> root project > Resolve dependencies of :runtime > grails-databinding-4.0.7.pom[m[0K[80D[3B[1m> root project > Resolve dependencies of :runtime > grails-encoder-4.0.7.pom[m[76D[4B[7A[1m> root project > Resolve dependencies of :runtime > grails-web-mvc-4.0.7.pom[m[0K[76D[3B[1m> root project > Resolve dependencies of :runtime > grails-web-url-mappings-4.0.7.pom[m[85D[4B[7A[1m> root project > Resolve dependencies of :runtime > grails-plugin-mimetypes-4.0.7.pom[m[85D[3B[1m> root project > Resolve dependencies of :runtime > grails-plugin-domain-class-4.0.7.pom[m[88D[2B[1m> root project > Resolve dependencies of :runtime > grails-plugin-validation-4.0.7.pom[m[86D[2B[7A> IDLE[0K[6D[3B> IDLE[0K[6D[2B[1m> root project > Resolve dependencies of :runtime[m[0K[49D[2B[9A[1m<[0;1m-------------> 0% CONFIGURING [3s][m[35D[1B[1m> root project > Resolve files of :runtime > grails-web-boot-4.0.7.jar[m[70D[1B[1m> root project > Resolve files of :runtime > grails-plugin-controllers-4.0.7.jar[m[80D[1B[1m> root project > Resolve files of :runtime > grails-plugin-i18n-4.0.7.jar[m[73D[1B[1m> root project > Resolve files of :runtime > grails-plugin-services-4.0.7.jar[m[77D[1B[1m> root project > Resolve files of :runtime > grails-plugin-url-mappings-4.0.7.jar[m[81D[1B[1m> root project > Resolve files of :runtime > grails-plugin-interceptors-4.0.7.jar[m[81D[1B[1m> root project > Resolve files of :runtime > grails-logging-4.0.7.jar[m[69D[1B[1m> root project > Resolve files of :runtime > grails-plugin-databinding-4.0.7.jar[m[80D[1B[8A[1m> root project > Resolve files of :runtime > grails-plugin-codecs-4.0.7.jar[m[75D[2B[1m> root project > Resolve files of :runtime > grails-plugin-i18n-4.0.7.jar > 7 KB/15 KB downloaded[m[97D[1B[1m> root project > Resolve files of :runtime > grails-plugin-domain-class-4.0.7.jar[m[81D[1B[1m> root project > Resolve files of :runtime > grails-plugin-mimetypes-4.0.7.jar[m[0K[78D[1B[1m> root project > Resolve files of :runtime > grails-plugin-validation-4.0.7.jar[m[0K[79D[1B[1m> root project > Resolve files of :runtime > grails-web-4.0.7.jar[m[0K[65D[1B[1m> root project > Resolve files of :runtime > grails-plugin-databinding-4.0.7.jar > 85 KB/377 KB downloaded[m[106D[1B[8A[1m> root project > Resolve files of :runtime > grails-web-mvc-4.0.7.jar[m[0K[69D[1B[1m> root project > Resolve files of :runtime > grails-encoder-4.0.7.jar[m[0K[69D[1B[1m> root project > Resolve files of :runtime > grails-web-databinding-4.0.7.jar[m[0K[77D[3B[1m> root project > Resolve files of :runtime > grails-web-url-mappings-4.0.7.jar[m[0K[78D[1B[1m> root project > Resolve files of :runtime > grails-plugin-datasource-4.0.7.jar[m[79D[1B[1m> root project > Resolve files of :runtime > grails-web-common-4.0.7.jar[m[0K[72D[1B[5A[1m> root project > Resolve files of :runtime > grails-core-4.0.7.jar[m[0K[66D[1B[1m> root project > Resolve files of :runtime > grails-spring-4.0.7.jar[m[0K[68D[4B[8A[1m> root project > Resolve files of :runtime > grails-databinding-4.0.7.jar[m[73D[1B[1m> root project > Resolve files of :runtime > grails-plugin-rest-4.0.7.jar[m[73D[1B> IDLE[0K[6D[1B[1m> root project > Resolve files of :runtime > grails-core-4.0.7.jar > 213 KB/722 KB downloaded[m[93D[2B[1m> root project > Resolve files of :runtime > grails-web-url-mappings-4.0.7.jar > 28 KB/182 KB downloaded[m[104D[1B[1m> root project > Resolve files of :runtime > grails-codecs-4.0.7.jar[m[0K[68D[1B[1m> root project > Resolve files of :runtime > grails-web-common-4.0.7.jar > 157 KB/177 KB downloaded[m[99D[1B[8A> IDLE[0K[6D[3B> IDLE[0K[6D[1B> IDLE[0K[6D[1B> IDLE[0K[6D[2B> IDLE[0K[6D[1B[7A[1m> root project > Resolve dependencies of :console > grails-console-4.0.7.pom[m[76D[5B> IDLE[0K[6D[2B[7A[1m> root project > Resolve files of :console > grails-console-4.0.7.jar[m[0K[69D[7B[9A[1m<[0;1m-------------> 0% EXECUTING [3s][m[0K[33D[2B[1m> :dependencyManagement[m[0K[23D[7B[9A[1m<[0;1m-------------> 0% EXECUTING [4s][m[33D[9B[9A[0K
+[9A[35C[0K[35D[1B[1m> root project > Resolve dependencies of :runtime > grails-plugin-rest-4.0.8.pom[m[80D[1B[1m> root project > Resolve dependencies of :runtime > grails-plugin-i18n-4.0.8.pom[m[80D[1B[1m> root project > Resolve dependencies of :runtime > grails-web-boot-4.0.8.pom[m[77D[1B[1m> root project > Resolve dependencies of :runtime > grails-core-4.0.8.pom[m[73D[1B[1m> root project > Resolve dependencies of :runtime > grails-plugin-databinding-4.0.8.pom[m[87D[1B[1m> root project > Resolve dependencies of :runtime > grails-logging-4.0.8.pom[m[76D[1B[1m> root project > Resolve dependencies of :runtime > grails-plugin-url-mappings-4.0.8.pom[m[88D[1B[1m> root project > Resolve dependencies of :runtime > grails-plugin-services-4.0.8.pom[m[84D[1B[8A[1m> root project > Resolve dependencies of :runtime > grails-plugin-interceptors-4.0.8.pom[m[88D[1B> IDLE[0K[6D[1B> IDLE[0K[6D[2B> IDLE[0K[6D[4B[8A> IDLE[0K[6D[3B> IDLE[0K[6D[2B> IDLE[0K[6D[1B> IDLE[0K[6D[1B[1m> root project > Resolve dependencies of :runtime[m[0K[49D[1B[1A[1m> root project > Resolve dependencies of :runtime > grails-web-common-4.0.8.pom[m[79D[1B[5A[1m> root project > Resolve dependencies of :runtime > grails-web-4.0.8.pom[m[72D[3B[1m> root project > Resolve dependencies of :runtime > grails-plugin-controllers-4.0.8.pom[m[87D[1B[1m> root project > Resolve dependencies of :runtime > grails-plugin-datasource-4.0.8.pom[m[86D[1B[5A> IDLE[0K[6D[3B> IDLE[0K[6D[1B[1m> root project > Resolve dependencies of :runtime > grails-plugin-codecs-4.0.8.pom[m[0K[82D[1B[5A[1m> root project > Resolve dependencies of :runtime > grails-databinding-4.0.8.pom[m[80D[4B[1m> root project > Resolve dependencies of :runtime > grails-encoder-4.0.8.pom[m[0K[76D[1B[5A[1m> root project > Resolve dependencies of :runtime > grails-web-url-mappings-4.0.8.pom[m[85D[3B[1m> root project > Resolve dependencies of :runtime > grails-web-mvc-4.0.8.pom[m[76D[1B[1m> root project > Resolve dependencies of :runtime > grails-web-databinding-4.0.8.pom[m[84D[1B[9A[1m<[0;1m-------------> 0% CONFIGURING [3s][m[35D[4B[1m> root project > Resolve dependencies of :runtime > grails-plugin-mimetypes-4.0.8.pom[m[85D[3B[1m> root project > Resolve dependencies of :runtime > grails-plugin-domain-class-4.0.8.pom[m[88D[1B[1m> root project > Resolve dependencies of :runtime > grails-plugin-validation-4.0.8.pom[m[86D[1B[5A[1m> root project > Resolve dependencies of :runtime[m[0K[49D[3B> IDLE[0K[6D[1B> IDLE[0K[6D[1B[8A[1m> root project > Resolve files of :runtime > grails-plugin-rest-4.0.8.jar[m[73D[1B[1m> root project > Resolve files of :runtime > grails-plugin-services-4.0.8.jar[m[77D[1B[1m> root project > Resolve files of :runtime > grails-plugin-interceptors-4.0.8.jar[m[81D[1B[1m> root project > Resolve files of :runtime > grails-plugin-url-mappings-4.0.8.jar[m[81D[1B[1m> root project > Resolve files of :runtime > grails-plugin-databinding-4.0.8.jar[m[80D[1B[1m> root project > Resolve files of :runtime > grails-plugin-i18n-4.0.8.jar[m[73D[1B[1m> root project > Resolve files of :runtime > grails-web-boot-4.0.8.jar[m[70D[1B[1m> root project > Resolve files of :runtime > grails-logging-4.0.8.jar[m[69D[1B[7A[1m> root project > Resolve files of :runtime > grails-web-4.0.8.jar[m[0K[65D[2B[1m> root project > Resolve files of :runtime > grails-plugin-domain-class-4.0.8.jar[m[81D[1B[1m> root project > Resolve files of :runtime > grails-plugin-databinding-4.0.8.jar > 194 KB/378 KB downloaded[m[107D[1B[1m> root project > Resolve files of :runtime > grails-plugin-validation-4.0.8.jar[m[79D[1B[1m> root project > Resolve files of :runtime > grails-plugin-mimetypes-4.0.8.jar[m[78D[1B[1m> root project > Resolve files of :runtime > grails-plugin-codecs-4.0.8.jar[m[75D[1B[8A[1m> root project > Resolve files of :runtime > grails-web-url-mappings-4.0.8.jar[m[78D[2B[1m> root project > Resolve files of :runtime > grails-web-mvc-4.0.8.jar[m[0K[69D[2B[1m> root project > Resolve files of :runtime > grails-web-databinding-4.0.8.jar[m[0K[77D[4B[7A[1m> root project > Resolve files of :runtime > grails-web-common-4.0.8.jar[m[72D[1B[1m> root project > Resolve files of :runtime > grails-plugin-datasource-4.0.8.jar[m[79D[1B[1m> root project > Resolve files of :runtime > grails-spring-4.0.8.jar[m[0K[68D[2B[1m> root project > Resolve files of :runtime > grails-databinding-4.0.8.jar[m[0K[73D[1B[1m> root project > Resolve files of :runtime > grails-encoder-4.0.8.jar[m[0K[69D[1B[1m> root project > Resolve files of :runtime > grails-core-4.0.8.jar[m[0K[66D[1B[7A> IDLE[0K[6D[1B[1m> root project > Resolve files of :runtime > grails-codecs-4.0.8.jar[m[0K[68D[1B[1m> root project > Resolve files of :runtime > grails-spring-4.0.8.jar > 28 KB/38 KB downloaded[m[93D[1B[1m> root project > Resolve files of :runtime > grails-plugin-controllers-4.0.8.jar[m[80D[2B[1m> root project > Resolve files of :runtime > grails-encoder-4.0.8.jar > 57 KB/181 KB downloaded[m[95D[2B[8A> IDLE[0K[6D[3B> IDLE[0K[6D[1B[1m> root project > Resolve files of :runtime > grails-plugin-controllers-4.0.8.jar > 37 KB/108 KB downloaded[m[106D[1B> IDLE[0K[6D[1B> IDLE[0K[6D[1B[1m> root project > Resolve files of :runtime > grails-core-4.0.8.jar > 61 KB/722 KB downloaded[m[92D[1B[6A> IDLE[0K[6D[2B> IDLE[0K[6D[3B[1m> root project > Resolve files of :runtime > grails-core-4.0.8.jar > 477 KB/722 KB downloaded[m[93D[1B[1A[1m> root project > Resolve dependencies of :console > grails-console-4.0.8.pom[m[0K[76D[1B[9A[1m<[0;1m-------------> 0% CONFIGURING [4s][m[35D[8B[1m> root project > Resolve files of :console > grails-console-4.0.8.jar[m[0K[69D[1B[9A[1m<[0;1m-------------> 0% EXECUTING [4s][m[0K[33D[8B[1m> :dependencyManagement[m[0K[23D[1B[9A[0K
 [1m> Task :dependencyManagement[m
 [0K
 ------------------------------------------------------------
@@ -15,7 +15,7 @@ Root project
 ------------------------------------------------------------
 [0K
 global - Default dependency management for all configurations
-    antlr:antlr 2.7.7
+    antlr:antlr 2.7.7[0K
     ch.qos.logback:logback-access 1.2.3
     ch.qos.logback:logback-classic 1.2.3
     ch.qos.logback:logback-core 1.2.3
@@ -547,11 +547,11 @@ global - Default dependency management for all configurations
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.7
-    org.grails:grails-codecs 4.0.7
-    org.grails:grails-console 4.0.7
-    org.grails:grails-core 4.0.7
-    org.grails:grails-databinding 4.0.7
+    org.grails:grails-bootstrap 4.0.8
+    org.grails:grails-codecs 4.0.8
+    org.grails:grails-console 4.0.8
+    org.grails:grails-core 4.0.8
+    org.grails:grails-databinding 4.0.8
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -562,44 +562,44 @@ global - Default dependency management for all configurations
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.7
-    org.grails:grails-docs 4.0.7
-    org.grails:grails-encoder 4.0.7
+    org.grails:grails-dependencies 4.0.8
+    org.grails:grails-docs 4.0.8
+    org.grails:grails-encoder 4.0.8
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.7
-    org.grails:grails-gradle-plugin 4.0.7
-    org.grails:grails-logging 4.0.7
-    org.grails:grails-plugin-codecs 4.0.7
-    org.grails:grails-plugin-controllers 4.0.7
-    org.grails:grails-plugin-databinding 4.0.7
-    org.grails:grails-plugin-datasource 4.0.7
-    org.grails:grails-plugin-domain-class 4.0.7
-    org.grails:grails-plugin-i18n 4.0.7
-    org.grails:grails-plugin-interceptors 4.0.7
-    org.grails:grails-plugin-mimetypes 4.0.7
-    org.grails:grails-plugin-rest 4.0.7
-    org.grails:grails-plugin-services 4.0.7
-    org.grails:grails-plugin-url-mappings 4.0.7
-    org.grails:grails-plugin-validation 4.0.7
-    org.grails:grails-shell 4.0.7
-    org.grails:grails-spring 4.0.7
-    org.grails:grails-test 4.0.7
-    org.grails:grails-test-suite-base 4.0.7
-    org.grails:grails-test-suite-persistence 4.0.7
-    org.grails:grails-test-suite-uber 4.0.7
-    org.grails:grails-test-suite-web 4.0.7
+    org.grails:grails-gradle-model 4.0.8
+    org.grails:grails-gradle-plugin 4.0.8
+    org.grails:grails-logging 4.0.8
+    org.grails:grails-plugin-codecs 4.0.8
+    org.grails:grails-plugin-controllers 4.0.8
+    org.grails:grails-plugin-databinding 4.0.8
+    org.grails:grails-plugin-datasource 4.0.8
+    org.grails:grails-plugin-domain-class 4.0.8
+    org.grails:grails-plugin-i18n 4.0.8
+    org.grails:grails-plugin-interceptors 4.0.8
+    org.grails:grails-plugin-mimetypes 4.0.8
+    org.grails:grails-plugin-rest 4.0.8
+    org.grails:grails-plugin-services 4.0.8
+    org.grails:grails-plugin-url-mappings 4.0.8
+    org.grails:grails-plugin-validation 4.0.8
+    org.grails:grails-shell 4.0.8
+    org.grails:grails-spring 4.0.8
+    org.grails:grails-test 4.0.8
+    org.grails:grails-test-suite-base 4.0.8
+    org.grails:grails-test-suite-persistence 4.0.8
+    org.grails:grails-test-suite-uber 4.0.8
+    org.grails:grails-test-suite-web 4.0.8
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.7
-    org.grails:grails-web-boot 4.0.7
-    org.grails:grails-web-common 4.0.7
-    org.grails:grails-web-databinding 4.0.7
-    org.grails:grails-web-fileupload 4.0.7
-    org.grails:grails-web-mvc 4.0.7
+    org.grails:grails-web 4.0.8
+    org.grails:grails-web-boot 4.0.8
+    org.grails:grails-web-common 4.0.8
+    org.grails:grails-web-databinding 4.0.8
+    org.grails:grails-web-fileupload 4.0.8
+    org.grails:grails-web-mvc 4.0.8
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.7
+    org.grails:grails-web-url-mappings 4.0.8
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
@@ -1523,11 +1523,11 @@ apiElements - Dependency management for the apiElements configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.7
-    org.grails:grails-codecs 4.0.7
-    org.grails:grails-console 4.0.7
-    org.grails:grails-core 4.0.7
-    org.grails:grails-databinding 4.0.7
+    org.grails:grails-bootstrap 4.0.8
+    org.grails:grails-codecs 4.0.8
+    org.grails:grails-console 4.0.8
+    org.grails:grails-core 4.0.8
+    org.grails:grails-databinding 4.0.8
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -1538,44 +1538,44 @@ apiElements - Dependency management for the apiElements configuration
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.7
-    org.grails:grails-docs 4.0.7
-    org.grails:grails-encoder 4.0.7
+    org.grails:grails-dependencies 4.0.8
+    org.grails:grails-docs 4.0.8
+    org.grails:grails-encoder 4.0.8
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.7
-    org.grails:grails-gradle-plugin 4.0.7
-    org.grails:grails-logging 4.0.7
-    org.grails:grails-plugin-codecs 4.0.7
-    org.grails:grails-plugin-controllers 4.0.7
-    org.grails:grails-plugin-databinding 4.0.7
-    org.grails:grails-plugin-datasource 4.0.7
-    org.grails:grails-plugin-domain-class 4.0.7
-    org.grails:grails-plugin-i18n 4.0.7
-    org.grails:grails-plugin-interceptors 4.0.7
-    org.grails:grails-plugin-mimetypes 4.0.7
-    org.grails:grails-plugin-rest 4.0.7
-    org.grails:grails-plugin-services 4.0.7
-    org.grails:grails-plugin-url-mappings 4.0.7
-    org.grails:grails-plugin-validation 4.0.7
-    org.grails:grails-shell 4.0.7
-    org.grails:grails-spring 4.0.7
-    org.grails:grails-test 4.0.7
-    org.grails:grails-test-suite-base 4.0.7
-    org.grails:grails-test-suite-persistence 4.0.7
-    org.grails:grails-test-suite-uber 4.0.7
-    org.grails:grails-test-suite-web 4.0.7
+    org.grails:grails-gradle-model 4.0.8
+    org.grails:grails-gradle-plugin 4.0.8
+    org.grails:grails-logging 4.0.8
+    org.grails:grails-plugin-codecs 4.0.8
+    org.grails:grails-plugin-controllers 4.0.8
+    org.grails:grails-plugin-databinding 4.0.8
+    org.grails:grails-plugin-datasource 4.0.8
+    org.grails:grails-plugin-domain-class 4.0.8
+    org.grails:grails-plugin-i18n 4.0.8
+    org.grails:grails-plugin-interceptors 4.0.8
+    org.grails:grails-plugin-mimetypes 4.0.8
+    org.grails:grails-plugin-rest 4.0.8
+    org.grails:grails-plugin-services 4.0.8
+    org.grails:grails-plugin-url-mappings 4.0.8
+    org.grails:grails-plugin-validation 4.0.8
+    org.grails:grails-shell 4.0.8
+    org.grails:grails-spring 4.0.8
+    org.grails:grails-test 4.0.8
+    org.grails:grails-test-suite-base 4.0.8
+    org.grails:grails-test-suite-persistence 4.0.8
+    org.grails:grails-test-suite-uber 4.0.8
+    org.grails:grails-test-suite-web 4.0.8
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.7
-    org.grails:grails-web-boot 4.0.7
-    org.grails:grails-web-common 4.0.7
-    org.grails:grails-web-databinding 4.0.7
-    org.grails:grails-web-fileupload 4.0.7
-    org.grails:grails-web-mvc 4.0.7
+    org.grails:grails-web 4.0.8
+    org.grails:grails-web-boot 4.0.8
+    org.grails:grails-web-common 4.0.8
+    org.grails:grails-web-databinding 4.0.8
+    org.grails:grails-web-fileupload 4.0.8
+    org.grails:grails-web-mvc 4.0.8
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.7
+    org.grails:grails-web-url-mappings 4.0.8
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
@@ -2500,11 +2500,11 @@ compile - Dependency management for the compile configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.7
-    org.grails:grails-codecs 4.0.7
-    org.grails:grails-console 4.0.7
-    org.grails:grails-core 4.0.7
-    org.grails:grails-databinding 4.0.7
+    org.grails:grails-bootstrap 4.0.8
+    org.grails:grails-codecs 4.0.8
+    org.grails:grails-console 4.0.8
+    org.grails:grails-core 4.0.8
+    org.grails:grails-databinding 4.0.8
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -2515,44 +2515,44 @@ compile - Dependency management for the compile configuration
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.7
-    org.grails:grails-docs 4.0.7
-    org.grails:grails-encoder 4.0.7
+    org.grails:grails-dependencies 4.0.8
+    org.grails:grails-docs 4.0.8
+    org.grails:grails-encoder 4.0.8
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.7
-    org.grails:grails-gradle-plugin 4.0.7
-    org.grails:grails-logging 4.0.7
-    org.grails:grails-plugin-codecs 4.0.7
-    org.grails:grails-plugin-controllers 4.0.7
-    org.grails:grails-plugin-databinding 4.0.7
-    org.grails:grails-plugin-datasource 4.0.7
-    org.grails:grails-plugin-domain-class 4.0.7
-    org.grails:grails-plugin-i18n 4.0.7
-    org.grails:grails-plugin-interceptors 4.0.7
-    org.grails:grails-plugin-mimetypes 4.0.7
-    org.grails:grails-plugin-rest 4.0.7
-    org.grails:grails-plugin-services 4.0.7
-    org.grails:grails-plugin-url-mappings 4.0.7
-    org.grails:grails-plugin-validation 4.0.7
-    org.grails:grails-shell 4.0.7
-    org.grails:grails-spring 4.0.7
-    org.grails:grails-test 4.0.7
-    org.grails:grails-test-suite-base 4.0.7
-    org.grails:grails-test-suite-persistence 4.0.7
-    org.grails:grails-test-suite-uber 4.0.7
-    org.grails:grails-test-suite-web 4.0.7
+    org.grails:grails-gradle-model 4.0.8
+    org.grails:grails-gradle-plugin 4.0.8
+    org.grails:grails-logging 4.0.8
+    org.grails:grails-plugin-codecs 4.0.8
+    org.grails:grails-plugin-controllers 4.0.8
+    org.grails:grails-plugin-databinding 4.0.8
+    org.grails:grails-plugin-datasource 4.0.8
+    org.grails:grails-plugin-domain-class 4.0.8
+    org.grails:grails-plugin-i18n 4.0.8
+    org.grails:grails-plugin-interceptors 4.0.8
+    org.grails:grails-plugin-mimetypes 4.0.8
+    org.grails:grails-plugin-rest 4.0.8
+    org.grails:grails-plugin-services 4.0.8
+    org.grails:grails-plugin-url-mappings 4.0.8
+    org.grails:grails-plugin-validation 4.0.8
+    org.grails:grails-shell 4.0.8
+    org.grails:grails-spring 4.0.8
+    org.grails:grails-test 4.0.8
+    org.grails:grails-test-suite-base 4.0.8
+    org.grails:grails-test-suite-persistence 4.0.8
+    org.grails:grails-test-suite-uber 4.0.8
+    org.grails:grails-test-suite-web 4.0.8
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.7
-    org.grails:grails-web-boot 4.0.7
-    org.grails:grails-web-common 4.0.7
-    org.grails:grails-web-databinding 4.0.7
-    org.grails:grails-web-fileupload 4.0.7
-    org.grails:grails-web-mvc 4.0.7
+    org.grails:grails-web 4.0.8
+    org.grails:grails-web-boot 4.0.8
+    org.grails:grails-web-common 4.0.8
+    org.grails:grails-web-databinding 4.0.8
+    org.grails:grails-web-fileupload 4.0.8
+    org.grails:grails-web-mvc 4.0.8
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.7
+    org.grails:grails-web-url-mappings 4.0.8
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
@@ -3468,11 +3468,11 @@ compileClasspath - Dependency management for the compileClasspath configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.7
-    org.grails:grails-codecs 4.0.7
-    org.grails:grails-console 4.0.7
-    org.grails:grails-core 4.0.7
-    org.grails:grails-databinding 4.0.7
+    org.grails:grails-bootstrap 4.0.8
+    org.grails:grails-codecs 4.0.8
+    org.grails:grails-console 4.0.8
+    org.grails:grails-core 4.0.8
+    org.grails:grails-databinding 4.0.8
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -3483,44 +3483,44 @@ compileClasspath - Dependency management for the compileClasspath configuration
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.7
-    org.grails:grails-docs 4.0.7
-    org.grails:grails-encoder 4.0.7
+    org.grails:grails-dependencies 4.0.8
+    org.grails:grails-docs 4.0.8
+    org.grails:grails-encoder 4.0.8
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.7
-    org.grails:grails-gradle-plugin 4.0.7
-    org.grails:grails-logging 4.0.7
-    org.grails:grails-plugin-codecs 4.0.7
-    org.grails:grails-plugin-controllers 4.0.7
-    org.grails:grails-plugin-databinding 4.0.7
-    org.grails:grails-plugin-datasource 4.0.7
-    org.grails:grails-plugin-domain-class 4.0.7
-    org.grails:grails-plugin-i18n 4.0.7
-    org.grails:grails-plugin-interceptors 4.0.7
-    org.grails:grails-plugin-mimetypes 4.0.7
-    org.grails:grails-plugin-rest 4.0.7
-    org.grails:grails-plugin-services 4.0.7
-    org.grails:grails-plugin-url-mappings 4.0.7
-    org.grails:grails-plugin-validation 4.0.7
-    org.grails:grails-shell 4.0.7
-    org.grails:grails-spring 4.0.7
-    org.grails:grails-test 4.0.7
-    org.grails:grails-test-suite-base 4.0.7
-    org.grails:grails-test-suite-persistence 4.0.7
-    org.grails:grails-test-suite-uber 4.0.7
-    org.grails:grails-test-suite-web 4.0.7
+    org.grails:grails-gradle-model 4.0.8
+    org.grails:grails-gradle-plugin 4.0.8
+    org.grails:grails-logging 4.0.8
+    org.grails:grails-plugin-codecs 4.0.8
+    org.grails:grails-plugin-controllers 4.0.8
+    org.grails:grails-plugin-databinding 4.0.8
+    org.grails:grails-plugin-datasource 4.0.8
+    org.grails:grails-plugin-domain-class 4.0.8
+    org.grails:grails-plugin-i18n 4.0.8
+    org.grails:grails-plugin-interceptors 4.0.8
+    org.grails:grails-plugin-mimetypes 4.0.8
+    org.grails:grails-plugin-rest 4.0.8
+    org.grails:grails-plugin-services 4.0.8
+    org.grails:grails-plugin-url-mappings 4.0.8
+    org.grails:grails-plugin-validation 4.0.8
+    org.grails:grails-shell 4.0.8
+    org.grails:grails-spring 4.0.8
+    org.grails:grails-test 4.0.8
+    org.grails:grails-test-suite-base 4.0.8
+    org.grails:grails-test-suite-persistence 4.0.8
+    org.grails:grails-test-suite-uber 4.0.8
+    org.grails:grails-test-suite-web 4.0.8
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.7
-    org.grails:grails-web-boot 4.0.7
-    org.grails:grails-web-common 4.0.7
-    org.grails:grails-web-databinding 4.0.7
-    org.grails:grails-web-fileupload 4.0.7
-    org.grails:grails-web-mvc 4.0.7
+    org.grails:grails-web 4.0.8
+    org.grails:grails-web-boot 4.0.8
+    org.grails:grails-web-common 4.0.8
+    org.grails:grails-web-databinding 4.0.8
+    org.grails:grails-web-fileupload 4.0.8
+    org.grails:grails-web-mvc 4.0.8
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.7
+    org.grails:grails-web-url-mappings 4.0.8
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
@@ -4444,11 +4444,11 @@ default - Dependency management for the default configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.7
-    org.grails:grails-codecs 4.0.7
-    org.grails:grails-console 4.0.7
-    org.grails:grails-core 4.0.7
-    org.grails:grails-databinding 4.0.7
+    org.grails:grails-bootstrap 4.0.8
+    org.grails:grails-codecs 4.0.8
+    org.grails:grails-console 4.0.8
+    org.grails:grails-core 4.0.8
+    org.grails:grails-databinding 4.0.8
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -4459,44 +4459,44 @@ default - Dependency management for the default configuration
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.7
-    org.grails:grails-docs 4.0.7
-    org.grails:grails-encoder 4.0.7
+    org.grails:grails-dependencies 4.0.8
+    org.grails:grails-docs 4.0.8
+    org.grails:grails-encoder 4.0.8
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.7
-    org.grails:grails-gradle-plugin 4.0.7
-    org.grails:grails-logging 4.0.7
-    org.grails:grails-plugin-codecs 4.0.7
-    org.grails:grails-plugin-controllers 4.0.7
-    org.grails:grails-plugin-databinding 4.0.7
-    org.grails:grails-plugin-datasource 4.0.7
-    org.grails:grails-plugin-domain-class 4.0.7
-    org.grails:grails-plugin-i18n 4.0.7
-    org.grails:grails-plugin-interceptors 4.0.7
-    org.grails:grails-plugin-mimetypes 4.0.7
-    org.grails:grails-plugin-rest 4.0.7
-    org.grails:grails-plugin-services 4.0.7
-    org.grails:grails-plugin-url-mappings 4.0.7
-    org.grails:grails-plugin-validation 4.0.7
-    org.grails:grails-shell 4.0.7
-    org.grails:grails-spring 4.0.7
-    org.grails:grails-test 4.0.7
-    org.grails:grails-test-suite-base 4.0.7
-    org.grails:grails-test-suite-persistence 4.0.7
-    org.grails:grails-test-suite-uber 4.0.7
-    org.grails:grails-test-suite-web 4.0.7
+    org.grails:grails-gradle-model 4.0.8
+    org.grails:grails-gradle-plugin 4.0.8
+    org.grails:grails-logging 4.0.8
+    org.grails:grails-plugin-codecs 4.0.8
+    org.grails:grails-plugin-controllers 4.0.8
+    org.grails:grails-plugin-databinding 4.0.8
+    org.grails:grails-plugin-datasource 4.0.8
+    org.grails:grails-plugin-domain-class 4.0.8
+    org.grails:grails-plugin-i18n 4.0.8
+    org.grails:grails-plugin-interceptors 4.0.8
+    org.grails:grails-plugin-mimetypes 4.0.8
+    org.grails:grails-plugin-rest 4.0.8
+    org.grails:grails-plugin-services 4.0.8
+    org.grails:grails-plugin-url-mappings 4.0.8
+    org.grails:grails-plugin-validation 4.0.8
+    org.grails:grails-shell 4.0.8
+    org.grails:grails-spring 4.0.8
+    org.grails:grails-test 4.0.8
+    org.grails:grails-test-suite-base 4.0.8
+    org.grails:grails-test-suite-persistence 4.0.8
+    org.grails:grails-test-suite-uber 4.0.8
+    org.grails:grails-test-suite-web 4.0.8
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.7
-    org.grails:grails-web-boot 4.0.7
-    org.grails:grails-web-common 4.0.7
-    org.grails:grails-web-databinding 4.0.7
-    org.grails:grails-web-fileupload 4.0.7
-    org.grails:grails-web-mvc 4.0.7
+    org.grails:grails-web 4.0.8
+    org.grails:grails-web-boot 4.0.8
+    org.grails:grails-web-common 4.0.8
+    org.grails:grails-web-databinding 4.0.8
+    org.grails:grails-web-fileupload 4.0.8
+    org.grails:grails-web-mvc 4.0.8
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.7
+    org.grails:grails-web-url-mappings 4.0.8
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
@@ -5418,11 +5418,11 @@ implementation - Dependency management for the implementation configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.7
-    org.grails:grails-codecs 4.0.7
-    org.grails:grails-console 4.0.7
-    org.grails:grails-core 4.0.7
-    org.grails:grails-databinding 4.0.7
+    org.grails:grails-bootstrap 4.0.8
+    org.grails:grails-codecs 4.0.8
+    org.grails:grails-console 4.0.8
+    org.grails:grails-core 4.0.8
+    org.grails:grails-databinding 4.0.8
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -5433,44 +5433,44 @@ implementation - Dependency management for the implementation configuration
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.7
-    org.grails:grails-docs 4.0.7
-    org.grails:grails-encoder 4.0.7
+    org.grails:grails-dependencies 4.0.8
+    org.grails:grails-docs 4.0.8
+    org.grails:grails-encoder 4.0.8
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.7
-    org.grails:grails-gradle-plugin 4.0.7
-    org.grails:grails-logging 4.0.7
-    org.grails:grails-plugin-codecs 4.0.7
-    org.grails:grails-plugin-controllers 4.0.7
-    org.grails:grails-plugin-databinding 4.0.7
-    org.grails:grails-plugin-datasource 4.0.7
-    org.grails:grails-plugin-domain-class 4.0.7
-    org.grails:grails-plugin-i18n 4.0.7
-    org.grails:grails-plugin-interceptors 4.0.7
-    org.grails:grails-plugin-mimetypes 4.0.7
-    org.grails:grails-plugin-rest 4.0.7
-    org.grails:grails-plugin-services 4.0.7
-    org.grails:grails-plugin-url-mappings 4.0.7
-    org.grails:grails-plugin-validation 4.0.7
-    org.grails:grails-shell 4.0.7
-    org.grails:grails-spring 4.0.7
-    org.grails:grails-test 4.0.7
-    org.grails:grails-test-suite-base 4.0.7
-    org.grails:grails-test-suite-persistence 4.0.7
-    org.grails:grails-test-suite-uber 4.0.7
-    org.grails:grails-test-suite-web 4.0.7
+    org.grails:grails-gradle-model 4.0.8
+    org.grails:grails-gradle-plugin 4.0.8
+    org.grails:grails-logging 4.0.8
+    org.grails:grails-plugin-codecs 4.0.8
+    org.grails:grails-plugin-controllers 4.0.8
+    org.grails:grails-plugin-databinding 4.0.8
+    org.grails:grails-plugin-datasource 4.0.8
+    org.grails:grails-plugin-domain-class 4.0.8
+    org.grails:grails-plugin-i18n 4.0.8
+    org.grails:grails-plugin-interceptors 4.0.8
+    org.grails:grails-plugin-mimetypes 4.0.8
+    org.grails:grails-plugin-rest 4.0.8
+    org.grails:grails-plugin-services 4.0.8
+    org.grails:grails-plugin-url-mappings 4.0.8
+    org.grails:grails-plugin-validation 4.0.8
+    org.grails:grails-shell 4.0.8
+    org.grails:grails-spring 4.0.8
+    org.grails:grails-test 4.0.8
+    org.grails:grails-test-suite-base 4.0.8
+    org.grails:grails-test-suite-persistence 4.0.8
+    org.grails:grails-test-suite-uber 4.0.8
+    org.grails:grails-test-suite-web 4.0.8
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.7
-    org.grails:grails-web-boot 4.0.7
-    org.grails:grails-web-common 4.0.7
-    org.grails:grails-web-databinding 4.0.7
-    org.grails:grails-web-fileupload 4.0.7
-    org.grails:grails-web-mvc 4.0.7
+    org.grails:grails-web 4.0.8
+    org.grails:grails-web-boot 4.0.8
+    org.grails:grails-web-common 4.0.8
+    org.grails:grails-web-databinding 4.0.8
+    org.grails:grails-web-fileupload 4.0.8
+    org.grails:grails-web-mvc 4.0.8
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.7
+    org.grails:grails-web-url-mappings 4.0.8
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
@@ -6389,11 +6389,11 @@ integrationTestCompile - Dependency management for the integrationTestCompile co
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.7
-    org.grails:grails-codecs 4.0.7
-    org.grails:grails-console 4.0.7
-    org.grails:grails-core 4.0.7
-    org.grails:grails-databinding 4.0.7
+    org.grails:grails-bootstrap 4.0.8
+    org.grails:grails-codecs 4.0.8
+    org.grails:grails-console 4.0.8
+    org.grails:grails-core 4.0.8
+    org.grails:grails-databinding 4.0.8
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -6404,44 +6404,44 @@ integrationTestCompile - Dependency management for the integrationTestCompile co
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.7
-    org.grails:grails-docs 4.0.7
-    org.grails:grails-encoder 4.0.7
+    org.grails:grails-dependencies 4.0.8
+    org.grails:grails-docs 4.0.8
+    org.grails:grails-encoder 4.0.8
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.7
-    org.grails:grails-gradle-plugin 4.0.7
-    org.grails:grails-logging 4.0.7
-    org.grails:grails-plugin-codecs 4.0.7
-    org.grails:grails-plugin-controllers 4.0.7
-    org.grails:grails-plugin-databinding 4.0.7
-    org.grails:grails-plugin-datasource 4.0.7
-    org.grails:grails-plugin-domain-class 4.0.7
-    org.grails:grails-plugin-i18n 4.0.7
-    org.grails:grails-plugin-interceptors 4.0.7
-    org.grails:grails-plugin-mimetypes 4.0.7
-    org.grails:grails-plugin-rest 4.0.7
-    org.grails:grails-plugin-services 4.0.7
-    org.grails:grails-plugin-url-mappings 4.0.7
-    org.grails:grails-plugin-validation 4.0.7
-    org.grails:grails-shell 4.0.7
-    org.grails:grails-spring 4.0.7
-    org.grails:grails-test 4.0.7
-    org.grails:grails-test-suite-base 4.0.7
-    org.grails:grails-test-suite-persistence 4.0.7
-    org.grails:grails-test-suite-uber 4.0.7
-    org.grails:grails-test-suite-web 4.0.7
+    org.grails:grails-gradle-model 4.0.8
+    org.grails:grails-gradle-plugin 4.0.8
+    org.grails:grails-logging 4.0.8
+    org.grails:grails-plugin-codecs 4.0.8
+    org.grails:grails-plugin-controllers 4.0.8
+    org.grails:grails-plugin-databinding 4.0.8
+    org.grails:grails-plugin-datasource 4.0.8
+    org.grails:grails-plugin-domain-class 4.0.8
+    org.grails:grails-plugin-i18n 4.0.8
+    org.grails:grails-plugin-interceptors 4.0.8
+    org.grails:grails-plugin-mimetypes 4.0.8
+    org.grails:grails-plugin-rest 4.0.8
+    org.grails:grails-plugin-services 4.0.8
+    org.grails:grails-plugin-url-mappings 4.0.8
+    org.grails:grails-plugin-validation 4.0.8
+    org.grails:grails-shell 4.0.8
+    org.grails:grails-spring 4.0.8
+    org.grails:grails-test 4.0.8
+    org.grails:grails-test-suite-base 4.0.8
+    org.grails:grails-test-suite-persistence 4.0.8
+    org.grails:grails-test-suite-uber 4.0.8
+    org.grails:grails-test-suite-web 4.0.8
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.7
-    org.grails:grails-web-boot 4.0.7
-    org.grails:grails-web-common 4.0.7
-    org.grails:grails-web-databinding 4.0.7
-    org.grails:grails-web-fileupload 4.0.7
-    org.grails:grails-web-mvc 4.0.7
+    org.grails:grails-web 4.0.8
+    org.grails:grails-web-boot 4.0.8
+    org.grails:grails-web-common 4.0.8
+    org.grails:grails-web-databinding 4.0.8
+    org.grails:grails-web-fileupload 4.0.8
+    org.grails:grails-web-mvc 4.0.8
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.7
+    org.grails:grails-web-url-mappings 4.0.8
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
@@ -7357,11 +7357,11 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.7
-    org.grails:grails-codecs 4.0.7
-    org.grails:grails-console 4.0.7
-    org.grails:grails-core 4.0.7
-    org.grails:grails-databinding 4.0.7
+    org.grails:grails-bootstrap 4.0.8
+    org.grails:grails-codecs 4.0.8
+    org.grails:grails-console 4.0.8
+    org.grails:grails-core 4.0.8
+    org.grails:grails-databinding 4.0.8
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -7372,44 +7372,44 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.7
-    org.grails:grails-docs 4.0.7
-    org.grails:grails-encoder 4.0.7
+    org.grails:grails-dependencies 4.0.8
+    org.grails:grails-docs 4.0.8
+    org.grails:grails-encoder 4.0.8
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.7
-    org.grails:grails-gradle-plugin 4.0.7
-    org.grails:grails-logging 4.0.7
-    org.grails:grails-plugin-codecs 4.0.7
-    org.grails:grails-plugin-controllers 4.0.7
-    org.grails:grails-plugin-databinding 4.0.7
-    org.grails:grails-plugin-datasource 4.0.7
-    org.grails:grails-plugin-domain-class 4.0.7
-    org.grails:grails-plugin-i18n 4.0.7
-    org.grails:grails-plugin-interceptors 4.0.7
-    org.grails:grails-plugin-mimetypes 4.0.7
-    org.grails:grails-plugin-rest 4.0.7
-    org.grails:grails-plugin-services 4.0.7
-    org.grails:grails-plugin-url-mappings 4.0.7
-    org.grails:grails-plugin-validation 4.0.7
-    org.grails:grails-shell 4.0.7
-    org.grails:grails-spring 4.0.7
-    org.grails:grails-test 4.0.7
-    org.grails:grails-test-suite-base 4.0.7
-    org.grails:grails-test-suite-persistence 4.0.7
-    org.grails:grails-test-suite-uber 4.0.7
-    org.grails:grails-test-suite-web 4.0.7
+    org.grails:grails-gradle-model 4.0.8
+    org.grails:grails-gradle-plugin 4.0.8
+    org.grails:grails-logging 4.0.8
+    org.grails:grails-plugin-codecs 4.0.8
+    org.grails:grails-plugin-controllers 4.0.8
+    org.grails:grails-plugin-databinding 4.0.8
+    org.grails:grails-plugin-datasource 4.0.8
+    org.grails:grails-plugin-domain-class 4.0.8
+    org.grails:grails-plugin-i18n 4.0.8
+    org.grails:grails-plugin-interceptors 4.0.8
+    org.grails:grails-plugin-mimetypes 4.0.8
+    org.grails:grails-plugin-rest 4.0.8
+    org.grails:grails-plugin-services 4.0.8
+    org.grails:grails-plugin-url-mappings 4.0.8
+    org.grails:grails-plugin-validation 4.0.8
+    org.grails:grails-shell 4.0.8
+    org.grails:grails-spring 4.0.8
+    org.grails:grails-test 4.0.8
+    org.grails:grails-test-suite-base 4.0.8
+    org.grails:grails-test-suite-persistence 4.0.8
+    org.grails:grails-test-suite-uber 4.0.8
+    org.grails:grails-test-suite-web 4.0.8
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.7
-    org.grails:grails-web-boot 4.0.7
-    org.grails:grails-web-common 4.0.7
-    org.grails:grails-web-databinding 4.0.7
-    org.grails:grails-web-fileupload 4.0.7
-    org.grails:grails-web-mvc 4.0.7
+    org.grails:grails-web 4.0.8
+    org.grails:grails-web-boot 4.0.8
+    org.grails:grails-web-common 4.0.8
+    org.grails:grails-web-databinding 4.0.8
+    org.grails:grails-web-fileupload 4.0.8
+    org.grails:grails-web-mvc 4.0.8
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.7
+    org.grails:grails-web-url-mappings 4.0.8
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
@@ -8328,11 +8328,11 @@ integrationTestImplementation - Dependency management for the integrationTestImp
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.7
-    org.grails:grails-codecs 4.0.7
-    org.grails:grails-console 4.0.7
-    org.grails:grails-core 4.0.7
-    org.grails:grails-databinding 4.0.7
+    org.grails:grails-bootstrap 4.0.8
+    org.grails:grails-codecs 4.0.8
+    org.grails:grails-console 4.0.8
+    org.grails:grails-core 4.0.8
+    org.grails:grails-databinding 4.0.8
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -8343,44 +8343,44 @@ integrationTestImplementation - Dependency management for the integrationTestImp
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.7
-    org.grails:grails-docs 4.0.7
-    org.grails:grails-encoder 4.0.7
+    org.grails:grails-dependencies 4.0.8
+    org.grails:grails-docs 4.0.8
+    org.grails:grails-encoder 4.0.8
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.7
-    org.grails:grails-gradle-plugin 4.0.7
-    org.grails:grails-logging 4.0.7
-    org.grails:grails-plugin-codecs 4.0.7
-    org.grails:grails-plugin-controllers 4.0.7
-    org.grails:grails-plugin-databinding 4.0.7
-    org.grails:grails-plugin-datasource 4.0.7
-    org.grails:grails-plugin-domain-class 4.0.7
-    org.grails:grails-plugin-i18n 4.0.7
-    org.grails:grails-plugin-interceptors 4.0.7
-    org.grails:grails-plugin-mimetypes 4.0.7
-    org.grails:grails-plugin-rest 4.0.7
-    org.grails:grails-plugin-services 4.0.7
-    org.grails:grails-plugin-url-mappings 4.0.7
-    org.grails:grails-plugin-validation 4.0.7
-    org.grails:grails-shell 4.0.7
-    org.grails:grails-spring 4.0.7
-    org.grails:grails-test 4.0.7
-    org.grails:grails-test-suite-base 4.0.7
-    org.grails:grails-test-suite-persistence 4.0.7
-    org.grails:grails-test-suite-uber 4.0.7
-    org.grails:grails-test-suite-web 4.0.7
+    org.grails:grails-gradle-model 4.0.8
+    org.grails:grails-gradle-plugin 4.0.8
+    org.grails:grails-logging 4.0.8
+    org.grails:grails-plugin-codecs 4.0.8
+    org.grails:grails-plugin-controllers 4.0.8
+    org.grails:grails-plugin-databinding 4.0.8
+    org.grails:grails-plugin-datasource 4.0.8
+    org.grails:grails-plugin-domain-class 4.0.8
+    org.grails:grails-plugin-i18n 4.0.8
+    org.grails:grails-plugin-interceptors 4.0.8
+    org.grails:grails-plugin-mimetypes 4.0.8
+    org.grails:grails-plugin-rest 4.0.8
+    org.grails:grails-plugin-services 4.0.8
+    org.grails:grails-plugin-url-mappings 4.0.8
+    org.grails:grails-plugin-validation 4.0.8
+    org.grails:grails-shell 4.0.8
+    org.grails:grails-spring 4.0.8
+    org.grails:grails-test 4.0.8
+    org.grails:grails-test-suite-base 4.0.8
+    org.grails:grails-test-suite-persistence 4.0.8
+    org.grails:grails-test-suite-uber 4.0.8
+    org.grails:grails-test-suite-web 4.0.8
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.7
-    org.grails:grails-web-boot 4.0.7
-    org.grails:grails-web-common 4.0.7
-    org.grails:grails-web-databinding 4.0.7
-    org.grails:grails-web-fileupload 4.0.7
-    org.grails:grails-web-mvc 4.0.7
+    org.grails:grails-web 4.0.8
+    org.grails:grails-web-boot 4.0.8
+    org.grails:grails-web-common 4.0.8
+    org.grails:grails-web-databinding 4.0.8
+    org.grails:grails-web-fileupload 4.0.8
+    org.grails:grails-web-mvc 4.0.8
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.7
+    org.grails:grails-web-url-mappings 4.0.8
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
@@ -9298,11 +9298,11 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.7
-    org.grails:grails-codecs 4.0.7
-    org.grails:grails-console 4.0.7
-    org.grails:grails-core 4.0.7
-    org.grails:grails-databinding 4.0.7
+    org.grails:grails-bootstrap 4.0.8
+    org.grails:grails-codecs 4.0.8
+    org.grails:grails-console 4.0.8
+    org.grails:grails-core 4.0.8
+    org.grails:grails-databinding 4.0.8
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -9313,44 +9313,44 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.7
-    org.grails:grails-docs 4.0.7
-    org.grails:grails-encoder 4.0.7
+    org.grails:grails-dependencies 4.0.8
+    org.grails:grails-docs 4.0.8
+    org.grails:grails-encoder 4.0.8
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.7
-    org.grails:grails-gradle-plugin 4.0.7
-    org.grails:grails-logging 4.0.7
-    org.grails:grails-plugin-codecs 4.0.7
-    org.grails:grails-plugin-controllers 4.0.7
-    org.grails:grails-plugin-databinding 4.0.7
-    org.grails:grails-plugin-datasource 4.0.7
-    org.grails:grails-plugin-domain-class 4.0.7
-    org.grails:grails-plugin-i18n 4.0.7
-    org.grails:grails-plugin-interceptors 4.0.7
-    org.grails:grails-plugin-mimetypes 4.0.7
-    org.grails:grails-plugin-rest 4.0.7
-    org.grails:grails-plugin-services 4.0.7
-    org.grails:grails-plugin-url-mappings 4.0.7
-    org.grails:grails-plugin-validation 4.0.7
-    org.grails:grails-shell 4.0.7
-    org.grails:grails-spring 4.0.7
-    org.grails:grails-test 4.0.7
-    org.grails:grails-test-suite-base 4.0.7
-    org.grails:grails-test-suite-persistence 4.0.7
-    org.grails:grails-test-suite-uber 4.0.7
-    org.grails:grails-test-suite-web 4.0.7
+    org.grails:grails-gradle-model 4.0.8
+    org.grails:grails-gradle-plugin 4.0.8
+    org.grails:grails-logging 4.0.8
+    org.grails:grails-plugin-codecs 4.0.8
+    org.grails:grails-plugin-controllers 4.0.8
+    org.grails:grails-plugin-databinding 4.0.8
+    org.grails:grails-plugin-datasource 4.0.8
+    org.grails:grails-plugin-domain-class 4.0.8
+    org.grails:grails-plugin-i18n 4.0.8
+    org.grails:grails-plugin-interceptors 4.0.8
+    org.grails:grails-plugin-mimetypes 4.0.8
+    org.grails:grails-plugin-rest 4.0.8
+    org.grails:grails-plugin-services 4.0.8
+    org.grails:grails-plugin-url-mappings 4.0.8
+    org.grails:grails-plugin-validation 4.0.8
+    org.grails:grails-shell 4.0.8
+    org.grails:grails-spring 4.0.8
+    org.grails:grails-test 4.0.8
+    org.grails:grails-test-suite-base 4.0.8
+    org.grails:grails-test-suite-persistence 4.0.8
+    org.grails:grails-test-suite-uber 4.0.8
+    org.grails:grails-test-suite-web 4.0.8
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.7
-    org.grails:grails-web-boot 4.0.7
-    org.grails:grails-web-common 4.0.7
-    org.grails:grails-web-databinding 4.0.7
-    org.grails:grails-web-fileupload 4.0.7
-    org.grails:grails-web-mvc 4.0.7
+    org.grails:grails-web 4.0.8
+    org.grails:grails-web-boot 4.0.8
+    org.grails:grails-web-common 4.0.8
+    org.grails:grails-web-databinding 4.0.8
+    org.grails:grails-web-fileupload 4.0.8
+    org.grails:grails-web-mvc 4.0.8
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.7
+    org.grails:grails-web-url-mappings 4.0.8
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
@@ -10268,11 +10268,11 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.7
-    org.grails:grails-codecs 4.0.7
-    org.grails:grails-console 4.0.7
-    org.grails:grails-core 4.0.7
-    org.grails:grails-databinding 4.0.7
+    org.grails:grails-bootstrap 4.0.8
+    org.grails:grails-codecs 4.0.8
+    org.grails:grails-console 4.0.8
+    org.grails:grails-core 4.0.8
+    org.grails:grails-databinding 4.0.8
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -10283,44 +10283,44 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.7
-    org.grails:grails-docs 4.0.7
-    org.grails:grails-encoder 4.0.7
+    org.grails:grails-dependencies 4.0.8
+    org.grails:grails-docs 4.0.8
+    org.grails:grails-encoder 4.0.8
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.7
-    org.grails:grails-gradle-plugin 4.0.7
-    org.grails:grails-logging 4.0.7
-    org.grails:grails-plugin-codecs 4.0.7
-    org.grails:grails-plugin-controllers 4.0.7
-    org.grails:grails-plugin-databinding 4.0.7
-    org.grails:grails-plugin-datasource 4.0.7
-    org.grails:grails-plugin-domain-class 4.0.7
-    org.grails:grails-plugin-i18n 4.0.7
-    org.grails:grails-plugin-interceptors 4.0.7
-    org.grails:grails-plugin-mimetypes 4.0.7
-    org.grails:grails-plugin-rest 4.0.7
-    org.grails:grails-plugin-services 4.0.7
-    org.grails:grails-plugin-url-mappings 4.0.7
-    org.grails:grails-plugin-validation 4.0.7
-    org.grails:grails-shell 4.0.7
-    org.grails:grails-spring 4.0.7
-    org.grails:grails-test 4.0.7
-    org.grails:grails-test-suite-base 4.0.7
-    org.grails:grails-test-suite-persistence 4.0.7
-    org.grails:grails-test-suite-uber 4.0.7
-    org.grails:grails-test-suite-web 4.0.7
+    org.grails:grails-gradle-model 4.0.8
+    org.grails:grails-gradle-plugin 4.0.8
+    org.grails:grails-logging 4.0.8
+    org.grails:grails-plugin-codecs 4.0.8
+    org.grails:grails-plugin-controllers 4.0.8
+    org.grails:grails-plugin-databinding 4.0.8
+    org.grails:grails-plugin-datasource 4.0.8
+    org.grails:grails-plugin-domain-class 4.0.8
+    org.grails:grails-plugin-i18n 4.0.8
+    org.grails:grails-plugin-interceptors 4.0.8
+    org.grails:grails-plugin-mimetypes 4.0.8
+    org.grails:grails-plugin-rest 4.0.8
+    org.grails:grails-plugin-services 4.0.8
+    org.grails:grails-plugin-url-mappings 4.0.8
+    org.grails:grails-plugin-validation 4.0.8
+    org.grails:grails-shell 4.0.8
+    org.grails:grails-spring 4.0.8
+    org.grails:grails-test 4.0.8
+    org.grails:grails-test-suite-base 4.0.8
+    org.grails:grails-test-suite-persistence 4.0.8
+    org.grails:grails-test-suite-uber 4.0.8
+    org.grails:grails-test-suite-web 4.0.8
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.7
-    org.grails:grails-web-boot 4.0.7
-    org.grails:grails-web-common 4.0.7
-    org.grails:grails-web-databinding 4.0.7
-    org.grails:grails-web-fileupload 4.0.7
-    org.grails:grails-web-mvc 4.0.7
+    org.grails:grails-web 4.0.8
+    org.grails:grails-web-boot 4.0.8
+    org.grails:grails-web-common 4.0.8
+    org.grails:grails-web-databinding 4.0.8
+    org.grails:grails-web-fileupload 4.0.8
+    org.grails:grails-web-mvc 4.0.8
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.7
+    org.grails:grails-web-url-mappings 4.0.8
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
@@ -11253,11 +11253,11 @@ runtime - Dependency management for the runtime configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.7
-    org.grails:grails-codecs 4.0.7
-    org.grails:grails-console 4.0.7
-    org.grails:grails-core 4.0.7
-    org.grails:grails-databinding 4.0.7
+    org.grails:grails-bootstrap 4.0.8
+    org.grails:grails-codecs 4.0.8
+    org.grails:grails-console 4.0.8
+    org.grails:grails-core 4.0.8
+    org.grails:grails-databinding 4.0.8
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -11268,44 +11268,44 @@ runtime - Dependency management for the runtime configuration
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.7
-    org.grails:grails-docs 4.0.7
-    org.grails:grails-encoder 4.0.7
+    org.grails:grails-dependencies 4.0.8
+    org.grails:grails-docs 4.0.8
+    org.grails:grails-encoder 4.0.8
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.7
-    org.grails:grails-gradle-plugin 4.0.7
-    org.grails:grails-logging 4.0.7
-    org.grails:grails-plugin-codecs 4.0.7
-    org.grails:grails-plugin-controllers 4.0.7
-    org.grails:grails-plugin-databinding 4.0.7
-    org.grails:grails-plugin-datasource 4.0.7
-    org.grails:grails-plugin-domain-class 4.0.7
-    org.grails:grails-plugin-i18n 4.0.7
-    org.grails:grails-plugin-interceptors 4.0.7
-    org.grails:grails-plugin-mimetypes 4.0.7
-    org.grails:grails-plugin-rest 4.0.7
-    org.grails:grails-plugin-services 4.0.7
-    org.grails:grails-plugin-url-mappings 4.0.7
-    org.grails:grails-plugin-validation 4.0.7
-    org.grails:grails-shell 4.0.7
-    org.grails:grails-spring 4.0.7
-    org.grails:grails-test 4.0.7
-    org.grails:grails-test-suite-base 4.0.7
-    org.grails:grails-test-suite-persistence 4.0.7
-    org.grails:grails-test-suite-uber 4.0.7
-    org.grails:grails-test-suite-web 4.0.7
+    org.grails:grails-gradle-model 4.0.8
+    org.grails:grails-gradle-plugin 4.0.8
+    org.grails:grails-logging 4.0.8
+    org.grails:grails-plugin-codecs 4.0.8
+    org.grails:grails-plugin-controllers 4.0.8
+    org.grails:grails-plugin-databinding 4.0.8
+    org.grails:grails-plugin-datasource 4.0.8
+    org.grails:grails-plugin-domain-class 4.0.8
+    org.grails:grails-plugin-i18n 4.0.8
+    org.grails:grails-plugin-interceptors 4.0.8
+    org.grails:grails-plugin-mimetypes 4.0.8
+    org.grails:grails-plugin-rest 4.0.8
+    org.grails:grails-plugin-services 4.0.8
+    org.grails:grails-plugin-url-mappings 4.0.8
+    org.grails:grails-plugin-validation 4.0.8
+    org.grails:grails-shell 4.0.8
+    org.grails:grails-spring 4.0.8
+    org.grails:grails-test 4.0.8
+    org.grails:grails-test-suite-base 4.0.8
+    org.grails:grails-test-suite-persistence 4.0.8
+    org.grails:grails-test-suite-uber 4.0.8
+    org.grails:grails-test-suite-web 4.0.8
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.7
-    org.grails:grails-web-boot 4.0.7
-    org.grails:grails-web-common 4.0.7
-    org.grails:grails-web-databinding 4.0.7
-    org.grails:grails-web-fileupload 4.0.7
-    org.grails:grails-web-mvc 4.0.7
+    org.grails:grails-web 4.0.8
+    org.grails:grails-web-boot 4.0.8
+    org.grails:grails-web-common 4.0.8
+    org.grails:grails-web-databinding 4.0.8
+    org.grails:grails-web-fileupload 4.0.8
+    org.grails:grails-web-mvc 4.0.8
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.7
+    org.grails:grails-web-url-mappings 4.0.8
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
@@ -12223,11 +12223,11 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.7
-    org.grails:grails-codecs 4.0.7
-    org.grails:grails-console 4.0.7
-    org.grails:grails-core 4.0.7
-    org.grails:grails-databinding 4.0.7
+    org.grails:grails-bootstrap 4.0.8
+    org.grails:grails-codecs 4.0.8
+    org.grails:grails-console 4.0.8
+    org.grails:grails-core 4.0.8
+    org.grails:grails-databinding 4.0.8
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -12238,44 +12238,44 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.7
-    org.grails:grails-docs 4.0.7
-    org.grails:grails-encoder 4.0.7
+    org.grails:grails-dependencies 4.0.8
+    org.grails:grails-docs 4.0.8
+    org.grails:grails-encoder 4.0.8
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.7
-    org.grails:grails-gradle-plugin 4.0.7
-    org.grails:grails-logging 4.0.7
-    org.grails:grails-plugin-codecs 4.0.7
-    org.grails:grails-plugin-controllers 4.0.7
-    org.grails:grails-plugin-databinding 4.0.7
-    org.grails:grails-plugin-datasource 4.0.7
-    org.grails:grails-plugin-domain-class 4.0.7
-    org.grails:grails-plugin-i18n 4.0.7
-    org.grails:grails-plugin-interceptors 4.0.7
-    org.grails:grails-plugin-mimetypes 4.0.7
-    org.grails:grails-plugin-rest 4.0.7
-    org.grails:grails-plugin-services 4.0.7
-    org.grails:grails-plugin-url-mappings 4.0.7
-    org.grails:grails-plugin-validation 4.0.7
-    org.grails:grails-shell 4.0.7
-    org.grails:grails-spring 4.0.7
-    org.grails:grails-test 4.0.7
-    org.grails:grails-test-suite-base 4.0.7
-    org.grails:grails-test-suite-persistence 4.0.7
-    org.grails:grails-test-suite-uber 4.0.7
-    org.grails:grails-test-suite-web 4.0.7
+    org.grails:grails-gradle-model 4.0.8
+    org.grails:grails-gradle-plugin 4.0.8
+    org.grails:grails-logging 4.0.8
+    org.grails:grails-plugin-codecs 4.0.8
+    org.grails:grails-plugin-controllers 4.0.8
+    org.grails:grails-plugin-databinding 4.0.8
+    org.grails:grails-plugin-datasource 4.0.8
+    org.grails:grails-plugin-domain-class 4.0.8
+    org.grails:grails-plugin-i18n 4.0.8
+    org.grails:grails-plugin-interceptors 4.0.8
+    org.grails:grails-plugin-mimetypes 4.0.8
+    org.grails:grails-plugin-rest 4.0.8
+    org.grails:grails-plugin-services 4.0.8
+    org.grails:grails-plugin-url-mappings 4.0.8
+    org.grails:grails-plugin-validation 4.0.8
+    org.grails:grails-shell 4.0.8
+    org.grails:grails-spring 4.0.8
+    org.grails:grails-test 4.0.8
+    org.grails:grails-test-suite-base 4.0.8
+    org.grails:grails-test-suite-persistence 4.0.8
+    org.grails:grails-test-suite-uber 4.0.8
+    org.grails:grails-test-suite-web 4.0.8
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.7
-    org.grails:grails-web-boot 4.0.7
-    org.grails:grails-web-common 4.0.7
-    org.grails:grails-web-databinding 4.0.7
-    org.grails:grails-web-fileupload 4.0.7
-    org.grails:grails-web-mvc 4.0.7
+    org.grails:grails-web 4.0.8
+    org.grails:grails-web-boot 4.0.8
+    org.grails:grails-web-common 4.0.8
+    org.grails:grails-web-databinding 4.0.8
+    org.grails:grails-web-fileupload 4.0.8
+    org.grails:grails-web-mvc 4.0.8
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.7
+    org.grails:grails-web-url-mappings 4.0.8
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
@@ -13193,11 +13193,11 @@ runtimeElements - Dependency management for the runtimeElements configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.7
-    org.grails:grails-codecs 4.0.7
-    org.grails:grails-console 4.0.7
-    org.grails:grails-core 4.0.7
-    org.grails:grails-databinding 4.0.7
+    org.grails:grails-bootstrap 4.0.8
+    org.grails:grails-codecs 4.0.8
+    org.grails:grails-console 4.0.8
+    org.grails:grails-core 4.0.8
+    org.grails:grails-databinding 4.0.8
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -13208,44 +13208,44 @@ runtimeElements - Dependency management for the runtimeElements configuration
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.7
-    org.grails:grails-docs 4.0.7
-    org.grails:grails-encoder 4.0.7
+    org.grails:grails-dependencies 4.0.8
+    org.grails:grails-docs 4.0.8
+    org.grails:grails-encoder 4.0.8
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.7
-    org.grails:grails-gradle-plugin 4.0.7
-    org.grails:grails-logging 4.0.7
-    org.grails:grails-plugin-codecs 4.0.7
-    org.grails:grails-plugin-controllers 4.0.7
-    org.grails:grails-plugin-databinding 4.0.7
-    org.grails:grails-plugin-datasource 4.0.7
-    org.grails:grails-plugin-domain-class 4.0.7
-    org.grails:grails-plugin-i18n 4.0.7
-    org.grails:grails-plugin-interceptors 4.0.7
-    org.grails:grails-plugin-mimetypes 4.0.7
-    org.grails:grails-plugin-rest 4.0.7
-    org.grails:grails-plugin-services 4.0.7
-    org.grails:grails-plugin-url-mappings 4.0.7
-    org.grails:grails-plugin-validation 4.0.7
-    org.grails:grails-shell 4.0.7
-    org.grails:grails-spring 4.0.7
-    org.grails:grails-test 4.0.7
-    org.grails:grails-test-suite-base 4.0.7
-    org.grails:grails-test-suite-persistence 4.0.7
-    org.grails:grails-test-suite-uber 4.0.7
-    org.grails:grails-test-suite-web 4.0.7
+    org.grails:grails-gradle-model 4.0.8
+    org.grails:grails-gradle-plugin 4.0.8
+    org.grails:grails-logging 4.0.8
+    org.grails:grails-plugin-codecs 4.0.8
+    org.grails:grails-plugin-controllers 4.0.8
+    org.grails:grails-plugin-databinding 4.0.8
+    org.grails:grails-plugin-datasource 4.0.8
+    org.grails:grails-plugin-domain-class 4.0.8
+    org.grails:grails-plugin-i18n 4.0.8
+    org.grails:grails-plugin-interceptors 4.0.8
+    org.grails:grails-plugin-mimetypes 4.0.8
+    org.grails:grails-plugin-rest 4.0.8
+    org.grails:grails-plugin-services 4.0.8
+    org.grails:grails-plugin-url-mappings 4.0.8
+    org.grails:grails-plugin-validation 4.0.8
+    org.grails:grails-shell 4.0.8
+    org.grails:grails-spring 4.0.8
+    org.grails:grails-test 4.0.8
+    org.grails:grails-test-suite-base 4.0.8
+    org.grails:grails-test-suite-persistence 4.0.8
+    org.grails:grails-test-suite-uber 4.0.8
+    org.grails:grails-test-suite-web 4.0.8
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.7
-    org.grails:grails-web-boot 4.0.7
-    org.grails:grails-web-common 4.0.7
-    org.grails:grails-web-databinding 4.0.7
-    org.grails:grails-web-fileupload 4.0.7
-    org.grails:grails-web-mvc 4.0.7
+    org.grails:grails-web 4.0.8
+    org.grails:grails-web-boot 4.0.8
+    org.grails:grails-web-common 4.0.8
+    org.grails:grails-web-databinding 4.0.8
+    org.grails:grails-web-fileupload 4.0.8
+    org.grails:grails-web-mvc 4.0.8
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.7
+    org.grails:grails-web-url-mappings 4.0.8
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
@@ -14167,11 +14167,11 @@ testCompile - Dependency management for the testCompile configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.7
-    org.grails:grails-codecs 4.0.7
-    org.grails:grails-console 4.0.7
-    org.grails:grails-core 4.0.7
-    org.grails:grails-databinding 4.0.7
+    org.grails:grails-bootstrap 4.0.8
+    org.grails:grails-codecs 4.0.8
+    org.grails:grails-console 4.0.8
+    org.grails:grails-core 4.0.8
+    org.grails:grails-databinding 4.0.8
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -14182,44 +14182,44 @@ testCompile - Dependency management for the testCompile configuration
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.7
-    org.grails:grails-docs 4.0.7
-    org.grails:grails-encoder 4.0.7
+    org.grails:grails-dependencies 4.0.8
+    org.grails:grails-docs 4.0.8
+    org.grails:grails-encoder 4.0.8
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.7
-    org.grails:grails-gradle-plugin 4.0.7
-    org.grails:grails-logging 4.0.7
-    org.grails:grails-plugin-codecs 4.0.7
-    org.grails:grails-plugin-controllers 4.0.7
-    org.grails:grails-plugin-databinding 4.0.7
-    org.grails:grails-plugin-datasource 4.0.7
-    org.grails:grails-plugin-domain-class 4.0.7
-    org.grails:grails-plugin-i18n 4.0.7
-    org.grails:grails-plugin-interceptors 4.0.7
-    org.grails:grails-plugin-mimetypes 4.0.7
-    org.grails:grails-plugin-rest 4.0.7
-    org.grails:grails-plugin-services 4.0.7
-    org.grails:grails-plugin-url-mappings 4.0.7
-    org.grails:grails-plugin-validation 4.0.7
-    org.grails:grails-shell 4.0.7
-    org.grails:grails-spring 4.0.7
-    org.grails:grails-test 4.0.7
-    org.grails:grails-test-suite-base 4.0.7
-    org.grails:grails-test-suite-persistence 4.0.7
-    org.grails:grails-test-suite-uber 4.0.7
-    org.grails:grails-test-suite-web 4.0.7
+    org.grails:grails-gradle-model 4.0.8
+    org.grails:grails-gradle-plugin 4.0.8
+    org.grails:grails-logging 4.0.8
+    org.grails:grails-plugin-codecs 4.0.8
+    org.grails:grails-plugin-controllers 4.0.8
+    org.grails:grails-plugin-databinding 4.0.8
+    org.grails:grails-plugin-datasource 4.0.8
+    org.grails:grails-plugin-domain-class 4.0.8
+    org.grails:grails-plugin-i18n 4.0.8
+    org.grails:grails-plugin-interceptors 4.0.8
+    org.grails:grails-plugin-mimetypes 4.0.8
+    org.grails:grails-plugin-rest 4.0.8
+    org.grails:grails-plugin-services 4.0.8
+    org.grails:grails-plugin-url-mappings 4.0.8
+    org.grails:grails-plugin-validation 4.0.8
+    org.grails:grails-shell 4.0.8
+    org.grails:grails-spring 4.0.8
+    org.grails:grails-test 4.0.8
+    org.grails:grails-test-suite-base 4.0.8
+    org.grails:grails-test-suite-persistence 4.0.8
+    org.grails:grails-test-suite-uber 4.0.8
+    org.grails:grails-test-suite-web 4.0.8
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.7
-    org.grails:grails-web-boot 4.0.7
-    org.grails:grails-web-common 4.0.7
-    org.grails:grails-web-databinding 4.0.7
-    org.grails:grails-web-fileupload 4.0.7
-    org.grails:grails-web-mvc 4.0.7
+    org.grails:grails-web 4.0.8
+    org.grails:grails-web-boot 4.0.8
+    org.grails:grails-web-common 4.0.8
+    org.grails:grails-web-databinding 4.0.8
+    org.grails:grails-web-fileupload 4.0.8
+    org.grails:grails-web-mvc 4.0.8
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.7
+    org.grails:grails-web-url-mappings 4.0.8
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
@@ -15135,11 +15135,11 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.7
-    org.grails:grails-codecs 4.0.7
-    org.grails:grails-console 4.0.7
-    org.grails:grails-core 4.0.7
-    org.grails:grails-databinding 4.0.7
+    org.grails:grails-bootstrap 4.0.8
+    org.grails:grails-codecs 4.0.8
+    org.grails:grails-console 4.0.8
+    org.grails:grails-core 4.0.8
+    org.grails:grails-databinding 4.0.8
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -15150,44 +15150,44 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.7
-    org.grails:grails-docs 4.0.7
-    org.grails:grails-encoder 4.0.7
+    org.grails:grails-dependencies 4.0.8
+    org.grails:grails-docs 4.0.8
+    org.grails:grails-encoder 4.0.8
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.7
-    org.grails:grails-gradle-plugin 4.0.7
-    org.grails:grails-logging 4.0.7
-    org.grails:grails-plugin-codecs 4.0.7
-    org.grails:grails-plugin-controllers 4.0.7
-    org.grails:grails-plugin-databinding 4.0.7
-    org.grails:grails-plugin-datasource 4.0.7
-    org.grails:grails-plugin-domain-class 4.0.7
-    org.grails:grails-plugin-i18n 4.0.7
-    org.grails:grails-plugin-interceptors 4.0.7
-    org.grails:grails-plugin-mimetypes 4.0.7
-    org.grails:grails-plugin-rest 4.0.7
-    org.grails:grails-plugin-services 4.0.7
-    org.grails:grails-plugin-url-mappings 4.0.7
-    org.grails:grails-plugin-validation 4.0.7
-    org.grails:grails-shell 4.0.7
-    org.grails:grails-spring 4.0.7
-    org.grails:grails-test 4.0.7
-    org.grails:grails-test-suite-base 4.0.7
-    org.grails:grails-test-suite-persistence 4.0.7
-    org.grails:grails-test-suite-uber 4.0.7
-    org.grails:grails-test-suite-web 4.0.7
+    org.grails:grails-gradle-model 4.0.8
+    org.grails:grails-gradle-plugin 4.0.8
+    org.grails:grails-logging 4.0.8
+    org.grails:grails-plugin-codecs 4.0.8
+    org.grails:grails-plugin-controllers 4.0.8
+    org.grails:grails-plugin-databinding 4.0.8
+    org.grails:grails-plugin-datasource 4.0.8
+    org.grails:grails-plugin-domain-class 4.0.8
+    org.grails:grails-plugin-i18n 4.0.8
+    org.grails:grails-plugin-interceptors 4.0.8
+    org.grails:grails-plugin-mimetypes 4.0.8
+    org.grails:grails-plugin-rest 4.0.8
+    org.grails:grails-plugin-services 4.0.8
+    org.grails:grails-plugin-url-mappings 4.0.8
+    org.grails:grails-plugin-validation 4.0.8
+    org.grails:grails-shell 4.0.8
+    org.grails:grails-spring 4.0.8
+    org.grails:grails-test 4.0.8
+    org.grails:grails-test-suite-base 4.0.8
+    org.grails:grails-test-suite-persistence 4.0.8
+    org.grails:grails-test-suite-uber 4.0.8
+    org.grails:grails-test-suite-web 4.0.8
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.7
-    org.grails:grails-web-boot 4.0.7
-    org.grails:grails-web-common 4.0.7
-    org.grails:grails-web-databinding 4.0.7
-    org.grails:grails-web-fileupload 4.0.7
-    org.grails:grails-web-mvc 4.0.7
+    org.grails:grails-web 4.0.8
+    org.grails:grails-web-boot 4.0.8
+    org.grails:grails-web-common 4.0.8
+    org.grails:grails-web-databinding 4.0.8
+    org.grails:grails-web-fileupload 4.0.8
+    org.grails:grails-web-mvc 4.0.8
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.7
+    org.grails:grails-web-url-mappings 4.0.8
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
@@ -16106,11 +16106,11 @@ testImplementation - Dependency management for the testImplementation configurat
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.7
-    org.grails:grails-codecs 4.0.7
-    org.grails:grails-console 4.0.7
-    org.grails:grails-core 4.0.7
-    org.grails:grails-databinding 4.0.7
+    org.grails:grails-bootstrap 4.0.8
+    org.grails:grails-codecs 4.0.8
+    org.grails:grails-console 4.0.8
+    org.grails:grails-core 4.0.8
+    org.grails:grails-databinding 4.0.8
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -16121,44 +16121,44 @@ testImplementation - Dependency management for the testImplementation configurat
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.7
-    org.grails:grails-docs 4.0.7
-    org.grails:grails-encoder 4.0.7
+    org.grails:grails-dependencies 4.0.8
+    org.grails:grails-docs 4.0.8
+    org.grails:grails-encoder 4.0.8
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.7
-    org.grails:grails-gradle-plugin 4.0.7
-    org.grails:grails-logging 4.0.7
-    org.grails:grails-plugin-codecs 4.0.7
-    org.grails:grails-plugin-controllers 4.0.7
-    org.grails:grails-plugin-databinding 4.0.7
-    org.grails:grails-plugin-datasource 4.0.7
-    org.grails:grails-plugin-domain-class 4.0.7
-    org.grails:grails-plugin-i18n 4.0.7
-    org.grails:grails-plugin-interceptors 4.0.7
-    org.grails:grails-plugin-mimetypes 4.0.7
-    org.grails:grails-plugin-rest 4.0.7
-    org.grails:grails-plugin-services 4.0.7
-    org.grails:grails-plugin-url-mappings 4.0.7
-    org.grails:grails-plugin-validation 4.0.7
-    org.grails:grails-shell 4.0.7
-    org.grails:grails-spring 4.0.7
-    org.grails:grails-test 4.0.7
-    org.grails:grails-test-suite-base 4.0.7
-    org.grails:grails-test-suite-persistence 4.0.7
-    org.grails:grails-test-suite-uber 4.0.7
-    org.grails:grails-test-suite-web 4.0.7
+    org.grails:grails-gradle-model 4.0.8
+    org.grails:grails-gradle-plugin 4.0.8
+    org.grails:grails-logging 4.0.8
+    org.grails:grails-plugin-codecs 4.0.8
+    org.grails:grails-plugin-controllers 4.0.8
+    org.grails:grails-plugin-databinding 4.0.8
+    org.grails:grails-plugin-datasource 4.0.8
+    org.grails:grails-plugin-domain-class 4.0.8
+    org.grails:grails-plugin-i18n 4.0.8
+    org.grails:grails-plugin-interceptors 4.0.8
+    org.grails:grails-plugin-mimetypes 4.0.8
+    org.grails:grails-plugin-rest 4.0.8
+    org.grails:grails-plugin-services 4.0.8
+    org.grails:grails-plugin-url-mappings 4.0.8
+    org.grails:grails-plugin-validation 4.0.8
+    org.grails:grails-shell 4.0.8
+    org.grails:grails-spring 4.0.8
+    org.grails:grails-test 4.0.8
+    org.grails:grails-test-suite-base 4.0.8
+    org.grails:grails-test-suite-persistence 4.0.8
+    org.grails:grails-test-suite-uber 4.0.8
+    org.grails:grails-test-suite-web 4.0.8
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.7
-    org.grails:grails-web-boot 4.0.7
-    org.grails:grails-web-common 4.0.7
-    org.grails:grails-web-databinding 4.0.7
-    org.grails:grails-web-fileupload 4.0.7
-    org.grails:grails-web-mvc 4.0.7
+    org.grails:grails-web 4.0.8
+    org.grails:grails-web-boot 4.0.8
+    org.grails:grails-web-common 4.0.8
+    org.grails:grails-web-databinding 4.0.8
+    org.grails:grails-web-fileupload 4.0.8
+    org.grails:grails-web-mvc 4.0.8
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.7
+    org.grails:grails-web-url-mappings 4.0.8
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
@@ -17076,11 +17076,11 @@ testRuntime - Dependency management for the testRuntime configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.7
-    org.grails:grails-codecs 4.0.7
-    org.grails:grails-console 4.0.7
-    org.grails:grails-core 4.0.7
-    org.grails:grails-databinding 4.0.7
+    org.grails:grails-bootstrap 4.0.8
+    org.grails:grails-codecs 4.0.8
+    org.grails:grails-console 4.0.8
+    org.grails:grails-core 4.0.8
+    org.grails:grails-databinding 4.0.8
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -17091,44 +17091,44 @@ testRuntime - Dependency management for the testRuntime configuration
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.7
-    org.grails:grails-docs 4.0.7
-    org.grails:grails-encoder 4.0.7
+    org.grails:grails-dependencies 4.0.8
+    org.grails:grails-docs 4.0.8
+    org.grails:grails-encoder 4.0.8
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.7
-    org.grails:grails-gradle-plugin 4.0.7
-    org.grails:grails-logging 4.0.7
-    org.grails:grails-plugin-codecs 4.0.7
-    org.grails:grails-plugin-controllers 4.0.7
-    org.grails:grails-plugin-databinding 4.0.7
-    org.grails:grails-plugin-datasource 4.0.7
-    org.grails:grails-plugin-domain-class 4.0.7
-    org.grails:grails-plugin-i18n 4.0.7
-    org.grails:grails-plugin-interceptors 4.0.7
-    org.grails:grails-plugin-mimetypes 4.0.7
-    org.grails:grails-plugin-rest 4.0.7
-    org.grails:grails-plugin-services 4.0.7
-    org.grails:grails-plugin-url-mappings 4.0.7
-    org.grails:grails-plugin-validation 4.0.7
-    org.grails:grails-shell 4.0.7
-    org.grails:grails-spring 4.0.7
-    org.grails:grails-test 4.0.7
-    org.grails:grails-test-suite-base 4.0.7
-    org.grails:grails-test-suite-persistence 4.0.7
-    org.grails:grails-test-suite-uber 4.0.7
-    org.grails:grails-test-suite-web 4.0.7
+    org.grails:grails-gradle-model 4.0.8
+    org.grails:grails-gradle-plugin 4.0.8
+    org.grails:grails-logging 4.0.8
+    org.grails:grails-plugin-codecs 4.0.8
+    org.grails:grails-plugin-controllers 4.0.8
+    org.grails:grails-plugin-databinding 4.0.8
+    org.grails:grails-plugin-datasource 4.0.8
+    org.grails:grails-plugin-domain-class 4.0.8
+    org.grails:grails-plugin-i18n 4.0.8
+    org.grails:grails-plugin-interceptors 4.0.8
+    org.grails:grails-plugin-mimetypes 4.0.8
+    org.grails:grails-plugin-rest 4.0.8
+    org.grails:grails-plugin-services 4.0.8
+    org.grails:grails-plugin-url-mappings 4.0.8
+    org.grails:grails-plugin-validation 4.0.8
+    org.grails:grails-shell 4.0.8
+    org.grails:grails-spring 4.0.8
+    org.grails:grails-test 4.0.8
+    org.grails:grails-test-suite-base 4.0.8
+    org.grails:grails-test-suite-persistence 4.0.8
+    org.grails:grails-test-suite-uber 4.0.8
+    org.grails:grails-test-suite-web 4.0.8
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.7
-    org.grails:grails-web-boot 4.0.7
-    org.grails:grails-web-common 4.0.7
-    org.grails:grails-web-databinding 4.0.7
-    org.grails:grails-web-fileupload 4.0.7
-    org.grails:grails-web-mvc 4.0.7
+    org.grails:grails-web 4.0.8
+    org.grails:grails-web-boot 4.0.8
+    org.grails:grails-web-common 4.0.8
+    org.grails:grails-web-databinding 4.0.8
+    org.grails:grails-web-fileupload 4.0.8
+    org.grails:grails-web-mvc 4.0.8
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.7
+    org.grails:grails-web-url-mappings 4.0.8
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
@@ -18046,11 +18046,11 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.7
-    org.grails:grails-codecs 4.0.7
-    org.grails:grails-console 4.0.7
-    org.grails:grails-core 4.0.7
-    org.grails:grails-databinding 4.0.7
+    org.grails:grails-bootstrap 4.0.8
+    org.grails:grails-codecs 4.0.8
+    org.grails:grails-console 4.0.8
+    org.grails:grails-core 4.0.8
+    org.grails:grails-databinding 4.0.8
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -18061,44 +18061,44 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.7
-    org.grails:grails-docs 4.0.7
-    org.grails:grails-encoder 4.0.7
+    org.grails:grails-dependencies 4.0.8
+    org.grails:grails-docs 4.0.8
+    org.grails:grails-encoder 4.0.8
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.7
-    org.grails:grails-gradle-plugin 4.0.7
-    org.grails:grails-logging 4.0.7
-    org.grails:grails-plugin-codecs 4.0.7
-    org.grails:grails-plugin-controllers 4.0.7
-    org.grails:grails-plugin-databinding 4.0.7
-    org.grails:grails-plugin-datasource 4.0.7
-    org.grails:grails-plugin-domain-class 4.0.7
-    org.grails:grails-plugin-i18n 4.0.7
-    org.grails:grails-plugin-interceptors 4.0.7
-    org.grails:grails-plugin-mimetypes 4.0.7
-    org.grails:grails-plugin-rest 4.0.7
-    org.grails:grails-plugin-services 4.0.7
-    org.grails:grails-plugin-url-mappings 4.0.7
-    org.grails:grails-plugin-validation 4.0.7
-    org.grails:grails-shell 4.0.7
-    org.grails:grails-spring 4.0.7
-    org.grails:grails-test 4.0.7
-    org.grails:grails-test-suite-base 4.0.7
-    org.grails:grails-test-suite-persistence 4.0.7
-    org.grails:grails-test-suite-uber 4.0.7
-    org.grails:grails-test-suite-web 4.0.7
+    org.grails:grails-gradle-model 4.0.8
+    org.grails:grails-gradle-plugin 4.0.8
+    org.grails:grails-logging 4.0.8
+    org.grails:grails-plugin-codecs 4.0.8
+    org.grails:grails-plugin-controllers 4.0.8
+    org.grails:grails-plugin-databinding 4.0.8
+    org.grails:grails-plugin-datasource 4.0.8
+    org.grails:grails-plugin-domain-class 4.0.8
+    org.grails:grails-plugin-i18n 4.0.8
+    org.grails:grails-plugin-interceptors 4.0.8
+    org.grails:grails-plugin-mimetypes 4.0.8
+    org.grails:grails-plugin-rest 4.0.8
+    org.grails:grails-plugin-services 4.0.8
+    org.grails:grails-plugin-url-mappings 4.0.8
+    org.grails:grails-plugin-validation 4.0.8
+    org.grails:grails-shell 4.0.8
+    org.grails:grails-spring 4.0.8
+    org.grails:grails-test 4.0.8
+    org.grails:grails-test-suite-base 4.0.8
+    org.grails:grails-test-suite-persistence 4.0.8
+    org.grails:grails-test-suite-uber 4.0.8
+    org.grails:grails-test-suite-web 4.0.8
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.7
-    org.grails:grails-web-boot 4.0.7
-    org.grails:grails-web-common 4.0.7
-    org.grails:grails-web-databinding 4.0.7
-    org.grails:grails-web-fileupload 4.0.7
-    org.grails:grails-web-mvc 4.0.7
+    org.grails:grails-web 4.0.8
+    org.grails:grails-web-boot 4.0.8
+    org.grails:grails-web-common 4.0.8
+    org.grails:grails-web-databinding 4.0.8
+    org.grails:grails-web-fileupload 4.0.8
+    org.grails:grails-web-mvc 4.0.8
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.7
+    org.grails:grails-web-url-mappings 4.0.8
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
@@ -18485,7 +18485,7 @@ testRuntimeOnly - Dependency management for the testRuntimeOnly configuration
 No configuration-specific dependency management
 
 
-[32;1mBUILD SUCCESSFUL[0;39m in 4s
+[32;1mBUILD SUCCESSFUL[0;39m in 5s
 1 actionable task: 1 executed
 [0K
 [0K
@@ -18496,4 +18496,4 @@ No configuration-specific dependency management
 [0K
 [0K
 [0K
-[9A[1m<[0;1m-------------> 0% WAITING[m[26D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B[9A[2K[1B[2K[1B[2K[1B[2K[1B[2K[1B[2K[1B[2K[1B[2K[1B[2K[8A
+[9A[1m<[0;1m-------------> 0% WAITING[m[26D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B[1m> :dependencyManagement[m[23D[1B[9A[2K[1B[2K[1B[2K[1B[2K[1B[2K[1B[2K[1B[2K[1B[2K[1B[2K[8A[1m<[0;1m-------------> 0% WAITING[m[26D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B
