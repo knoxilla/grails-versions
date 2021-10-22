@@ -1,17 +1,17 @@
 
 
-[2A[1m<[0;1m-------------> 0% CONFIGURING [31ms][m[37D[1B[1m> root project > Compiling build file '/Users/tknox/git/grails-versions/versions/build.gradle'[m[94D[1B
-[3A[1m<[0;1m-------------> 0% CONFIGURING [134ms][m[0K[38D[1B[1m> root project > Resolve dependencies of :classpath > hibernate5-7.1.0.M5.pom[m[0K[77D[1B[1m> root project > Resolve dependencies of :classpath > grails-gradle-plugin-4.1.0.M5.pom[m[87D[1B[3A[1m<[0;1m-------------> 0% CONFIGURING [233ms][m[38D[3B[3A[1m<[0;1m-------------> 0% CONFIGURING [334ms][m[38D[1B> IDLE[0K[6D[1B[1m> root project > Resolve dependencies of :classpath > grails-gradle-plugin-4.1.0.M5.module[m[90D[1B[3A[1m<[0;1m-------------> 0% CONFIGURING [432ms][m[38D[2B[1m> root project > Resolve dependencies of :classpath > hibernate5-7.1.0.M5.module[m[0K[80D[1B
-[4A[1m<[0;1m-------------> 0% CONFIGURING [534ms][m[38D[1B[1m> root project > Resolve dependencies of :classpath > grails-bootstrap-4.1.0.M5.pom[m[83D[1B[1m> root project > Resolve dependencies of :classpath > grails-gradle-model-4.1.0.M5.pom[m[86D[1B[1m> root project > Resolve dependencies of :classpath > grails-shell-4.1.0.M5.pom[m[79D[1B[4A[1m<[0;1m-------------> 0% CONFIGURING [632ms][m[38D[1B> IDLE[0K[6D[1B> IDLE[0K[6D[1B[1m> root project > Resolve dependencies of :classpath > grails-shell-4.1.0.M5.pom > 5 KB/9 KB downloaded[m[102D[1B[4A[1m<[0;1m-------------> 0% CONFIGURING [734ms][m[38D[3B[1m> root project > Resolve dependencies of :classpath > grails-datastore-gorm-hibernate5-7.1.0.M5.pom[m[0K[99D[1B[4A[1m<[0;1m-------------> 0% CONFIGURING [831ms][m[38D[3B[1m> root project > Resolve dependencies of :classpath > grails-datastore-gorm-hibernate5-7.1.0.M5.module[m[102D[1B
+[2A[1m<[0;1m-------------> 0% CONFIGURING [67ms][m[37D[1B[1m> root project > Resolve dependencies of :classpath > grails-gradle-plugin-5.0.0.M1.pom[m[87D[1B[2A[1m<[0;1m-------------> 0% CONFIGURING [167ms][m[38D[2B[2A[1m<[0;1m-------------> 0% CONFIGURING [267ms][m[38D[1B[1m> root project > Resolve dependencies of :classpath > grails-gradle-plugin-5.0.0.M1.module[m[90D[1B[2A[1m<[0;1m-------------> 0% CONFIGURING [369ms][m[38D[2B[2A[1m<[0;1m-------------> 0% CONFIGURING [467ms][m[38D[2B[2A[1m<[0;1m-------------> 0% CONFIGURING [567ms][m[38D[2B[2A[1m<[0;1m-------------> 0% CONFIGURING [669ms][m[38D[2B
+
+[4A[1m<[0;1m-------------> 0% CONFIGURING [768ms][m[38D[1B[1m> root project > Resolve dependencies of :classpath > grails-bootstrap-5.0.0.M1.pom[m[0K[83D[1B[1m> root project > Resolve dependencies of :classpath > grails-gradle-model-5.0.0.M1.pom[m[86D[1B[1m> root project > Resolve dependencies of :classpath > grails-shell-5.0.0.M1.pom[m[79D[1B[4A[1m<[0;1m-------------> 0% CONFIGURING [868ms][m[38D[2B[1m> root project > Resolve dependencies of :classpath > grails-gradle-model-5.0.0.M1.module[m[89D[1B[1m> root project > Resolve dependencies of :classpath > grails-shell-5.0.0.M1.pom > 5 KB/9 KB downloaded[m[102D[1B[4A[1m<[0;1m-------------> 0% CONFIGURING [969ms][m[38D[1B[1m> root project > Resolve dependencies of :classpath > grails-bootstrap-5.0.0.M1.module[m[86D[2B[1m> root project > Resolve dependencies of :classpath > grails-shell-5.0.0.M1.module[m[0K[82D[1B[4A[1m<[0;1m-------------> 0% CONFIGURING [1s][m[0K[35D[4B[2A> IDLE[0K[6D[1B> IDLE[0K[6D[1B[4A[1m<[0;1m-------------> 0% CONFIGURING [2s][m[35D[1B[1m> root project > Resolve dependencies of :classpath[m[0K[51D[3B[3A[1m> root project > Resolve dependencies of :classpath > httpcore-4.4.10.pom[m[73D[3B[3A[1m> root project > Resolve dependencies of :classpath > httpcomponents-core-4.4.10.pom > 11 KB/13 KB downloaded[m[109D[3B
+[5A[35C[0K[35D[1B[1m> root project > Resolve files of :classpath > grails-gradle-plugin-5.0.0.M1.jar[m[0K[80D[1B[1m> root project > Resolve files of :classpath > grails-gradle-model-5.0.0.M1.jar[m[79D[1B[1m> root project > Resolve files of :classpath > grails-shell-5.0.0.M1.jar[m[72D[1B[1m> root project > Resolve files of :classpath > grails-bootstrap-5.0.0.M1.jar[m[76D[1B[3A> IDLE[0K[6D[3B[4A[1m> root project > Resolve files of :classpath > grails-gradle-plugin-5.0.0.M1.jar > 197 KB/354 KB downloaded[m[107D[2B[1m> root project > Resolve files of :classpath > grails-shell-5.0.0.M1.jar > 56 KB/459 KB downloaded[m[98D[1B[1m> root project > Resolve files of :classpath > grails-bootstrap-5.0.0.M1.jar > 153 KB/250 KB downloaded[m[103D[1B[4A> IDLE[0K[6D[2B[1m> root project[m[0K[14D[1B> IDLE[0K[6D[1B[2A[1m> root project > Compiling build file '/Users/tknox/git/grails-versions/versions/build.gradle'[m[94D[2B[2A[1m> root project[m[0K[14D[2B[5A[1m<[0;1m-------------> 0% CONFIGURING [3s][m[35D[5B[2A[1m> root project > Resolve dependencies of :agent > Resolve dependencies of :detachedConfiguration1[m[97D[2B[2A[1m> root project > Resolve dependencies of :agent[m[0K[47D[2B[2A[1m> root project > Resolve dependencies of :agent > Resolve dependencies of :detachedConfiguration8[m[97D[2B[2A[1m> root project > Resolve dependencies of :agent > Resolve dependencies of :detachedConfiguration26[m[98D[2B
 
 
-[7A[1m<[0;1m-------------> 0% CONFIGURING [936ms][m[0K[38D[1B[1m> root project > Resolve files of :classpath > grails-shell-4.1.0.M5.jar[m[72D[1B[1m> root project > Resolve files of :classpath > hibernate5-7.1.0.M5.jar[m[70D[1B[1m> root project > Resolve files of :classpath > grails-gradle-plugin-4.1.0.M5.jar[m[0K[80D[1B[1m> root project > Resolve files of :classpath > grails-gradle-model-4.1.0.M5.jar[m[79D[1B[1m> root project > Resolve files of :classpath > grails-bootstrap-4.1.0.M5.jar[m[76D[1B[1m> root project > Resolve files of :classpath > grails-datastore-gorm-hibernate5-7.1.0.M5.jar[m[92D[1B[7A[1m<[0;1m-------------> 0% CONFIGURING [1s][m[0K[35D[7B[5A[1m> root project > Resolve files of :classpath > hibernate5-7.1.0.M5.jar > 47 KB/52 KB downloaded[m[95D[5B[6A[1m> root project > Resolve files of :classpath > grails-shell-4.1.0.M5.jar > 421 KB/459 KB downloaded[m[99D[1B> IDLE[0K[6D[1B> IDLE[0K[6D[1B> IDLE[0K[6D[1B[1m> root project > Resolve files of :classpath > grails-bootstrap-4.1.0.M5.jar > 201 KB/250 KB downloaded[m[103D[1B[1m> root project > Resolve files of :classpath > grails-datastore-gorm-hibernate5-7.1.0.M5.jar > 105 KB/534 KB downloaded[m[119D[1B[6A> IDLE[0K[6D[4B> IDLE[0K[6D[1B[1m> root project[m[0K[14D[1B[1A[1m> root project > Compiling build file '/Users/tknox/git/grails-versions/versions/build.gradle'[m[94D[1B[1A[1m> root project[m[0K[14D[1B[7A[1m<[0;1m-------------> 0% CONFIGURING [2s][m[35D[6B[1m> root project > Resolve dependencies of :agent[m[47D[1B
 
-[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-rest-4.1.0.M5.pom[m[92D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-interceptors-4.1.0.M5.pom[m[100D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-databinding-4.1.0.M5.pom[m[99D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-logging-4.1.0.M5.pom[m[88D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-url-mappings-4.1.0.M5.pom[m[100D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-boot-4.1.0.M5.pom[m[89D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-i18n-4.1.0.M5.pom[m[92D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-core-4.1.0.M5.pom[m[85D[1B[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-rest-4.1.0.M5.module[m[95D[2B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-databinding-4.1.0.M5.module[m[102D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-logging-4.1.0.M5.module[m[91D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-url-mappings-4.1.0.M5.module[m[103D[2B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-i18n-4.1.0.M5.module[m[95D[2B[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-boot-4.1.0.M5.module[m[0K[92D[2B> IDLE[0K[6D[1B> IDLE[0K[6D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-services-4.1.0.M5.pom[m[0K[96D[1B> IDLE[0K[6D[1B> IDLE[0K[6D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-core-4.1.0.M5.module[m[88D[1B[8A> IDLE[0K[6D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-interceptors-4.1.0.M5.module > 3 KB/6 KB downloaded[m[126D[3B> IDLE[0K[6D[3B> IDLE[0K[6D[1B[7A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-spring-4.1.0.M5.module[m[0K[90D[7B[9A[1m<[0;1m-------------> 0% CONFIGURING [3s][m[35D[2B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-common-4.1.0.M5.pom[m[91D[7B[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-datasource-4.1.0.M5.pom[m[98D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-4.1.0.M5.pom[m[0K[84D[6B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-controllers-4.1.0.M5.pom[m[99D[1B[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-4.1.0.M5.module[m[0K[87D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-controllers-4.1.0.M5.module[m[102D[6B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-datasource-4.1.0.M5.module[m[101D[1B[8A> IDLE[0K[6D[1B> IDLE[0K[6D[7B[1A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-codecs-4.1.0.M5.pom[m[0K[94D[1B[7A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-databinding-4.1.0.M5.pom[m[92D[6B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-encoder-4.1.0.M5.pom[m[0K[88D[1B[7A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-databinding-4.1.0.M5.module[m[95D[6B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-encoder-4.1.0.M5.module[m[91D[1B[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-url-mappings-4.1.0.M5.module[m[100D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-databinding-4.1.0.M5.module[m[99D[3B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-fileupload-4.1.0.M5.module[m[98D[3B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-mvc-4.1.0.M5.module[m[91D[1B[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-mimetypes-4.1.0.M5.pom[m[0K[97D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-validation-4.1.0.M5.pom[m[0K[98D[3B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-domain-class-4.1.0.M5.pom[m[100D[3B> IDLE[0K[6D[1B[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-mimetypes-4.1.0.M5.module[m[100D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-validation-4.1.0.M5.module[m[101D[3B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-domain-class-4.1.0.M5.module[m[103D[4B[9A[1m<[0;1m-------------> 0% CONFIGURING [4s][m[35D[1B> IDLE[0K[6D[1B> IDLE[0K[6D[3B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-codecs-4.1.0.M5.pom[m[0K[87D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-codecs-4.1.0.M5.module[m[90D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-logging-4.1.0.M5.jar[m[0K[88D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-databinding-4.1.0.M5.jar[m[99D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-databinding-4.1.0.M5.jar > 221 KB/351 KB downloaded[m[126D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-services-4.1.0.M5.jar[m[0K[96D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-boot-4.1.0.M5.jar[m[0K[89D[4B[9A[1m<[0;1m-------------> 0% CONFIGURING [5s][m[35D[5B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-rest-4.1.0.M5.jar[m[92D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-rest-4.1.0.M5.jar > 37 KB/210 KB downloaded[m[118D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-interceptors-4.1.0.M5.jar[m[0K[100D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-url-mappings-4.1.0.M5.jar[m[100D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-controllers-4.1.0.M5.jar[m[0K[99D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-i18n-4.1.0.M5.jar[m[0K[92D[4B[9A[1m<[0;1m-------------> 0% CONFIGURING [6s][m[35D[5B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-codecs-4.1.0.M5.jar[m[94D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-mimetypes-4.1.0.M5.jar[m[97D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-domain-class-4.1.0.M5.jar[m[100D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-validation-4.1.0.M5.jar[m[0K[98D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-4.1.0.M5.jar[m[0K[84D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-databinding-4.1.0.M5.jar[m[96D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-fileupload-4.1.0.M5.jar[m[0K[95D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-mvc-4.1.0.M5.jar[m[0K[88D[4B[9A[1m<[0;1m-------------> 0% CONFIGURING [7s][m[35D[5B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-url-mappings-4.1.0.M5.jar[m[97D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-url-mappings-4.1.0.M5.jar > 165 KB/180 KB downloaded[m[124D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-common-4.1.0.M5.jar[m[0K[91D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-datasource-4.1.0.M5.jar[m[98D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-encoder-4.1.0.M5.jar[m[0K[88D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-encoder-4.1.0.M5.jar > 101 KB/180 KB downloaded[m[115D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-core-4.1.0.M5.jar[m[0K[85D[4B[9A[1m<[0;1m-------------> 0% CONFIGURING [8s][m[35D[9B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-core-4.1.0.M5.jar > 85 KB/717 KB downloaded[m[111D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-spring-4.1.0.M5.jar[m[0K[87D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-databinding-4.1.0.M5.jar[m[92D[4B[4A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-codecs-4.1.0.M5.jar[m[0K[87D[4B[4A[1m> root project > Resolve dependencies of :console > grails-console-4.1.0.M5.pom[m[0K[79D[4B[9A[1m<[0;1m-------------> 0% CONFIGURING [9s][m[35D[5B[1m> root project > Resolve dependencies of :console > grails-console-4.1.0.M5.pom > 5 KB/6 KB downloaded[m[102D[4B[4A[1m> root project > Resolve dependencies of :console > grails-console-4.1.0.M5.jar[m[0K[79D[4B[9A[1m<[0;1m-------------> 0% EXECUTING [9s][m[0K[33D[5B[1m> :dependencyManagement[m[0K[23D[4B[9A[0K
+[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-services-5.0.0.M1.pom[m[96D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-url-mappings-5.0.0.M1.pom[m[100D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-boot-5.0.0.M1.pom[m[0K[89D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-interceptors-5.0.0.M1.pom[m[100D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-rest-5.0.0.M1.pom[m[92D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-i18n-5.0.0.M1.pom[m[92D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-databinding-5.0.0.M1.pom[m[99D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-logging-5.0.0.M1.pom[m[88D[1B[9A[1m<[0;1m-------------> 0% CONFIGURING [4s][m[35D[9B[4A> IDLE[0K[6D[1B> IDLE[0K[6D[2B> IDLE[0K[6D[1B[8A> IDLE[0K[6D[1B> IDLE[0K[6D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-rest-5.0.0.M1.module[m[95D[1B> IDLE[0K[6D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-i18n-5.0.0.M1.module[m[95D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-logging-5.0.0.M1.module[m[91D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-databinding-5.0.0.M1.module[m[102D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-boot-5.0.0.M1.module[m[92D[1B[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-url-mappings-5.0.0.M1.module[m[103D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-interceptors-5.0.0.M1.module[m[103D[2B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-services-5.0.0.M1.module[m[99D[5B[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-core-5.0.0.M1.pom > 5 KB/10 KB downloaded[m[109D[8B[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-core-5.0.0.M1.module[m[0K[88D[4B> IDLE[0K[6D[4B[9A[1m<[0;1m-------------> 0% CONFIGURING [5s][m[35D[7B> IDLE[0K[6D[1B> IDLE[0K[6D[1B[7A> IDLE[0K[6D[7B[6A> IDLE[0K[6D[1B> IDLE[0K[6D[5B[3A> IDLE[0K[6D[3B[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-spring-5.0.0.M1.pom[m[0K[87D[8B[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-spring-5.0.0.M1.module[m[90D[8B[9A[1m<[0;1m-------------> 0% CONFIGURING [6s][m[35D[9B[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-common-5.0.0.M1.pom[m[91D[8B[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-common-5.0.0.M1.module[m[94D[8B[9A[1m<[0;1m-------------> 0% CONFIGURING [7s][m[35D[9B[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-datasource-5.0.0.M1.pom[m[98D[3B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-controllers-5.0.0.M1.pom[m[99D[2B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-5.0.0.M1.pom[m[84D[3B[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-datasource-5.0.0.M1.module[m[101D[3B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-5.0.0.M1.module[m[0K[87D[2B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-controllers-5.0.0.M1.module[m[102D[3B[9A[1m<[0;1m-------------> 0% CONFIGURING [8s][m[35D[9B[8A> IDLE[0K[6D[3B> IDLE[0K[6D[5B[3A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-codecs-5.0.0.M1.pom[m[0K[94D[3B[3A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-codecs-5.0.0.M1.module[m[97D[3B[9A[1m<[0;1m-------------> 0% CONFIGURING [9s][m[35D[9B[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-databinding-5.0.0.M1.pom[m[92D[5B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-encoder-5.0.0.M1.pom[m[0K[88D[3B[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-databinding-5.0.0.M1.module[m[95D[5B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-encoder-5.0.0.M1.module[m[91D[3B[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-databinding-5.0.0.M1.pom[m[96D[3B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-mvc-5.0.0.M1.pom[m[88D[2B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-url-mappings-5.0.0.M1.pom[m[97D[3B[8A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-url-mappings-5.0.0.M1.module[m[100D[3B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-mvc-5.0.0.M1.module[m[91D[2B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-databinding-5.0.0.M1.module[m[99D[3B[9A[1m<[0;1m-------------> 0% CONFIGURING [10s][m[36D[9B[8A> IDLE[0K[6D[5B> IDLE[0K[6D[3B[5A[1m> root project > Resolve dependencies of :runtimeClasspath[m[0K[58D[5B[9A[1m<[0;1m-------------> 0% CONFIGURING [11s][m[36D[1B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-mimetypes-5.0.0.M1.module[m[100D[3B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-validation-5.0.0.M1.module[m[101D[2B[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-domain-class-5.0.0.M1.module[m[103D[3B[3A> IDLE[0K[6D[3B[9A[1m<[0;1m-------------> 0% CONFIGURING [12s][m[36D[1B> IDLE[0K[6D[8B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-codecs-5.0.0.M1.module[m[0K[90D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-logging-5.0.0.M1.jar[m[0K[88D[5B[9A[1m<[0;1m-------------> 0% CONFIGURING [13s][m[36D[9B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-databinding-5.0.0.M1.jar[m[99D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-databinding-5.0.0.M1.jar > 66 KB/351 KB downloaded[m[125D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-services-5.0.0.M1.jar[m[0K[96D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-boot-5.0.0.M1.jar[m[0K[89D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-rest-5.0.0.M1.jar[m[92D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-rest-5.0.0.M1.jar > 45 KB/210 KB downloaded[m[118D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-interceptors-5.0.0.M1.jar[m[0K[100D[5B[9A[1m<[0;1m-------------> 0% CONFIGURING [14s][m[36D[9B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-url-mappings-5.0.0.M1.jar[m[100D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-controllers-5.0.0.M1.jar[m[0K[99D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-i18n-5.0.0.M1.jar[m[0K[92D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath[m[0K[58D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-codecs-5.0.0.M1.jar[m[94D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-mimetypes-5.0.0.M1.jar[m[97D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-domain-class-5.0.0.M1.jar[m[100D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-validation-5.0.0.M1.jar[m[0K[98D[5B[9A[1m<[0;1m-------------> 0% CONFIGURING [15s][m[36D[9B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-5.0.0.M1.jar[m[0K[84D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-databinding-5.0.0.M1.jar[m[96D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-mvc-5.0.0.M1.jar[m[0K[88D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-url-mappings-5.0.0.M1.jar[m[97D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-web-common-5.0.0.M1.jar[m[0K[91D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-plugin-datasource-5.0.0.M1.jar[m[98D[5B[9A[1m<[0;1m-------------> 0% CONFIGURING [16s][m[36D[9B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-encoder-5.0.0.M1.jar[m[0K[88D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath[m[0K[58D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-core-5.0.0.M1.jar[m[85D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-core-5.0.0.M1.jar > 197 KB/717 KB downloaded[m[112D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath[m[0K[58D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-spring-5.0.0.M1.jar[m[87D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-databinding-5.0.0.M1.jar[m[92D[5B[5A[1m> root project > Resolve dependencies of :runtimeClasspath > grails-codecs-5.0.0.M1.jar[m[0K[87D[5B[5A[1m> root project > Resolve dependencies of :console > grails-console-5.0.0.M1.pom[m[0K[79D[5B[9A[1m<[0;1m-------------> 0% CONFIGURING [17s][m[36D[9B[5A[1m> root project > Resolve dependencies of :console > grails-console-5.0.0.M1.module[m[82D[5B[9A[1m<[0;1m-------------> 0% CONFIGURING [18s][m[36D[9B[5A[1m> root project > Resolve dependencies of :console > grails-console-5.0.0.M1.jar[m[0K[79D[5B[9A[1m<[0;1m-------------> 0% EXECUTING [18s][m[0K[34D[4B[1m> :dependencyManagement[m[0K[23D[5B[9A[0K
 [1m> Task :dependencyManagement[m
 [0K
 ------------------------------------------------------------
-Root project
+Root project[0K
 ------------------------------------------------------------
 [0K
 global - Default dependency management for all configurations
@@ -668,11 +668,11 @@ global - Default dependency management for all configurations
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.1.0.M5
-    org.grails:grails-codecs 4.1.0.M5
-    org.grails:grails-console 4.1.0.M5
-    org.grails:grails-core 4.1.0.M5
-    org.grails:grails-databinding 4.1.0.M5
+    org.grails:grails-bootstrap 5.0.0.M1
+    org.grails:grails-codecs 5.0.0.M1
+    org.grails:grails-console 5.0.0.M1
+    org.grails:grails-core 5.0.0.M1
+    org.grails:grails-databinding 5.0.0.M1
     org.grails:grails-datastore-async 7.1.0.M5
     org.grails:grails-datastore-core 7.1.0.M5
     org.grails:grails-datastore-gorm 7.1.0.M5
@@ -683,44 +683,44 @@ global - Default dependency management for all configurations
     org.grails:grails-datastore-gorm-test 7.1.0.M5
     org.grails:grails-datastore-gorm-validation 7.1.0.M5
     org.grails:grails-datastore-web 7.1.0.M5
-    org.grails:grails-dependencies 4.1.0.M5
-    org.grails:grails-docs 4.1.0.M5
-    org.grails:grails-encoder 4.1.0.M5
+    org.grails:grails-dependencies 5.0.0.M1
+    org.grails:grails-docs 5.0.0.M1
+    org.grails:grails-encoder 5.0.0.M1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.2.0.M4
-    org.grails:grails-gradle-model 4.1.0.M5
-    org.grails:grails-gradle-plugin 4.1.0.M5
-    org.grails:grails-logging 4.1.0.M5
-    org.grails:grails-plugin-codecs 4.1.0.M5
-    org.grails:grails-plugin-controllers 4.1.0.M5
-    org.grails:grails-plugin-databinding 4.1.0.M5
-    org.grails:grails-plugin-datasource 4.1.0.M5
-    org.grails:grails-plugin-domain-class 4.1.0.M5
-    org.grails:grails-plugin-i18n 4.1.0.M5
-    org.grails:grails-plugin-interceptors 4.1.0.M5
-    org.grails:grails-plugin-mimetypes 4.1.0.M5
-    org.grails:grails-plugin-rest 4.1.0.M5
-    org.grails:grails-plugin-services 4.1.0.M5
-    org.grails:grails-plugin-url-mappings 4.1.0.M5
-    org.grails:grails-plugin-validation 4.1.0.M5
-    org.grails:grails-shell 4.1.0.M5
-    org.grails:grails-spring 4.1.0.M5
-    org.grails:grails-test 4.1.0.M5
-    org.grails:grails-test-suite-base 4.1.0.M5
-    org.grails:grails-test-suite-persistence 4.1.0.M5
-    org.grails:grails-test-suite-uber 4.1.0.M5
-    org.grails:grails-test-suite-web 4.1.0.M5
+    org.grails:grails-gradle-model 5.0.0.M1
+    org.grails:grails-gradle-plugin 5.0.0.M1
+    org.grails:grails-logging 5.0.0.M1
+    org.grails:grails-plugin-codecs 5.0.0.M1
+    org.grails:grails-plugin-controllers 5.0.0.M1
+    org.grails:grails-plugin-databinding 5.0.0.M1
+    org.grails:grails-plugin-datasource 5.0.0.M1
+    org.grails:grails-plugin-domain-class 5.0.0.M1
+    org.grails:grails-plugin-i18n 5.0.0.M1
+    org.grails:grails-plugin-interceptors 5.0.0.M1
+    org.grails:grails-plugin-mimetypes 5.0.0.M1
+    org.grails:grails-plugin-rest 5.0.0.M1
+    org.grails:grails-plugin-services 5.0.0.M1
+    org.grails:grails-plugin-url-mappings 5.0.0.M1
+    org.grails:grails-plugin-validation 5.0.0.M1
+    org.grails:grails-shell 5.0.0.M1
+    org.grails:grails-spring 5.0.0.M1
+    org.grails:grails-test 5.0.0.M1
+    org.grails:grails-test-suite-base 5.0.0.M1
+    org.grails:grails-test-suite-persistence 5.0.0.M1
+    org.grails:grails-test-suite-uber 5.0.0.M1
+    org.grails:grails-test-suite-web 5.0.0.M1
     org.grails:grails-testing-support 2.2.0.M4
-    org.grails:grails-web 4.1.0.M5
-    org.grails:grails-web-boot 4.1.0.M5
-    org.grails:grails-web-common 4.1.0.M5
-    org.grails:grails-web-databinding 4.1.0.M5
-    org.grails:grails-web-fileupload 4.1.0.M5
-    org.grails:grails-web-mvc 4.1.0.M5
+    org.grails:grails-web 5.0.0.M1
+    org.grails:grails-web-boot 5.0.0.M1
+    org.grails:grails-web-common 5.0.0.M1
+    org.grails:grails-web-databinding 5.0.0.M1
+    org.grails:grails-web-fileupload 5.0.0.M1
+    org.grails:grails-web-mvc 5.0.0.M1
     org.grails:grails-web-testing-support 2.2.0.M4
-    org.grails:grails-web-url-mappings 4.1.0.M5
+    org.grails:grails-web-url-mappings 5.0.0.M1
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.1.0.M4
     org.grails.plugins:async 4.0.0
@@ -1828,11 +1828,11 @@ compileClasspath - Dependency management for the compileClasspath configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.1.0.M5
-    org.grails:grails-codecs 4.1.0.M5
-    org.grails:grails-console 4.1.0.M5
-    org.grails:grails-core 4.1.0.M5
-    org.grails:grails-databinding 4.1.0.M5
+    org.grails:grails-bootstrap 5.0.0.M1
+    org.grails:grails-codecs 5.0.0.M1
+    org.grails:grails-console 5.0.0.M1
+    org.grails:grails-core 5.0.0.M1
+    org.grails:grails-databinding 5.0.0.M1
     org.grails:grails-datastore-async 7.1.0.M5
     org.grails:grails-datastore-core 7.1.0.M5
     org.grails:grails-datastore-gorm 7.1.0.M5
@@ -1843,44 +1843,44 @@ compileClasspath - Dependency management for the compileClasspath configuration
     org.grails:grails-datastore-gorm-test 7.1.0.M5
     org.grails:grails-datastore-gorm-validation 7.1.0.M5
     org.grails:grails-datastore-web 7.1.0.M5
-    org.grails:grails-dependencies 4.1.0.M5
-    org.grails:grails-docs 4.1.0.M5
-    org.grails:grails-encoder 4.1.0.M5
+    org.grails:grails-dependencies 5.0.0.M1
+    org.grails:grails-docs 5.0.0.M1
+    org.grails:grails-encoder 5.0.0.M1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.2.0.M4
-    org.grails:grails-gradle-model 4.1.0.M5
-    org.grails:grails-gradle-plugin 4.1.0.M5
-    org.grails:grails-logging 4.1.0.M5
-    org.grails:grails-plugin-codecs 4.1.0.M5
-    org.grails:grails-plugin-controllers 4.1.0.M5
-    org.grails:grails-plugin-databinding 4.1.0.M5
-    org.grails:grails-plugin-datasource 4.1.0.M5
-    org.grails:grails-plugin-domain-class 4.1.0.M5
-    org.grails:grails-plugin-i18n 4.1.0.M5
-    org.grails:grails-plugin-interceptors 4.1.0.M5
-    org.grails:grails-plugin-mimetypes 4.1.0.M5
-    org.grails:grails-plugin-rest 4.1.0.M5
-    org.grails:grails-plugin-services 4.1.0.M5
-    org.grails:grails-plugin-url-mappings 4.1.0.M5
-    org.grails:grails-plugin-validation 4.1.0.M5
-    org.grails:grails-shell 4.1.0.M5
-    org.grails:grails-spring 4.1.0.M5
-    org.grails:grails-test 4.1.0.M5
-    org.grails:grails-test-suite-base 4.1.0.M5
-    org.grails:grails-test-suite-persistence 4.1.0.M5
-    org.grails:grails-test-suite-uber 4.1.0.M5
-    org.grails:grails-test-suite-web 4.1.0.M5
+    org.grails:grails-gradle-model 5.0.0.M1
+    org.grails:grails-gradle-plugin 5.0.0.M1
+    org.grails:grails-logging 5.0.0.M1
+    org.grails:grails-plugin-codecs 5.0.0.M1
+    org.grails:grails-plugin-controllers 5.0.0.M1
+    org.grails:grails-plugin-databinding 5.0.0.M1
+    org.grails:grails-plugin-datasource 5.0.0.M1
+    org.grails:grails-plugin-domain-class 5.0.0.M1
+    org.grails:grails-plugin-i18n 5.0.0.M1
+    org.grails:grails-plugin-interceptors 5.0.0.M1
+    org.grails:grails-plugin-mimetypes 5.0.0.M1
+    org.grails:grails-plugin-rest 5.0.0.M1
+    org.grails:grails-plugin-services 5.0.0.M1
+    org.grails:grails-plugin-url-mappings 5.0.0.M1
+    org.grails:grails-plugin-validation 5.0.0.M1
+    org.grails:grails-shell 5.0.0.M1
+    org.grails:grails-spring 5.0.0.M1
+    org.grails:grails-test 5.0.0.M1
+    org.grails:grails-test-suite-base 5.0.0.M1
+    org.grails:grails-test-suite-persistence 5.0.0.M1
+    org.grails:grails-test-suite-uber 5.0.0.M1
+    org.grails:grails-test-suite-web 5.0.0.M1
     org.grails:grails-testing-support 2.2.0.M4
-    org.grails:grails-web 4.1.0.M5
-    org.grails:grails-web-boot 4.1.0.M5
-    org.grails:grails-web-common 4.1.0.M5
-    org.grails:grails-web-databinding 4.1.0.M5
-    org.grails:grails-web-fileupload 4.1.0.M5
-    org.grails:grails-web-mvc 4.1.0.M5
+    org.grails:grails-web 5.0.0.M1
+    org.grails:grails-web-boot 5.0.0.M1
+    org.grails:grails-web-common 5.0.0.M1
+    org.grails:grails-web-databinding 5.0.0.M1
+    org.grails:grails-web-fileupload 5.0.0.M1
+    org.grails:grails-web-mvc 5.0.0.M1
     org.grails:grails-web-testing-support 2.2.0.M4
-    org.grails:grails-web-url-mappings 4.1.0.M5
+    org.grails:grails-web-url-mappings 5.0.0.M1
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.1.0.M4
     org.grails.plugins:async 4.0.0
@@ -2975,11 +2975,11 @@ default - Dependency management for the default configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.1.0.M5
-    org.grails:grails-codecs 4.1.0.M5
-    org.grails:grails-console 4.1.0.M5
-    org.grails:grails-core 4.1.0.M5
-    org.grails:grails-databinding 4.1.0.M5
+    org.grails:grails-bootstrap 5.0.0.M1
+    org.grails:grails-codecs 5.0.0.M1
+    org.grails:grails-console 5.0.0.M1
+    org.grails:grails-core 5.0.0.M1
+    org.grails:grails-databinding 5.0.0.M1
     org.grails:grails-datastore-async 7.1.0.M5
     org.grails:grails-datastore-core 7.1.0.M5
     org.grails:grails-datastore-gorm 7.1.0.M5
@@ -2990,44 +2990,44 @@ default - Dependency management for the default configuration
     org.grails:grails-datastore-gorm-test 7.1.0.M5
     org.grails:grails-datastore-gorm-validation 7.1.0.M5
     org.grails:grails-datastore-web 7.1.0.M5
-    org.grails:grails-dependencies 4.1.0.M5
-    org.grails:grails-docs 4.1.0.M5
-    org.grails:grails-encoder 4.1.0.M5
+    org.grails:grails-dependencies 5.0.0.M1
+    org.grails:grails-docs 5.0.0.M1
+    org.grails:grails-encoder 5.0.0.M1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.2.0.M4
-    org.grails:grails-gradle-model 4.1.0.M5
-    org.grails:grails-gradle-plugin 4.1.0.M5
-    org.grails:grails-logging 4.1.0.M5
-    org.grails:grails-plugin-codecs 4.1.0.M5
-    org.grails:grails-plugin-controllers 4.1.0.M5
-    org.grails:grails-plugin-databinding 4.1.0.M5
-    org.grails:grails-plugin-datasource 4.1.0.M5
-    org.grails:grails-plugin-domain-class 4.1.0.M5
-    org.grails:grails-plugin-i18n 4.1.0.M5
-    org.grails:grails-plugin-interceptors 4.1.0.M5
-    org.grails:grails-plugin-mimetypes 4.1.0.M5
-    org.grails:grails-plugin-rest 4.1.0.M5
-    org.grails:grails-plugin-services 4.1.0.M5
-    org.grails:grails-plugin-url-mappings 4.1.0.M5
-    org.grails:grails-plugin-validation 4.1.0.M5
-    org.grails:grails-shell 4.1.0.M5
-    org.grails:grails-spring 4.1.0.M5
-    org.grails:grails-test 4.1.0.M5
-    org.grails:grails-test-suite-base 4.1.0.M5
-    org.grails:grails-test-suite-persistence 4.1.0.M5
-    org.grails:grails-test-suite-uber 4.1.0.M5
-    org.grails:grails-test-suite-web 4.1.0.M5
+    org.grails:grails-gradle-model 5.0.0.M1
+    org.grails:grails-gradle-plugin 5.0.0.M1
+    org.grails:grails-logging 5.0.0.M1
+    org.grails:grails-plugin-codecs 5.0.0.M1
+    org.grails:grails-plugin-controllers 5.0.0.M1
+    org.grails:grails-plugin-databinding 5.0.0.M1
+    org.grails:grails-plugin-datasource 5.0.0.M1
+    org.grails:grails-plugin-domain-class 5.0.0.M1
+    org.grails:grails-plugin-i18n 5.0.0.M1
+    org.grails:grails-plugin-interceptors 5.0.0.M1
+    org.grails:grails-plugin-mimetypes 5.0.0.M1
+    org.grails:grails-plugin-rest 5.0.0.M1
+    org.grails:grails-plugin-services 5.0.0.M1
+    org.grails:grails-plugin-url-mappings 5.0.0.M1
+    org.grails:grails-plugin-validation 5.0.0.M1
+    org.grails:grails-shell 5.0.0.M1
+    org.grails:grails-spring 5.0.0.M1
+    org.grails:grails-test 5.0.0.M1
+    org.grails:grails-test-suite-base 5.0.0.M1
+    org.grails:grails-test-suite-persistence 5.0.0.M1
+    org.grails:grails-test-suite-uber 5.0.0.M1
+    org.grails:grails-test-suite-web 5.0.0.M1
     org.grails:grails-testing-support 2.2.0.M4
-    org.grails:grails-web 4.1.0.M5
-    org.grails:grails-web-boot 4.1.0.M5
-    org.grails:grails-web-common 4.1.0.M5
-    org.grails:grails-web-databinding 4.1.0.M5
-    org.grails:grails-web-fileupload 4.1.0.M5
-    org.grails:grails-web-mvc 4.1.0.M5
+    org.grails:grails-web 5.0.0.M1
+    org.grails:grails-web-boot 5.0.0.M1
+    org.grails:grails-web-common 5.0.0.M1
+    org.grails:grails-web-databinding 5.0.0.M1
+    org.grails:grails-web-fileupload 5.0.0.M1
+    org.grails:grails-web-mvc 5.0.0.M1
     org.grails:grails-web-testing-support 2.2.0.M4
-    org.grails:grails-web-url-mappings 4.1.0.M5
+    org.grails:grails-web-url-mappings 5.0.0.M1
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.1.0.M4
     org.grails.plugins:async 4.0.0
@@ -4120,11 +4120,11 @@ implementation - Dependency management for the implementation configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.1.0.M5
-    org.grails:grails-codecs 4.1.0.M5
-    org.grails:grails-console 4.1.0.M5
-    org.grails:grails-core 4.1.0.M5
-    org.grails:grails-databinding 4.1.0.M5
+    org.grails:grails-bootstrap 5.0.0.M1
+    org.grails:grails-codecs 5.0.0.M1
+    org.grails:grails-console 5.0.0.M1
+    org.grails:grails-core 5.0.0.M1
+    org.grails:grails-databinding 5.0.0.M1
     org.grails:grails-datastore-async 7.1.0.M5
     org.grails:grails-datastore-core 7.1.0.M5
     org.grails:grails-datastore-gorm 7.1.0.M5
@@ -4135,44 +4135,44 @@ implementation - Dependency management for the implementation configuration
     org.grails:grails-datastore-gorm-test 7.1.0.M5
     org.grails:grails-datastore-gorm-validation 7.1.0.M5
     org.grails:grails-datastore-web 7.1.0.M5
-    org.grails:grails-dependencies 4.1.0.M5
-    org.grails:grails-docs 4.1.0.M5
-    org.grails:grails-encoder 4.1.0.M5
+    org.grails:grails-dependencies 5.0.0.M1
+    org.grails:grails-docs 5.0.0.M1
+    org.grails:grails-encoder 5.0.0.M1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.2.0.M4
-    org.grails:grails-gradle-model 4.1.0.M5
-    org.grails:grails-gradle-plugin 4.1.0.M5
-    org.grails:grails-logging 4.1.0.M5
-    org.grails:grails-plugin-codecs 4.1.0.M5
-    org.grails:grails-plugin-controllers 4.1.0.M5
-    org.grails:grails-plugin-databinding 4.1.0.M5
-    org.grails:grails-plugin-datasource 4.1.0.M5
-    org.grails:grails-plugin-domain-class 4.1.0.M5
-    org.grails:grails-plugin-i18n 4.1.0.M5
-    org.grails:grails-plugin-interceptors 4.1.0.M5
-    org.grails:grails-plugin-mimetypes 4.1.0.M5
-    org.grails:grails-plugin-rest 4.1.0.M5
-    org.grails:grails-plugin-services 4.1.0.M5
-    org.grails:grails-plugin-url-mappings 4.1.0.M5
-    org.grails:grails-plugin-validation 4.1.0.M5
-    org.grails:grails-shell 4.1.0.M5
-    org.grails:grails-spring 4.1.0.M5
-    org.grails:grails-test 4.1.0.M5
-    org.grails:grails-test-suite-base 4.1.0.M5
-    org.grails:grails-test-suite-persistence 4.1.0.M5
-    org.grails:grails-test-suite-uber 4.1.0.M5
-    org.grails:grails-test-suite-web 4.1.0.M5
+    org.grails:grails-gradle-model 5.0.0.M1
+    org.grails:grails-gradle-plugin 5.0.0.M1
+    org.grails:grails-logging 5.0.0.M1
+    org.grails:grails-plugin-codecs 5.0.0.M1
+    org.grails:grails-plugin-controllers 5.0.0.M1
+    org.grails:grails-plugin-databinding 5.0.0.M1
+    org.grails:grails-plugin-datasource 5.0.0.M1
+    org.grails:grails-plugin-domain-class 5.0.0.M1
+    org.grails:grails-plugin-i18n 5.0.0.M1
+    org.grails:grails-plugin-interceptors 5.0.0.M1
+    org.grails:grails-plugin-mimetypes 5.0.0.M1
+    org.grails:grails-plugin-rest 5.0.0.M1
+    org.grails:grails-plugin-services 5.0.0.M1
+    org.grails:grails-plugin-url-mappings 5.0.0.M1
+    org.grails:grails-plugin-validation 5.0.0.M1
+    org.grails:grails-shell 5.0.0.M1
+    org.grails:grails-spring 5.0.0.M1
+    org.grails:grails-test 5.0.0.M1
+    org.grails:grails-test-suite-base 5.0.0.M1
+    org.grails:grails-test-suite-persistence 5.0.0.M1
+    org.grails:grails-test-suite-uber 5.0.0.M1
+    org.grails:grails-test-suite-web 5.0.0.M1
     org.grails:grails-testing-support 2.2.0.M4
-    org.grails:grails-web 4.1.0.M5
-    org.grails:grails-web-boot 4.1.0.M5
-    org.grails:grails-web-common 4.1.0.M5
-    org.grails:grails-web-databinding 4.1.0.M5
-    org.grails:grails-web-fileupload 4.1.0.M5
-    org.grails:grails-web-mvc 4.1.0.M5
+    org.grails:grails-web 5.0.0.M1
+    org.grails:grails-web-boot 5.0.0.M1
+    org.grails:grails-web-common 5.0.0.M1
+    org.grails:grails-web-databinding 5.0.0.M1
+    org.grails:grails-web-fileupload 5.0.0.M1
+    org.grails:grails-web-mvc 5.0.0.M1
     org.grails:grails-web-testing-support 2.2.0.M4
-    org.grails:grails-web-url-mappings 4.1.0.M5
+    org.grails:grails-web-url-mappings 5.0.0.M1
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.1.0.M4
     org.grails.plugins:async 4.0.0
@@ -5265,11 +5265,11 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.1.0.M5
-    org.grails:grails-codecs 4.1.0.M5
-    org.grails:grails-console 4.1.0.M5
-    org.grails:grails-core 4.1.0.M5
-    org.grails:grails-databinding 4.1.0.M5
+    org.grails:grails-bootstrap 5.0.0.M1
+    org.grails:grails-codecs 5.0.0.M1
+    org.grails:grails-console 5.0.0.M1
+    org.grails:grails-core 5.0.0.M1
+    org.grails:grails-databinding 5.0.0.M1
     org.grails:grails-datastore-async 7.1.0.M5
     org.grails:grails-datastore-core 7.1.0.M5
     org.grails:grails-datastore-gorm 7.1.0.M5
@@ -5280,44 +5280,44 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
     org.grails:grails-datastore-gorm-test 7.1.0.M5
     org.grails:grails-datastore-gorm-validation 7.1.0.M5
     org.grails:grails-datastore-web 7.1.0.M5
-    org.grails:grails-dependencies 4.1.0.M5
-    org.grails:grails-docs 4.1.0.M5
-    org.grails:grails-encoder 4.1.0.M5
+    org.grails:grails-dependencies 5.0.0.M1
+    org.grails:grails-docs 5.0.0.M1
+    org.grails:grails-encoder 5.0.0.M1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.2.0.M4
-    org.grails:grails-gradle-model 4.1.0.M5
-    org.grails:grails-gradle-plugin 4.1.0.M5
-    org.grails:grails-logging 4.1.0.M5
-    org.grails:grails-plugin-codecs 4.1.0.M5
-    org.grails:grails-plugin-controllers 4.1.0.M5
-    org.grails:grails-plugin-databinding 4.1.0.M5
-    org.grails:grails-plugin-datasource 4.1.0.M5
-    org.grails:grails-plugin-domain-class 4.1.0.M5
-    org.grails:grails-plugin-i18n 4.1.0.M5
-    org.grails:grails-plugin-interceptors 4.1.0.M5
-    org.grails:grails-plugin-mimetypes 4.1.0.M5
-    org.grails:grails-plugin-rest 4.1.0.M5
-    org.grails:grails-plugin-services 4.1.0.M5
-    org.grails:grails-plugin-url-mappings 4.1.0.M5
-    org.grails:grails-plugin-validation 4.1.0.M5
-    org.grails:grails-shell 4.1.0.M5
-    org.grails:grails-spring 4.1.0.M5
-    org.grails:grails-test 4.1.0.M5
-    org.grails:grails-test-suite-base 4.1.0.M5
-    org.grails:grails-test-suite-persistence 4.1.0.M5
-    org.grails:grails-test-suite-uber 4.1.0.M5
-    org.grails:grails-test-suite-web 4.1.0.M5
+    org.grails:grails-gradle-model 5.0.0.M1
+    org.grails:grails-gradle-plugin 5.0.0.M1
+    org.grails:grails-logging 5.0.0.M1
+    org.grails:grails-plugin-codecs 5.0.0.M1
+    org.grails:grails-plugin-controllers 5.0.0.M1
+    org.grails:grails-plugin-databinding 5.0.0.M1
+    org.grails:grails-plugin-datasource 5.0.0.M1
+    org.grails:grails-plugin-domain-class 5.0.0.M1
+    org.grails:grails-plugin-i18n 5.0.0.M1
+    org.grails:grails-plugin-interceptors 5.0.0.M1
+    org.grails:grails-plugin-mimetypes 5.0.0.M1
+    org.grails:grails-plugin-rest 5.0.0.M1
+    org.grails:grails-plugin-services 5.0.0.M1
+    org.grails:grails-plugin-url-mappings 5.0.0.M1
+    org.grails:grails-plugin-validation 5.0.0.M1
+    org.grails:grails-shell 5.0.0.M1
+    org.grails:grails-spring 5.0.0.M1
+    org.grails:grails-test 5.0.0.M1
+    org.grails:grails-test-suite-base 5.0.0.M1
+    org.grails:grails-test-suite-persistence 5.0.0.M1
+    org.grails:grails-test-suite-uber 5.0.0.M1
+    org.grails:grails-test-suite-web 5.0.0.M1
     org.grails:grails-testing-support 2.2.0.M4
-    org.grails:grails-web 4.1.0.M5
-    org.grails:grails-web-boot 4.1.0.M5
-    org.grails:grails-web-common 4.1.0.M5
-    org.grails:grails-web-databinding 4.1.0.M5
-    org.grails:grails-web-fileupload 4.1.0.M5
-    org.grails:grails-web-mvc 4.1.0.M5
+    org.grails:grails-web 5.0.0.M1
+    org.grails:grails-web-boot 5.0.0.M1
+    org.grails:grails-web-common 5.0.0.M1
+    org.grails:grails-web-databinding 5.0.0.M1
+    org.grails:grails-web-fileupload 5.0.0.M1
+    org.grails:grails-web-mvc 5.0.0.M1
     org.grails:grails-web-testing-support 2.2.0.M4
-    org.grails:grails-web-url-mappings 4.1.0.M5
+    org.grails:grails-web-url-mappings 5.0.0.M1
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.1.0.M4
     org.grails.plugins:async 4.0.0
@@ -6407,11 +6407,11 @@ integrationTestImplementation - Dependency management for the integrationTestImp
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.1.0.M5
-    org.grails:grails-codecs 4.1.0.M5
-    org.grails:grails-console 4.1.0.M5
-    org.grails:grails-core 4.1.0.M5
-    org.grails:grails-databinding 4.1.0.M5
+    org.grails:grails-bootstrap 5.0.0.M1
+    org.grails:grails-codecs 5.0.0.M1
+    org.grails:grails-console 5.0.0.M1
+    org.grails:grails-core 5.0.0.M1
+    org.grails:grails-databinding 5.0.0.M1
     org.grails:grails-datastore-async 7.1.0.M5
     org.grails:grails-datastore-core 7.1.0.M5
     org.grails:grails-datastore-gorm 7.1.0.M5
@@ -6422,44 +6422,44 @@ integrationTestImplementation - Dependency management for the integrationTestImp
     org.grails:grails-datastore-gorm-test 7.1.0.M5
     org.grails:grails-datastore-gorm-validation 7.1.0.M5
     org.grails:grails-datastore-web 7.1.0.M5
-    org.grails:grails-dependencies 4.1.0.M5
-    org.grails:grails-docs 4.1.0.M5
-    org.grails:grails-encoder 4.1.0.M5
+    org.grails:grails-dependencies 5.0.0.M1
+    org.grails:grails-docs 5.0.0.M1
+    org.grails:grails-encoder 5.0.0.M1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.2.0.M4
-    org.grails:grails-gradle-model 4.1.0.M5
-    org.grails:grails-gradle-plugin 4.1.0.M5
-    org.grails:grails-logging 4.1.0.M5
-    org.grails:grails-plugin-codecs 4.1.0.M5
-    org.grails:grails-plugin-controllers 4.1.0.M5
-    org.grails:grails-plugin-databinding 4.1.0.M5
-    org.grails:grails-plugin-datasource 4.1.0.M5
-    org.grails:grails-plugin-domain-class 4.1.0.M5
-    org.grails:grails-plugin-i18n 4.1.0.M5
-    org.grails:grails-plugin-interceptors 4.1.0.M5
-    org.grails:grails-plugin-mimetypes 4.1.0.M5
-    org.grails:grails-plugin-rest 4.1.0.M5
-    org.grails:grails-plugin-services 4.1.0.M5
-    org.grails:grails-plugin-url-mappings 4.1.0.M5
-    org.grails:grails-plugin-validation 4.1.0.M5
-    org.grails:grails-shell 4.1.0.M5
-    org.grails:grails-spring 4.1.0.M5
-    org.grails:grails-test 4.1.0.M5
-    org.grails:grails-test-suite-base 4.1.0.M5
-    org.grails:grails-test-suite-persistence 4.1.0.M5
-    org.grails:grails-test-suite-uber 4.1.0.M5
-    org.grails:grails-test-suite-web 4.1.0.M5
+    org.grails:grails-gradle-model 5.0.0.M1
+    org.grails:grails-gradle-plugin 5.0.0.M1
+    org.grails:grails-logging 5.0.0.M1
+    org.grails:grails-plugin-codecs 5.0.0.M1
+    org.grails:grails-plugin-controllers 5.0.0.M1
+    org.grails:grails-plugin-databinding 5.0.0.M1
+    org.grails:grails-plugin-datasource 5.0.0.M1
+    org.grails:grails-plugin-domain-class 5.0.0.M1
+    org.grails:grails-plugin-i18n 5.0.0.M1
+    org.grails:grails-plugin-interceptors 5.0.0.M1
+    org.grails:grails-plugin-mimetypes 5.0.0.M1
+    org.grails:grails-plugin-rest 5.0.0.M1
+    org.grails:grails-plugin-services 5.0.0.M1
+    org.grails:grails-plugin-url-mappings 5.0.0.M1
+    org.grails:grails-plugin-validation 5.0.0.M1
+    org.grails:grails-shell 5.0.0.M1
+    org.grails:grails-spring 5.0.0.M1
+    org.grails:grails-test 5.0.0.M1
+    org.grails:grails-test-suite-base 5.0.0.M1
+    org.grails:grails-test-suite-persistence 5.0.0.M1
+    org.grails:grails-test-suite-uber 5.0.0.M1
+    org.grails:grails-test-suite-web 5.0.0.M1
     org.grails:grails-testing-support 2.2.0.M4
-    org.grails:grails-web 4.1.0.M5
-    org.grails:grails-web-boot 4.1.0.M5
-    org.grails:grails-web-common 4.1.0.M5
-    org.grails:grails-web-databinding 4.1.0.M5
-    org.grails:grails-web-fileupload 4.1.0.M5
-    org.grails:grails-web-mvc 4.1.0.M5
+    org.grails:grails-web 5.0.0.M1
+    org.grails:grails-web-boot 5.0.0.M1
+    org.grails:grails-web-common 5.0.0.M1
+    org.grails:grails-web-databinding 5.0.0.M1
+    org.grails:grails-web-fileupload 5.0.0.M1
+    org.grails:grails-web-mvc 5.0.0.M1
     org.grails:grails-web-testing-support 2.2.0.M4
-    org.grails:grails-web-url-mappings 4.1.0.M5
+    org.grails:grails-web-url-mappings 5.0.0.M1
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.1.0.M4
     org.grails.plugins:async 4.0.0
@@ -7551,11 +7551,11 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.1.0.M5
-    org.grails:grails-codecs 4.1.0.M5
-    org.grails:grails-console 4.1.0.M5
-    org.grails:grails-core 4.1.0.M5
-    org.grails:grails-databinding 4.1.0.M5
+    org.grails:grails-bootstrap 5.0.0.M1
+    org.grails:grails-codecs 5.0.0.M1
+    org.grails:grails-console 5.0.0.M1
+    org.grails:grails-core 5.0.0.M1
+    org.grails:grails-databinding 5.0.0.M1
     org.grails:grails-datastore-async 7.1.0.M5
     org.grails:grails-datastore-core 7.1.0.M5
     org.grails:grails-datastore-gorm 7.1.0.M5
@@ -7566,44 +7566,44 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
     org.grails:grails-datastore-gorm-test 7.1.0.M5
     org.grails:grails-datastore-gorm-validation 7.1.0.M5
     org.grails:grails-datastore-web 7.1.0.M5
-    org.grails:grails-dependencies 4.1.0.M5
-    org.grails:grails-docs 4.1.0.M5
-    org.grails:grails-encoder 4.1.0.M5
+    org.grails:grails-dependencies 5.0.0.M1
+    org.grails:grails-docs 5.0.0.M1
+    org.grails:grails-encoder 5.0.0.M1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.2.0.M4
-    org.grails:grails-gradle-model 4.1.0.M5
-    org.grails:grails-gradle-plugin 4.1.0.M5
-    org.grails:grails-logging 4.1.0.M5
-    org.grails:grails-plugin-codecs 4.1.0.M5
-    org.grails:grails-plugin-controllers 4.1.0.M5
-    org.grails:grails-plugin-databinding 4.1.0.M5
-    org.grails:grails-plugin-datasource 4.1.0.M5
-    org.grails:grails-plugin-domain-class 4.1.0.M5
-    org.grails:grails-plugin-i18n 4.1.0.M5
-    org.grails:grails-plugin-interceptors 4.1.0.M5
-    org.grails:grails-plugin-mimetypes 4.1.0.M5
-    org.grails:grails-plugin-rest 4.1.0.M5
-    org.grails:grails-plugin-services 4.1.0.M5
-    org.grails:grails-plugin-url-mappings 4.1.0.M5
-    org.grails:grails-plugin-validation 4.1.0.M5
-    org.grails:grails-shell 4.1.0.M5
-    org.grails:grails-spring 4.1.0.M5
-    org.grails:grails-test 4.1.0.M5
-    org.grails:grails-test-suite-base 4.1.0.M5
-    org.grails:grails-test-suite-persistence 4.1.0.M5
-    org.grails:grails-test-suite-uber 4.1.0.M5
-    org.grails:grails-test-suite-web 4.1.0.M5
+    org.grails:grails-gradle-model 5.0.0.M1
+    org.grails:grails-gradle-plugin 5.0.0.M1
+    org.grails:grails-logging 5.0.0.M1
+    org.grails:grails-plugin-codecs 5.0.0.M1
+    org.grails:grails-plugin-controllers 5.0.0.M1
+    org.grails:grails-plugin-databinding 5.0.0.M1
+    org.grails:grails-plugin-datasource 5.0.0.M1
+    org.grails:grails-plugin-domain-class 5.0.0.M1
+    org.grails:grails-plugin-i18n 5.0.0.M1
+    org.grails:grails-plugin-interceptors 5.0.0.M1
+    org.grails:grails-plugin-mimetypes 5.0.0.M1
+    org.grails:grails-plugin-rest 5.0.0.M1
+    org.grails:grails-plugin-services 5.0.0.M1
+    org.grails:grails-plugin-url-mappings 5.0.0.M1
+    org.grails:grails-plugin-validation 5.0.0.M1
+    org.grails:grails-shell 5.0.0.M1
+    org.grails:grails-spring 5.0.0.M1
+    org.grails:grails-test 5.0.0.M1
+    org.grails:grails-test-suite-base 5.0.0.M1
+    org.grails:grails-test-suite-persistence 5.0.0.M1
+    org.grails:grails-test-suite-uber 5.0.0.M1
+    org.grails:grails-test-suite-web 5.0.0.M1
     org.grails:grails-testing-support 2.2.0.M4
-    org.grails:grails-web 4.1.0.M5
-    org.grails:grails-web-boot 4.1.0.M5
-    org.grails:grails-web-common 4.1.0.M5
-    org.grails:grails-web-databinding 4.1.0.M5
-    org.grails:grails-web-fileupload 4.1.0.M5
-    org.grails:grails-web-mvc 4.1.0.M5
+    org.grails:grails-web 5.0.0.M1
+    org.grails:grails-web-boot 5.0.0.M1
+    org.grails:grails-web-common 5.0.0.M1
+    org.grails:grails-web-databinding 5.0.0.M1
+    org.grails:grails-web-fileupload 5.0.0.M1
+    org.grails:grails-web-mvc 5.0.0.M1
     org.grails:grails-web-testing-support 2.2.0.M4
-    org.grails:grails-web-url-mappings 4.1.0.M5
+    org.grails:grails-web-url-mappings 5.0.0.M1
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.1.0.M4
     org.grails.plugins:async 4.0.0
@@ -8692,11 +8692,11 @@ integrationTestRuntimeOnly - Dependency management for the integrationTestRuntim
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.1.0.M5
-    org.grails:grails-codecs 4.1.0.M5
-    org.grails:grails-console 4.1.0.M5
-    org.grails:grails-core 4.1.0.M5
-    org.grails:grails-databinding 4.1.0.M5
+    org.grails:grails-bootstrap 5.0.0.M1
+    org.grails:grails-codecs 5.0.0.M1
+    org.grails:grails-console 5.0.0.M1
+    org.grails:grails-core 5.0.0.M1
+    org.grails:grails-databinding 5.0.0.M1
     org.grails:grails-datastore-async 7.1.0.M5
     org.grails:grails-datastore-core 7.1.0.M5
     org.grails:grails-datastore-gorm 7.1.0.M5
@@ -8707,44 +8707,44 @@ integrationTestRuntimeOnly - Dependency management for the integrationTestRuntim
     org.grails:grails-datastore-gorm-test 7.1.0.M5
     org.grails:grails-datastore-gorm-validation 7.1.0.M5
     org.grails:grails-datastore-web 7.1.0.M5
-    org.grails:grails-dependencies 4.1.0.M5
-    org.grails:grails-docs 4.1.0.M5
-    org.grails:grails-encoder 4.1.0.M5
+    org.grails:grails-dependencies 5.0.0.M1
+    org.grails:grails-docs 5.0.0.M1
+    org.grails:grails-encoder 5.0.0.M1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.2.0.M4
-    org.grails:grails-gradle-model 4.1.0.M5
-    org.grails:grails-gradle-plugin 4.1.0.M5
-    org.grails:grails-logging 4.1.0.M5
-    org.grails:grails-plugin-codecs 4.1.0.M5
-    org.grails:grails-plugin-controllers 4.1.0.M5
-    org.grails:grails-plugin-databinding 4.1.0.M5
-    org.grails:grails-plugin-datasource 4.1.0.M5
-    org.grails:grails-plugin-domain-class 4.1.0.M5
-    org.grails:grails-plugin-i18n 4.1.0.M5
-    org.grails:grails-plugin-interceptors 4.1.0.M5
-    org.grails:grails-plugin-mimetypes 4.1.0.M5
-    org.grails:grails-plugin-rest 4.1.0.M5
-    org.grails:grails-plugin-services 4.1.0.M5
-    org.grails:grails-plugin-url-mappings 4.1.0.M5
-    org.grails:grails-plugin-validation 4.1.0.M5
-    org.grails:grails-shell 4.1.0.M5
-    org.grails:grails-spring 4.1.0.M5
-    org.grails:grails-test 4.1.0.M5
-    org.grails:grails-test-suite-base 4.1.0.M5
-    org.grails:grails-test-suite-persistence 4.1.0.M5
-    org.grails:grails-test-suite-uber 4.1.0.M5
-    org.grails:grails-test-suite-web 4.1.0.M5
+    org.grails:grails-gradle-model 5.0.0.M1
+    org.grails:grails-gradle-plugin 5.0.0.M1
+    org.grails:grails-logging 5.0.0.M1
+    org.grails:grails-plugin-codecs 5.0.0.M1
+    org.grails:grails-plugin-controllers 5.0.0.M1
+    org.grails:grails-plugin-databinding 5.0.0.M1
+    org.grails:grails-plugin-datasource 5.0.0.M1
+    org.grails:grails-plugin-domain-class 5.0.0.M1
+    org.grails:grails-plugin-i18n 5.0.0.M1
+    org.grails:grails-plugin-interceptors 5.0.0.M1
+    org.grails:grails-plugin-mimetypes 5.0.0.M1
+    org.grails:grails-plugin-rest 5.0.0.M1
+    org.grails:grails-plugin-services 5.0.0.M1
+    org.grails:grails-plugin-url-mappings 5.0.0.M1
+    org.grails:grails-plugin-validation 5.0.0.M1
+    org.grails:grails-shell 5.0.0.M1
+    org.grails:grails-spring 5.0.0.M1
+    org.grails:grails-test 5.0.0.M1
+    org.grails:grails-test-suite-base 5.0.0.M1
+    org.grails:grails-test-suite-persistence 5.0.0.M1
+    org.grails:grails-test-suite-uber 5.0.0.M1
+    org.grails:grails-test-suite-web 5.0.0.M1
     org.grails:grails-testing-support 2.2.0.M4
-    org.grails:grails-web 4.1.0.M5
-    org.grails:grails-web-boot 4.1.0.M5
-    org.grails:grails-web-common 4.1.0.M5
-    org.grails:grails-web-databinding 4.1.0.M5
-    org.grails:grails-web-fileupload 4.1.0.M5
-    org.grails:grails-web-mvc 4.1.0.M5
+    org.grails:grails-web 5.0.0.M1
+    org.grails:grails-web-boot 5.0.0.M1
+    org.grails:grails-web-common 5.0.0.M1
+    org.grails:grails-web-databinding 5.0.0.M1
+    org.grails:grails-web-fileupload 5.0.0.M1
+    org.grails:grails-web-mvc 5.0.0.M1
     org.grails:grails-web-testing-support 2.2.0.M4
-    org.grails:grails-web-url-mappings 4.1.0.M5
+    org.grails:grails-web-url-mappings 5.0.0.M1
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.1.0.M4
     org.grails.plugins:async 4.0.0
@@ -9833,11 +9833,11 @@ productionRuntimeClasspath - Dependency management for the productionRuntimeClas
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.1.0.M5
-    org.grails:grails-codecs 4.1.0.M5
-    org.grails:grails-console 4.1.0.M5
-    org.grails:grails-core 4.1.0.M5
-    org.grails:grails-databinding 4.1.0.M5
+    org.grails:grails-bootstrap 5.0.0.M1
+    org.grails:grails-codecs 5.0.0.M1
+    org.grails:grails-console 5.0.0.M1
+    org.grails:grails-core 5.0.0.M1
+    org.grails:grails-databinding 5.0.0.M1
     org.grails:grails-datastore-async 7.1.0.M5
     org.grails:grails-datastore-core 7.1.0.M5
     org.grails:grails-datastore-gorm 7.1.0.M5
@@ -9848,44 +9848,44 @@ productionRuntimeClasspath - Dependency management for the productionRuntimeClas
     org.grails:grails-datastore-gorm-test 7.1.0.M5
     org.grails:grails-datastore-gorm-validation 7.1.0.M5
     org.grails:grails-datastore-web 7.1.0.M5
-    org.grails:grails-dependencies 4.1.0.M5
-    org.grails:grails-docs 4.1.0.M5
-    org.grails:grails-encoder 4.1.0.M5
+    org.grails:grails-dependencies 5.0.0.M1
+    org.grails:grails-docs 5.0.0.M1
+    org.grails:grails-encoder 5.0.0.M1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.2.0.M4
-    org.grails:grails-gradle-model 4.1.0.M5
-    org.grails:grails-gradle-plugin 4.1.0.M5
-    org.grails:grails-logging 4.1.0.M5
-    org.grails:grails-plugin-codecs 4.1.0.M5
-    org.grails:grails-plugin-controllers 4.1.0.M5
-    org.grails:grails-plugin-databinding 4.1.0.M5
-    org.grails:grails-plugin-datasource 4.1.0.M5
-    org.grails:grails-plugin-domain-class 4.1.0.M5
-    org.grails:grails-plugin-i18n 4.1.0.M5
-    org.grails:grails-plugin-interceptors 4.1.0.M5
-    org.grails:grails-plugin-mimetypes 4.1.0.M5
-    org.grails:grails-plugin-rest 4.1.0.M5
-    org.grails:grails-plugin-services 4.1.0.M5
-    org.grails:grails-plugin-url-mappings 4.1.0.M5
-    org.grails:grails-plugin-validation 4.1.0.M5
-    org.grails:grails-shell 4.1.0.M5
-    org.grails:grails-spring 4.1.0.M5
-    org.grails:grails-test 4.1.0.M5
-    org.grails:grails-test-suite-base 4.1.0.M5
-    org.grails:grails-test-suite-persistence 4.1.0.M5
-    org.grails:grails-test-suite-uber 4.1.0.M5
-    org.grails:grails-test-suite-web 4.1.0.M5
+    org.grails:grails-gradle-model 5.0.0.M1
+    org.grails:grails-gradle-plugin 5.0.0.M1
+    org.grails:grails-logging 5.0.0.M1
+    org.grails:grails-plugin-codecs 5.0.0.M1
+    org.grails:grails-plugin-controllers 5.0.0.M1
+    org.grails:grails-plugin-databinding 5.0.0.M1
+    org.grails:grails-plugin-datasource 5.0.0.M1
+    org.grails:grails-plugin-domain-class 5.0.0.M1
+    org.grails:grails-plugin-i18n 5.0.0.M1
+    org.grails:grails-plugin-interceptors 5.0.0.M1
+    org.grails:grails-plugin-mimetypes 5.0.0.M1
+    org.grails:grails-plugin-rest 5.0.0.M1
+    org.grails:grails-plugin-services 5.0.0.M1
+    org.grails:grails-plugin-url-mappings 5.0.0.M1
+    org.grails:grails-plugin-validation 5.0.0.M1
+    org.grails:grails-shell 5.0.0.M1
+    org.grails:grails-spring 5.0.0.M1
+    org.grails:grails-test 5.0.0.M1
+    org.grails:grails-test-suite-base 5.0.0.M1
+    org.grails:grails-test-suite-persistence 5.0.0.M1
+    org.grails:grails-test-suite-uber 5.0.0.M1
+    org.grails:grails-test-suite-web 5.0.0.M1
     org.grails:grails-testing-support 2.2.0.M4
-    org.grails:grails-web 4.1.0.M5
-    org.grails:grails-web-boot 4.1.0.M5
-    org.grails:grails-web-common 4.1.0.M5
-    org.grails:grails-web-databinding 4.1.0.M5
-    org.grails:grails-web-fileupload 4.1.0.M5
-    org.grails:grails-web-mvc 4.1.0.M5
+    org.grails:grails-web 5.0.0.M1
+    org.grails:grails-web-boot 5.0.0.M1
+    org.grails:grails-web-common 5.0.0.M1
+    org.grails:grails-web-databinding 5.0.0.M1
+    org.grails:grails-web-fileupload 5.0.0.M1
+    org.grails:grails-web-mvc 5.0.0.M1
     org.grails:grails-web-testing-support 2.2.0.M4
-    org.grails:grails-web-url-mappings 4.1.0.M5
+    org.grails:grails-web-url-mappings 5.0.0.M1
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.1.0.M4
     org.grails.plugins:async 4.0.0
@@ -10989,11 +10989,11 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.1.0.M5
-    org.grails:grails-codecs 4.1.0.M5
-    org.grails:grails-console 4.1.0.M5
-    org.grails:grails-core 4.1.0.M5
-    org.grails:grails-databinding 4.1.0.M5
+    org.grails:grails-bootstrap 5.0.0.M1
+    org.grails:grails-codecs 5.0.0.M1
+    org.grails:grails-console 5.0.0.M1
+    org.grails:grails-core 5.0.0.M1
+    org.grails:grails-databinding 5.0.0.M1
     org.grails:grails-datastore-async 7.1.0.M5
     org.grails:grails-datastore-core 7.1.0.M5
     org.grails:grails-datastore-gorm 7.1.0.M5
@@ -11004,44 +11004,44 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
     org.grails:grails-datastore-gorm-test 7.1.0.M5
     org.grails:grails-datastore-gorm-validation 7.1.0.M5
     org.grails:grails-datastore-web 7.1.0.M5
-    org.grails:grails-dependencies 4.1.0.M5
-    org.grails:grails-docs 4.1.0.M5
-    org.grails:grails-encoder 4.1.0.M5
+    org.grails:grails-dependencies 5.0.0.M1
+    org.grails:grails-docs 5.0.0.M1
+    org.grails:grails-encoder 5.0.0.M1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.2.0.M4
-    org.grails:grails-gradle-model 4.1.0.M5
-    org.grails:grails-gradle-plugin 4.1.0.M5
-    org.grails:grails-logging 4.1.0.M5
-    org.grails:grails-plugin-codecs 4.1.0.M5
-    org.grails:grails-plugin-controllers 4.1.0.M5
-    org.grails:grails-plugin-databinding 4.1.0.M5
-    org.grails:grails-plugin-datasource 4.1.0.M5
-    org.grails:grails-plugin-domain-class 4.1.0.M5
-    org.grails:grails-plugin-i18n 4.1.0.M5
-    org.grails:grails-plugin-interceptors 4.1.0.M5
-    org.grails:grails-plugin-mimetypes 4.1.0.M5
-    org.grails:grails-plugin-rest 4.1.0.M5
-    org.grails:grails-plugin-services 4.1.0.M5
-    org.grails:grails-plugin-url-mappings 4.1.0.M5
-    org.grails:grails-plugin-validation 4.1.0.M5
-    org.grails:grails-shell 4.1.0.M5
-    org.grails:grails-spring 4.1.0.M5
-    org.grails:grails-test 4.1.0.M5
-    org.grails:grails-test-suite-base 4.1.0.M5
-    org.grails:grails-test-suite-persistence 4.1.0.M5
-    org.grails:grails-test-suite-uber 4.1.0.M5
-    org.grails:grails-test-suite-web 4.1.0.M5
+    org.grails:grails-gradle-model 5.0.0.M1
+    org.grails:grails-gradle-plugin 5.0.0.M1
+    org.grails:grails-logging 5.0.0.M1
+    org.grails:grails-plugin-codecs 5.0.0.M1
+    org.grails:grails-plugin-controllers 5.0.0.M1
+    org.grails:grails-plugin-databinding 5.0.0.M1
+    org.grails:grails-plugin-datasource 5.0.0.M1
+    org.grails:grails-plugin-domain-class 5.0.0.M1
+    org.grails:grails-plugin-i18n 5.0.0.M1
+    org.grails:grails-plugin-interceptors 5.0.0.M1
+    org.grails:grails-plugin-mimetypes 5.0.0.M1
+    org.grails:grails-plugin-rest 5.0.0.M1
+    org.grails:grails-plugin-services 5.0.0.M1
+    org.grails:grails-plugin-url-mappings 5.0.0.M1
+    org.grails:grails-plugin-validation 5.0.0.M1
+    org.grails:grails-shell 5.0.0.M1
+    org.grails:grails-spring 5.0.0.M1
+    org.grails:grails-test 5.0.0.M1
+    org.grails:grails-test-suite-base 5.0.0.M1
+    org.grails:grails-test-suite-persistence 5.0.0.M1
+    org.grails:grails-test-suite-uber 5.0.0.M1
+    org.grails:grails-test-suite-web 5.0.0.M1
     org.grails:grails-testing-support 2.2.0.M4
-    org.grails:grails-web 4.1.0.M5
-    org.grails:grails-web-boot 4.1.0.M5
-    org.grails:grails-web-common 4.1.0.M5
-    org.grails:grails-web-databinding 4.1.0.M5
-    org.grails:grails-web-fileupload 4.1.0.M5
-    org.grails:grails-web-mvc 4.1.0.M5
+    org.grails:grails-web 5.0.0.M1
+    org.grails:grails-web-boot 5.0.0.M1
+    org.grails:grails-web-common 5.0.0.M1
+    org.grails:grails-web-databinding 5.0.0.M1
+    org.grails:grails-web-fileupload 5.0.0.M1
+    org.grails:grails-web-mvc 5.0.0.M1
     org.grails:grails-web-testing-support 2.2.0.M4
-    org.grails:grails-web-url-mappings 4.1.0.M5
+    org.grails:grails-web-url-mappings 5.0.0.M1
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.1.0.M4
     org.grails.plugins:async 4.0.0
@@ -12130,11 +12130,11 @@ runtimeElements - Dependency management for the runtimeElements configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.1.0.M5
-    org.grails:grails-codecs 4.1.0.M5
-    org.grails:grails-console 4.1.0.M5
-    org.grails:grails-core 4.1.0.M5
-    org.grails:grails-databinding 4.1.0.M5
+    org.grails:grails-bootstrap 5.0.0.M1
+    org.grails:grails-codecs 5.0.0.M1
+    org.grails:grails-console 5.0.0.M1
+    org.grails:grails-core 5.0.0.M1
+    org.grails:grails-databinding 5.0.0.M1
     org.grails:grails-datastore-async 7.1.0.M5
     org.grails:grails-datastore-core 7.1.0.M5
     org.grails:grails-datastore-gorm 7.1.0.M5
@@ -12145,44 +12145,44 @@ runtimeElements - Dependency management for the runtimeElements configuration
     org.grails:grails-datastore-gorm-test 7.1.0.M5
     org.grails:grails-datastore-gorm-validation 7.1.0.M5
     org.grails:grails-datastore-web 7.1.0.M5
-    org.grails:grails-dependencies 4.1.0.M5
-    org.grails:grails-docs 4.1.0.M5
-    org.grails:grails-encoder 4.1.0.M5
+    org.grails:grails-dependencies 5.0.0.M1
+    org.grails:grails-docs 5.0.0.M1
+    org.grails:grails-encoder 5.0.0.M1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.2.0.M4
-    org.grails:grails-gradle-model 4.1.0.M5
-    org.grails:grails-gradle-plugin 4.1.0.M5
-    org.grails:grails-logging 4.1.0.M5
-    org.grails:grails-plugin-codecs 4.1.0.M5
-    org.grails:grails-plugin-controllers 4.1.0.M5
-    org.grails:grails-plugin-databinding 4.1.0.M5
-    org.grails:grails-plugin-datasource 4.1.0.M5
-    org.grails:grails-plugin-domain-class 4.1.0.M5
-    org.grails:grails-plugin-i18n 4.1.0.M5
-    org.grails:grails-plugin-interceptors 4.1.0.M5
-    org.grails:grails-plugin-mimetypes 4.1.0.M5
-    org.grails:grails-plugin-rest 4.1.0.M5
-    org.grails:grails-plugin-services 4.1.0.M5
-    org.grails:grails-plugin-url-mappings 4.1.0.M5
-    org.grails:grails-plugin-validation 4.1.0.M5
-    org.grails:grails-shell 4.1.0.M5
-    org.grails:grails-spring 4.1.0.M5
-    org.grails:grails-test 4.1.0.M5
-    org.grails:grails-test-suite-base 4.1.0.M5
-    org.grails:grails-test-suite-persistence 4.1.0.M5
-    org.grails:grails-test-suite-uber 4.1.0.M5
-    org.grails:grails-test-suite-web 4.1.0.M5
+    org.grails:grails-gradle-model 5.0.0.M1
+    org.grails:grails-gradle-plugin 5.0.0.M1
+    org.grails:grails-logging 5.0.0.M1
+    org.grails:grails-plugin-codecs 5.0.0.M1
+    org.grails:grails-plugin-controllers 5.0.0.M1
+    org.grails:grails-plugin-databinding 5.0.0.M1
+    org.grails:grails-plugin-datasource 5.0.0.M1
+    org.grails:grails-plugin-domain-class 5.0.0.M1
+    org.grails:grails-plugin-i18n 5.0.0.M1
+    org.grails:grails-plugin-interceptors 5.0.0.M1
+    org.grails:grails-plugin-mimetypes 5.0.0.M1
+    org.grails:grails-plugin-rest 5.0.0.M1
+    org.grails:grails-plugin-services 5.0.0.M1
+    org.grails:grails-plugin-url-mappings 5.0.0.M1
+    org.grails:grails-plugin-validation 5.0.0.M1
+    org.grails:grails-shell 5.0.0.M1
+    org.grails:grails-spring 5.0.0.M1
+    org.grails:grails-test 5.0.0.M1
+    org.grails:grails-test-suite-base 5.0.0.M1
+    org.grails:grails-test-suite-persistence 5.0.0.M1
+    org.grails:grails-test-suite-uber 5.0.0.M1
+    org.grails:grails-test-suite-web 5.0.0.M1
     org.grails:grails-testing-support 2.2.0.M4
-    org.grails:grails-web 4.1.0.M5
-    org.grails:grails-web-boot 4.1.0.M5
-    org.grails:grails-web-common 4.1.0.M5
-    org.grails:grails-web-databinding 4.1.0.M5
-    org.grails:grails-web-fileupload 4.1.0.M5
-    org.grails:grails-web-mvc 4.1.0.M5
+    org.grails:grails-web 5.0.0.M1
+    org.grails:grails-web-boot 5.0.0.M1
+    org.grails:grails-web-common 5.0.0.M1
+    org.grails:grails-web-databinding 5.0.0.M1
+    org.grails:grails-web-fileupload 5.0.0.M1
+    org.grails:grails-web-mvc 5.0.0.M1
     org.grails:grails-web-testing-support 2.2.0.M4
-    org.grails:grails-web-url-mappings 4.1.0.M5
+    org.grails:grails-web-url-mappings 5.0.0.M1
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.1.0.M4
     org.grails.plugins:async 4.0.0
@@ -13271,11 +13271,11 @@ runtimeOnly - Dependency management for the runtimeOnly configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.1.0.M5
-    org.grails:grails-codecs 4.1.0.M5
-    org.grails:grails-console 4.1.0.M5
-    org.grails:grails-core 4.1.0.M5
-    org.grails:grails-databinding 4.1.0.M5
+    org.grails:grails-bootstrap 5.0.0.M1
+    org.grails:grails-codecs 5.0.0.M1
+    org.grails:grails-console 5.0.0.M1
+    org.grails:grails-core 5.0.0.M1
+    org.grails:grails-databinding 5.0.0.M1
     org.grails:grails-datastore-async 7.1.0.M5
     org.grails:grails-datastore-core 7.1.0.M5
     org.grails:grails-datastore-gorm 7.1.0.M5
@@ -13286,44 +13286,44 @@ runtimeOnly - Dependency management for the runtimeOnly configuration
     org.grails:grails-datastore-gorm-test 7.1.0.M5
     org.grails:grails-datastore-gorm-validation 7.1.0.M5
     org.grails:grails-datastore-web 7.1.0.M5
-    org.grails:grails-dependencies 4.1.0.M5
-    org.grails:grails-docs 4.1.0.M5
-    org.grails:grails-encoder 4.1.0.M5
+    org.grails:grails-dependencies 5.0.0.M1
+    org.grails:grails-docs 5.0.0.M1
+    org.grails:grails-encoder 5.0.0.M1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.2.0.M4
-    org.grails:grails-gradle-model 4.1.0.M5
-    org.grails:grails-gradle-plugin 4.1.0.M5
-    org.grails:grails-logging 4.1.0.M5
-    org.grails:grails-plugin-codecs 4.1.0.M5
-    org.grails:grails-plugin-controllers 4.1.0.M5
-    org.grails:grails-plugin-databinding 4.1.0.M5
-    org.grails:grails-plugin-datasource 4.1.0.M5
-    org.grails:grails-plugin-domain-class 4.1.0.M5
-    org.grails:grails-plugin-i18n 4.1.0.M5
-    org.grails:grails-plugin-interceptors 4.1.0.M5
-    org.grails:grails-plugin-mimetypes 4.1.0.M5
-    org.grails:grails-plugin-rest 4.1.0.M5
-    org.grails:grails-plugin-services 4.1.0.M5
-    org.grails:grails-plugin-url-mappings 4.1.0.M5
-    org.grails:grails-plugin-validation 4.1.0.M5
-    org.grails:grails-shell 4.1.0.M5
-    org.grails:grails-spring 4.1.0.M5
-    org.grails:grails-test 4.1.0.M5
-    org.grails:grails-test-suite-base 4.1.0.M5
-    org.grails:grails-test-suite-persistence 4.1.0.M5
-    org.grails:grails-test-suite-uber 4.1.0.M5
-    org.grails:grails-test-suite-web 4.1.0.M5
+    org.grails:grails-gradle-model 5.0.0.M1
+    org.grails:grails-gradle-plugin 5.0.0.M1
+    org.grails:grails-logging 5.0.0.M1
+    org.grails:grails-plugin-codecs 5.0.0.M1
+    org.grails:grails-plugin-controllers 5.0.0.M1
+    org.grails:grails-plugin-databinding 5.0.0.M1
+    org.grails:grails-plugin-datasource 5.0.0.M1
+    org.grails:grails-plugin-domain-class 5.0.0.M1
+    org.grails:grails-plugin-i18n 5.0.0.M1
+    org.grails:grails-plugin-interceptors 5.0.0.M1
+    org.grails:grails-plugin-mimetypes 5.0.0.M1
+    org.grails:grails-plugin-rest 5.0.0.M1
+    org.grails:grails-plugin-services 5.0.0.M1
+    org.grails:grails-plugin-url-mappings 5.0.0.M1
+    org.grails:grails-plugin-validation 5.0.0.M1
+    org.grails:grails-shell 5.0.0.M1
+    org.grails:grails-spring 5.0.0.M1
+    org.grails:grails-test 5.0.0.M1
+    org.grails:grails-test-suite-base 5.0.0.M1
+    org.grails:grails-test-suite-persistence 5.0.0.M1
+    org.grails:grails-test-suite-uber 5.0.0.M1
+    org.grails:grails-test-suite-web 5.0.0.M1
     org.grails:grails-testing-support 2.2.0.M4
-    org.grails:grails-web 4.1.0.M5
-    org.grails:grails-web-boot 4.1.0.M5
-    org.grails:grails-web-common 4.1.0.M5
-    org.grails:grails-web-databinding 4.1.0.M5
-    org.grails:grails-web-fileupload 4.1.0.M5
-    org.grails:grails-web-mvc 4.1.0.M5
+    org.grails:grails-web 5.0.0.M1
+    org.grails:grails-web-boot 5.0.0.M1
+    org.grails:grails-web-common 5.0.0.M1
+    org.grails:grails-web-databinding 5.0.0.M1
+    org.grails:grails-web-fileupload 5.0.0.M1
+    org.grails:grails-web-mvc 5.0.0.M1
     org.grails:grails-web-testing-support 2.2.0.M4
-    org.grails:grails-web-url-mappings 4.1.0.M5
+    org.grails:grails-web-url-mappings 5.0.0.M1
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.1.0.M4
     org.grails.plugins:async 4.0.0
@@ -14416,11 +14416,11 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.1.0.M5
-    org.grails:grails-codecs 4.1.0.M5
-    org.grails:grails-console 4.1.0.M5
-    org.grails:grails-core 4.1.0.M5
-    org.grails:grails-databinding 4.1.0.M5
+    org.grails:grails-bootstrap 5.0.0.M1
+    org.grails:grails-codecs 5.0.0.M1
+    org.grails:grails-console 5.0.0.M1
+    org.grails:grails-core 5.0.0.M1
+    org.grails:grails-databinding 5.0.0.M1
     org.grails:grails-datastore-async 7.1.0.M5
     org.grails:grails-datastore-core 7.1.0.M5
     org.grails:grails-datastore-gorm 7.1.0.M5
@@ -14431,44 +14431,44 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
     org.grails:grails-datastore-gorm-test 7.1.0.M5
     org.grails:grails-datastore-gorm-validation 7.1.0.M5
     org.grails:grails-datastore-web 7.1.0.M5
-    org.grails:grails-dependencies 4.1.0.M5
-    org.grails:grails-docs 4.1.0.M5
-    org.grails:grails-encoder 4.1.0.M5
+    org.grails:grails-dependencies 5.0.0.M1
+    org.grails:grails-docs 5.0.0.M1
+    org.grails:grails-encoder 5.0.0.M1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.2.0.M4
-    org.grails:grails-gradle-model 4.1.0.M5
-    org.grails:grails-gradle-plugin 4.1.0.M5
-    org.grails:grails-logging 4.1.0.M5
-    org.grails:grails-plugin-codecs 4.1.0.M5
-    org.grails:grails-plugin-controllers 4.1.0.M5
-    org.grails:grails-plugin-databinding 4.1.0.M5
-    org.grails:grails-plugin-datasource 4.1.0.M5
-    org.grails:grails-plugin-domain-class 4.1.0.M5
-    org.grails:grails-plugin-i18n 4.1.0.M5
-    org.grails:grails-plugin-interceptors 4.1.0.M5
-    org.grails:grails-plugin-mimetypes 4.1.0.M5
-    org.grails:grails-plugin-rest 4.1.0.M5
-    org.grails:grails-plugin-services 4.1.0.M5
-    org.grails:grails-plugin-url-mappings 4.1.0.M5
-    org.grails:grails-plugin-validation 4.1.0.M5
-    org.grails:grails-shell 4.1.0.M5
-    org.grails:grails-spring 4.1.0.M5
-    org.grails:grails-test 4.1.0.M5
-    org.grails:grails-test-suite-base 4.1.0.M5
-    org.grails:grails-test-suite-persistence 4.1.0.M5
-    org.grails:grails-test-suite-uber 4.1.0.M5
-    org.grails:grails-test-suite-web 4.1.0.M5
+    org.grails:grails-gradle-model 5.0.0.M1
+    org.grails:grails-gradle-plugin 5.0.0.M1
+    org.grails:grails-logging 5.0.0.M1
+    org.grails:grails-plugin-codecs 5.0.0.M1
+    org.grails:grails-plugin-controllers 5.0.0.M1
+    org.grails:grails-plugin-databinding 5.0.0.M1
+    org.grails:grails-plugin-datasource 5.0.0.M1
+    org.grails:grails-plugin-domain-class 5.0.0.M1
+    org.grails:grails-plugin-i18n 5.0.0.M1
+    org.grails:grails-plugin-interceptors 5.0.0.M1
+    org.grails:grails-plugin-mimetypes 5.0.0.M1
+    org.grails:grails-plugin-rest 5.0.0.M1
+    org.grails:grails-plugin-services 5.0.0.M1
+    org.grails:grails-plugin-url-mappings 5.0.0.M1
+    org.grails:grails-plugin-validation 5.0.0.M1
+    org.grails:grails-shell 5.0.0.M1
+    org.grails:grails-spring 5.0.0.M1
+    org.grails:grails-test 5.0.0.M1
+    org.grails:grails-test-suite-base 5.0.0.M1
+    org.grails:grails-test-suite-persistence 5.0.0.M1
+    org.grails:grails-test-suite-uber 5.0.0.M1
+    org.grails:grails-test-suite-web 5.0.0.M1
     org.grails:grails-testing-support 2.2.0.M4
-    org.grails:grails-web 4.1.0.M5
-    org.grails:grails-web-boot 4.1.0.M5
-    org.grails:grails-web-common 4.1.0.M5
-    org.grails:grails-web-databinding 4.1.0.M5
-    org.grails:grails-web-fileupload 4.1.0.M5
-    org.grails:grails-web-mvc 4.1.0.M5
+    org.grails:grails-web 5.0.0.M1
+    org.grails:grails-web-boot 5.0.0.M1
+    org.grails:grails-web-common 5.0.0.M1
+    org.grails:grails-web-databinding 5.0.0.M1
+    org.grails:grails-web-fileupload 5.0.0.M1
+    org.grails:grails-web-mvc 5.0.0.M1
     org.grails:grails-web-testing-support 2.2.0.M4
-    org.grails:grails-web-url-mappings 4.1.0.M5
+    org.grails:grails-web-url-mappings 5.0.0.M1
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.1.0.M4
     org.grails.plugins:async 4.0.0
@@ -15558,11 +15558,11 @@ testImplementation - Dependency management for the testImplementation configurat
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.1.0.M5
-    org.grails:grails-codecs 4.1.0.M5
-    org.grails:grails-console 4.1.0.M5
-    org.grails:grails-core 4.1.0.M5
-    org.grails:grails-databinding 4.1.0.M5
+    org.grails:grails-bootstrap 5.0.0.M1
+    org.grails:grails-codecs 5.0.0.M1
+    org.grails:grails-console 5.0.0.M1
+    org.grails:grails-core 5.0.0.M1
+    org.grails:grails-databinding 5.0.0.M1
     org.grails:grails-datastore-async 7.1.0.M5
     org.grails:grails-datastore-core 7.1.0.M5
     org.grails:grails-datastore-gorm 7.1.0.M5
@@ -15573,44 +15573,44 @@ testImplementation - Dependency management for the testImplementation configurat
     org.grails:grails-datastore-gorm-test 7.1.0.M5
     org.grails:grails-datastore-gorm-validation 7.1.0.M5
     org.grails:grails-datastore-web 7.1.0.M5
-    org.grails:grails-dependencies 4.1.0.M5
-    org.grails:grails-docs 4.1.0.M5
-    org.grails:grails-encoder 4.1.0.M5
+    org.grails:grails-dependencies 5.0.0.M1
+    org.grails:grails-docs 5.0.0.M1
+    org.grails:grails-encoder 5.0.0.M1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.2.0.M4
-    org.grails:grails-gradle-model 4.1.0.M5
-    org.grails:grails-gradle-plugin 4.1.0.M5
-    org.grails:grails-logging 4.1.0.M5
-    org.grails:grails-plugin-codecs 4.1.0.M5
-    org.grails:grails-plugin-controllers 4.1.0.M5
-    org.grails:grails-plugin-databinding 4.1.0.M5
-    org.grails:grails-plugin-datasource 4.1.0.M5
-    org.grails:grails-plugin-domain-class 4.1.0.M5
-    org.grails:grails-plugin-i18n 4.1.0.M5
-    org.grails:grails-plugin-interceptors 4.1.0.M5
-    org.grails:grails-plugin-mimetypes 4.1.0.M5
-    org.grails:grails-plugin-rest 4.1.0.M5
-    org.grails:grails-plugin-services 4.1.0.M5
-    org.grails:grails-plugin-url-mappings 4.1.0.M5
-    org.grails:grails-plugin-validation 4.1.0.M5
-    org.grails:grails-shell 4.1.0.M5
-    org.grails:grails-spring 4.1.0.M5
-    org.grails:grails-test 4.1.0.M5
-    org.grails:grails-test-suite-base 4.1.0.M5
-    org.grails:grails-test-suite-persistence 4.1.0.M5
-    org.grails:grails-test-suite-uber 4.1.0.M5
-    org.grails:grails-test-suite-web 4.1.0.M5
+    org.grails:grails-gradle-model 5.0.0.M1
+    org.grails:grails-gradle-plugin 5.0.0.M1
+    org.grails:grails-logging 5.0.0.M1
+    org.grails:grails-plugin-codecs 5.0.0.M1
+    org.grails:grails-plugin-controllers 5.0.0.M1
+    org.grails:grails-plugin-databinding 5.0.0.M1
+    org.grails:grails-plugin-datasource 5.0.0.M1
+    org.grails:grails-plugin-domain-class 5.0.0.M1
+    org.grails:grails-plugin-i18n 5.0.0.M1
+    org.grails:grails-plugin-interceptors 5.0.0.M1
+    org.grails:grails-plugin-mimetypes 5.0.0.M1
+    org.grails:grails-plugin-rest 5.0.0.M1
+    org.grails:grails-plugin-services 5.0.0.M1
+    org.grails:grails-plugin-url-mappings 5.0.0.M1
+    org.grails:grails-plugin-validation 5.0.0.M1
+    org.grails:grails-shell 5.0.0.M1
+    org.grails:grails-spring 5.0.0.M1
+    org.grails:grails-test 5.0.0.M1
+    org.grails:grails-test-suite-base 5.0.0.M1
+    org.grails:grails-test-suite-persistence 5.0.0.M1
+    org.grails:grails-test-suite-uber 5.0.0.M1
+    org.grails:grails-test-suite-web 5.0.0.M1
     org.grails:grails-testing-support 2.2.0.M4
-    org.grails:grails-web 4.1.0.M5
-    org.grails:grails-web-boot 4.1.0.M5
-    org.grails:grails-web-common 4.1.0.M5
-    org.grails:grails-web-databinding 4.1.0.M5
-    org.grails:grails-web-fileupload 4.1.0.M5
-    org.grails:grails-web-mvc 4.1.0.M5
+    org.grails:grails-web 5.0.0.M1
+    org.grails:grails-web-boot 5.0.0.M1
+    org.grails:grails-web-common 5.0.0.M1
+    org.grails:grails-web-databinding 5.0.0.M1
+    org.grails:grails-web-fileupload 5.0.0.M1
+    org.grails:grails-web-mvc 5.0.0.M1
     org.grails:grails-web-testing-support 2.2.0.M4
-    org.grails:grails-web-url-mappings 4.1.0.M5
+    org.grails:grails-web-url-mappings 5.0.0.M1
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.1.0.M4
     org.grails.plugins:async 4.0.0
@@ -16702,11 +16702,11 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.1.0.M5
-    org.grails:grails-codecs 4.1.0.M5
-    org.grails:grails-console 4.1.0.M5
-    org.grails:grails-core 4.1.0.M5
-    org.grails:grails-databinding 4.1.0.M5
+    org.grails:grails-bootstrap 5.0.0.M1
+    org.grails:grails-codecs 5.0.0.M1
+    org.grails:grails-console 5.0.0.M1
+    org.grails:grails-core 5.0.0.M1
+    org.grails:grails-databinding 5.0.0.M1
     org.grails:grails-datastore-async 7.1.0.M5
     org.grails:grails-datastore-core 7.1.0.M5
     org.grails:grails-datastore-gorm 7.1.0.M5
@@ -16717,44 +16717,44 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
     org.grails:grails-datastore-gorm-test 7.1.0.M5
     org.grails:grails-datastore-gorm-validation 7.1.0.M5
     org.grails:grails-datastore-web 7.1.0.M5
-    org.grails:grails-dependencies 4.1.0.M5
-    org.grails:grails-docs 4.1.0.M5
-    org.grails:grails-encoder 4.1.0.M5
+    org.grails:grails-dependencies 5.0.0.M1
+    org.grails:grails-docs 5.0.0.M1
+    org.grails:grails-encoder 5.0.0.M1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.2.0.M4
-    org.grails:grails-gradle-model 4.1.0.M5
-    org.grails:grails-gradle-plugin 4.1.0.M5
-    org.grails:grails-logging 4.1.0.M5
-    org.grails:grails-plugin-codecs 4.1.0.M5
-    org.grails:grails-plugin-controllers 4.1.0.M5
-    org.grails:grails-plugin-databinding 4.1.0.M5
-    org.grails:grails-plugin-datasource 4.1.0.M5
-    org.grails:grails-plugin-domain-class 4.1.0.M5
-    org.grails:grails-plugin-i18n 4.1.0.M5
-    org.grails:grails-plugin-interceptors 4.1.0.M5
-    org.grails:grails-plugin-mimetypes 4.1.0.M5
-    org.grails:grails-plugin-rest 4.1.0.M5
-    org.grails:grails-plugin-services 4.1.0.M5
-    org.grails:grails-plugin-url-mappings 4.1.0.M5
-    org.grails:grails-plugin-validation 4.1.0.M5
-    org.grails:grails-shell 4.1.0.M5
-    org.grails:grails-spring 4.1.0.M5
-    org.grails:grails-test 4.1.0.M5
-    org.grails:grails-test-suite-base 4.1.0.M5
-    org.grails:grails-test-suite-persistence 4.1.0.M5
-    org.grails:grails-test-suite-uber 4.1.0.M5
-    org.grails:grails-test-suite-web 4.1.0.M5
+    org.grails:grails-gradle-model 5.0.0.M1
+    org.grails:grails-gradle-plugin 5.0.0.M1
+    org.grails:grails-logging 5.0.0.M1
+    org.grails:grails-plugin-codecs 5.0.0.M1
+    org.grails:grails-plugin-controllers 5.0.0.M1
+    org.grails:grails-plugin-databinding 5.0.0.M1
+    org.grails:grails-plugin-datasource 5.0.0.M1
+    org.grails:grails-plugin-domain-class 5.0.0.M1
+    org.grails:grails-plugin-i18n 5.0.0.M1
+    org.grails:grails-plugin-interceptors 5.0.0.M1
+    org.grails:grails-plugin-mimetypes 5.0.0.M1
+    org.grails:grails-plugin-rest 5.0.0.M1
+    org.grails:grails-plugin-services 5.0.0.M1
+    org.grails:grails-plugin-url-mappings 5.0.0.M1
+    org.grails:grails-plugin-validation 5.0.0.M1
+    org.grails:grails-shell 5.0.0.M1
+    org.grails:grails-spring 5.0.0.M1
+    org.grails:grails-test 5.0.0.M1
+    org.grails:grails-test-suite-base 5.0.0.M1
+    org.grails:grails-test-suite-persistence 5.0.0.M1
+    org.grails:grails-test-suite-uber 5.0.0.M1
+    org.grails:grails-test-suite-web 5.0.0.M1
     org.grails:grails-testing-support 2.2.0.M4
-    org.grails:grails-web 4.1.0.M5
-    org.grails:grails-web-boot 4.1.0.M5
-    org.grails:grails-web-common 4.1.0.M5
-    org.grails:grails-web-databinding 4.1.0.M5
-    org.grails:grails-web-fileupload 4.1.0.M5
-    org.grails:grails-web-mvc 4.1.0.M5
+    org.grails:grails-web 5.0.0.M1
+    org.grails:grails-web-boot 5.0.0.M1
+    org.grails:grails-web-common 5.0.0.M1
+    org.grails:grails-web-databinding 5.0.0.M1
+    org.grails:grails-web-fileupload 5.0.0.M1
+    org.grails:grails-web-mvc 5.0.0.M1
     org.grails:grails-web-testing-support 2.2.0.M4
-    org.grails:grails-web-url-mappings 4.1.0.M5
+    org.grails:grails-web-url-mappings 5.0.0.M1
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.1.0.M4
     org.grails.plugins:async 4.0.0
@@ -17843,11 +17843,11 @@ testRuntimeOnly - Dependency management for the testRuntimeOnly configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.1.0.M5
-    org.grails:grails-codecs 4.1.0.M5
-    org.grails:grails-console 4.1.0.M5
-    org.grails:grails-core 4.1.0.M5
-    org.grails:grails-databinding 4.1.0.M5
+    org.grails:grails-bootstrap 5.0.0.M1
+    org.grails:grails-codecs 5.0.0.M1
+    org.grails:grails-console 5.0.0.M1
+    org.grails:grails-core 5.0.0.M1
+    org.grails:grails-databinding 5.0.0.M1
     org.grails:grails-datastore-async 7.1.0.M5
     org.grails:grails-datastore-core 7.1.0.M5
     org.grails:grails-datastore-gorm 7.1.0.M5
@@ -17858,44 +17858,44 @@ testRuntimeOnly - Dependency management for the testRuntimeOnly configuration
     org.grails:grails-datastore-gorm-test 7.1.0.M5
     org.grails:grails-datastore-gorm-validation 7.1.0.M5
     org.grails:grails-datastore-web 7.1.0.M5
-    org.grails:grails-dependencies 4.1.0.M5
-    org.grails:grails-docs 4.1.0.M5
-    org.grails:grails-encoder 4.1.0.M5
+    org.grails:grails-dependencies 5.0.0.M1
+    org.grails:grails-docs 5.0.0.M1
+    org.grails:grails-encoder 5.0.0.M1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.2.0.M4
-    org.grails:grails-gradle-model 4.1.0.M5
-    org.grails:grails-gradle-plugin 4.1.0.M5
-    org.grails:grails-logging 4.1.0.M5
-    org.grails:grails-plugin-codecs 4.1.0.M5
-    org.grails:grails-plugin-controllers 4.1.0.M5
-    org.grails:grails-plugin-databinding 4.1.0.M5
-    org.grails:grails-plugin-datasource 4.1.0.M5
-    org.grails:grails-plugin-domain-class 4.1.0.M5
-    org.grails:grails-plugin-i18n 4.1.0.M5
-    org.grails:grails-plugin-interceptors 4.1.0.M5
-    org.grails:grails-plugin-mimetypes 4.1.0.M5
-    org.grails:grails-plugin-rest 4.1.0.M5
-    org.grails:grails-plugin-services 4.1.0.M5
-    org.grails:grails-plugin-url-mappings 4.1.0.M5
-    org.grails:grails-plugin-validation 4.1.0.M5
-    org.grails:grails-shell 4.1.0.M5
-    org.grails:grails-spring 4.1.0.M5
-    org.grails:grails-test 4.1.0.M5
-    org.grails:grails-test-suite-base 4.1.0.M5
-    org.grails:grails-test-suite-persistence 4.1.0.M5
-    org.grails:grails-test-suite-uber 4.1.0.M5
-    org.grails:grails-test-suite-web 4.1.0.M5
+    org.grails:grails-gradle-model 5.0.0.M1
+    org.grails:grails-gradle-plugin 5.0.0.M1
+    org.grails:grails-logging 5.0.0.M1
+    org.grails:grails-plugin-codecs 5.0.0.M1
+    org.grails:grails-plugin-controllers 5.0.0.M1
+    org.grails:grails-plugin-databinding 5.0.0.M1
+    org.grails:grails-plugin-datasource 5.0.0.M1
+    org.grails:grails-plugin-domain-class 5.0.0.M1
+    org.grails:grails-plugin-i18n 5.0.0.M1
+    org.grails:grails-plugin-interceptors 5.0.0.M1
+    org.grails:grails-plugin-mimetypes 5.0.0.M1
+    org.grails:grails-plugin-rest 5.0.0.M1
+    org.grails:grails-plugin-services 5.0.0.M1
+    org.grails:grails-plugin-url-mappings 5.0.0.M1
+    org.grails:grails-plugin-validation 5.0.0.M1
+    org.grails:grails-shell 5.0.0.M1
+    org.grails:grails-spring 5.0.0.M1
+    org.grails:grails-test 5.0.0.M1
+    org.grails:grails-test-suite-base 5.0.0.M1
+    org.grails:grails-test-suite-persistence 5.0.0.M1
+    org.grails:grails-test-suite-uber 5.0.0.M1
+    org.grails:grails-test-suite-web 5.0.0.M1
     org.grails:grails-testing-support 2.2.0.M4
-    org.grails:grails-web 4.1.0.M5
-    org.grails:grails-web-boot 4.1.0.M5
-    org.grails:grails-web-common 4.1.0.M5
-    org.grails:grails-web-databinding 4.1.0.M5
-    org.grails:grails-web-fileupload 4.1.0.M5
-    org.grails:grails-web-mvc 4.1.0.M5
+    org.grails:grails-web 5.0.0.M1
+    org.grails:grails-web-boot 5.0.0.M1
+    org.grails:grails-web-common 5.0.0.M1
+    org.grails:grails-web-databinding 5.0.0.M1
+    org.grails:grails-web-fileupload 5.0.0.M1
+    org.grails:grails-web-mvc 5.0.0.M1
     org.grails:grails-web-testing-support 2.2.0.M4
-    org.grails:grails-web-url-mappings 4.1.0.M5
+    org.grails:grails-web-url-mappings 5.0.0.M1
     org.grails:scaffolding-core 2.1.0
     org.grails:views-json-testing-support 2.1.0.M4
     org.grails.plugins:async 4.0.0
@@ -18329,7 +18329,7 @@ testRuntimeOnly - Dependency management for the testRuntimeOnly configuration
     wsdl4j:wsdl4j 1.6.3
 
 
-[32;1mBUILD SUCCESSFUL[0;39m in 10s
+[32;1mBUILD SUCCESSFUL[0;39m in 19s
 1 actionable task: 1 executed
 [0K
 [0K
@@ -18340,4 +18340,4 @@ testRuntimeOnly - Dependency management for the testRuntimeOnly configuration
 [0K
 [0K
 [0K
-[9A[1m<[0;1m-------------> 0% WAITING[m[26D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B[1m> :dependencyManagement[m[23D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B[4A> IDLE[0K[6D[4B[9A[2K[1B[2K[1B[2K[1B[2K[1B[2K[1B[2K[1B[2K[1B[2K[1B[2K[8A
+[9A[1m<[0;1m-------------> 0% WAITING[m[26D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B[1m> :dependencyManagement[m[23D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B> IDLE[6D[1B[5A> IDLE[0K[6D[5B[9A[2K[1B[2K[1B[2K[1B[2K[1B[2K[1B[2K[1B[2K[1B[2K[1B[2K[8A
