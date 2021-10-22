@@ -1,90 +1,118 @@
-Download https://repo.grails.org/grails/core/org/grails/grails-gradle-plugin/3.2.12/grails-gradle-plugin-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-gradle-model/3.2.12/grails-gradle-model-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-shell/3.2.12/grails-shell-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-bootstrap/3.2.12/grails-bootstrap-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-gradle-plugin/3.2.12/grails-gradle-plugin-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-gradle-model/3.2.12/grails-gradle-model-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-shell/3.2.12/grails-shell-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-bootstrap/3.2.12/grails-bootstrap-3.2.12.jar
-Download https://repo.grails.org/grails/core/io/methvin/directory-watcher/0.3.0/directory-watcher-0.3.0.pom
-Download https://repo.grails.org/grails/core/org/scala-lang/scala-library/2.12.3/scala-library-2.12.3.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-core/3.2.12/grails-core-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-dependencies/3.2.12/grails-dependencies-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-web-boot/3.2.12/grails-web-boot-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-spring/3.2.12/grails-spring-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-rest/3.2.12/grails-plugin-rest-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-databinding/3.2.12/grails-plugin-databinding-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-i18n/3.2.12/grails-plugin-i18n-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-gsp/3.2.12/grails-plugin-gsp-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-services/3.2.12/grails-plugin-services-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-url-mappings/3.2.12/grails-plugin-url-mappings-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-interceptors/3.2.12/grails-plugin-interceptors-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-async/3.2.12/grails-plugin-async-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-web-common/3.2.12/grails-web-common-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-web/3.2.12/grails-web-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-controllers/3.2.12/grails-plugin-controllers-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-datasource/3.2.12/grails-plugin-datasource-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-codecs/3.2.12/grails-plugin-codecs-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-logging/3.2.12/grails-logging-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-web-gsp-taglib/3.2.12/grails-web-gsp-taglib-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-events/3.2.12/grails-plugin-events-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-validation/3.2.12/grails-validation-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-databinding/3.2.12/grails-databinding-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-encoder/3.2.12/grails-encoder-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-gsp/3.2.12/grails-gsp-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-web-gsp/3.2.12/grails-web-gsp-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-web-databinding/3.2.12/grails-web-databinding-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-web-url-mappings/3.2.12/grails-web-url-mappings-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-web-jsp/3.2.12/grails-web-jsp-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-web-mvc/3.2.12/grails-web-mvc-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-web-sitemesh/3.2.12/grails-web-sitemesh-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-async/3.2.12/grails-async-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-converters/3.2.12/grails-plugin-converters-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-mimetypes/3.2.12/grails-plugin-mimetypes-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-validation/3.2.12/grails-plugin-validation-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-domain-class/3.2.12/grails-plugin-domain-class-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-codecs/3.2.12/grails-codecs-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-taglib/3.2.12/grails-taglib-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-web-taglib/3.2.12/grails-web-taglib-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-core/3.2.12/grails-core-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-boot/3.2.12/grails-web-boot-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-spring/3.2.12/grails-spring-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-rest/3.2.12/grails-plugin-rest-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-databinding/3.2.12/grails-plugin-databinding-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-i18n/3.2.12/grails-plugin-i18n-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-gsp/3.2.12/grails-plugin-gsp-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-services/3.2.12/grails-plugin-services-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-url-mappings/3.2.12/grails-plugin-url-mappings-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-interceptors/3.2.12/grails-plugin-interceptors-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-async/3.2.12/grails-plugin-async-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-common/3.2.12/grails-web-common-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web/3.2.12/grails-web-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-controllers/3.2.12/grails-plugin-controllers-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-datasource/3.2.12/grails-plugin-datasource-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-codecs/3.2.12/grails-plugin-codecs-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-logging/3.2.12/grails-logging-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-gsp-taglib/3.2.12/grails-web-gsp-taglib-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-events/3.2.12/grails-plugin-events-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-validation/3.2.12/grails-validation-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-databinding/3.2.12/grails-databinding-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-encoder/3.2.12/grails-encoder-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-gsp/3.2.12/grails-gsp-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-gsp/3.2.12/grails-web-gsp-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-databinding/3.2.12/grails-web-databinding-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-url-mappings/3.2.12/grails-web-url-mappings-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-jsp/3.2.12/grails-web-jsp-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-mvc/3.2.12/grails-web-mvc-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-sitemesh/3.2.12/grails-web-sitemesh-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-async/3.2.12/grails-async-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-converters/3.2.12/grails-plugin-converters-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-mimetypes/3.2.12/grails-plugin-mimetypes-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-validation/3.2.12/grails-plugin-validation-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-domain-class/3.2.12/grails-plugin-domain-class-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-codecs/3.2.12/grails-codecs-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-taglib/3.2.12/grails-taglib-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-taglib/3.2.12/grails-web-taglib-3.2.12.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-console/3.2.12/grails-console-3.2.12.pom
-Download https://repo.grails.org/grails/core/org/grails/grails-console/3.2.12/grails-console-3.2.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-gradle-plugin/3.2.13/grails-gradle-plugin-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy/2.4.15/groovy-2.4.15.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-gradle-model/3.2.13/grails-gradle-model-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-shell/3.2.13/grails-shell-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-bootstrap/3.2.13/grails-bootstrap-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-ant/2.4.15/groovy-ant-2.4.15.pom
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-json/2.4.15/groovy-json-2.4.15.pom
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-jmx/2.4.15/groovy-jmx-2.4.15.pom
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-xml/2.4.15/groovy-xml-2.4.15.pom
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-templates/2.4.15/groovy-templates-2.4.15.pom
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-groovydoc/2.4.15/groovy-groovydoc-2.4.15.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-gradle-plugin/3.2.13/grails-gradle-plugin-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy/2.4.15/groovy-2.4.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-gradle-model/3.2.13/grails-gradle-model-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-shell/3.2.13/grails-shell-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-bootstrap/3.2.13/grails-bootstrap-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-ant/2.4.15/groovy-ant-2.4.15.jar
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-json/2.4.15/groovy-json-2.4.15.jar
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-jmx/2.4.15/groovy-jmx-2.4.15.jar
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-xml/2.4.15/groovy-xml-2.4.15.jar
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-templates/2.4.15/groovy-templates-2.4.15.jar
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-groovydoc/2.4.15/groovy-groovydoc-2.4.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-core/3.2.13/grails-core-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-dependencies/3.2.13/grails-dependencies-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-web-boot/3.2.13/grails-web-boot-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/springframework/spring-tx/4.3.16.RELEASE/spring-tx-4.3.16.RELEASE.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-spring/3.2.13/grails-spring-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-rest/3.2.13/grails-plugin-rest-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-databinding/3.2.13/grails-plugin-databinding-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-i18n/3.2.13/grails-plugin-i18n-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-gsp/3.2.13/grails-plugin-gsp-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-services/3.2.13/grails-plugin-services-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-url-mappings/3.2.13/grails-plugin-url-mappings-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-interceptors/3.2.13/grails-plugin-interceptors-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-async/3.2.13/grails-plugin-async-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-web-common/3.2.13/grails-web-common-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/springframework/spring-orm/4.3.16.RELEASE/spring-orm-4.3.16.RELEASE.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-web/3.2.13/grails-web-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-controllers/3.2.13/grails-plugin-controllers-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-datasource/3.2.13/grails-plugin-datasource-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-codecs/3.2.13/grails-plugin-codecs-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-logging/3.2.13/grails-logging-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-web-gsp-taglib/3.2.13/grails-web-gsp-taglib-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-events/3.2.13/grails-plugin-events-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-validation/3.2.13/grails-validation-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-databinding/3.2.13/grails-databinding-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-encoder/3.2.13/grails-encoder-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-gsp/3.2.13/grails-gsp-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/springframework/spring-context-support/4.3.16.RELEASE/spring-context-support-4.3.16.RELEASE.pom
+Download https://repo.grails.org/grails/core/org/springframework/spring-jdbc/4.3.16.RELEASE/spring-jdbc-4.3.16.RELEASE.pom
+Download https://repo.grails.org/grails/core/org/springframework/spring-aspects/4.3.16.RELEASE/spring-aspects-4.3.16.RELEASE.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-web-gsp/3.2.13/grails-web-gsp-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-web-databinding/3.2.13/grails-web-databinding-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-web-url-mappings/3.2.13/grails-web-url-mappings-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-web-jsp/3.2.13/grails-web-jsp-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-web-mvc/3.2.13/grails-web-mvc-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-web-sitemesh/3.2.13/grails-web-sitemesh-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-async/3.2.13/grails-async-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-converters/3.2.13/grails-plugin-converters-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-mimetypes/3.2.13/grails-plugin-mimetypes-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-validation/3.2.13/grails-plugin-validation-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-domain-class/3.2.13/grails-plugin-domain-class-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-sql/2.4.15/groovy-sql-2.4.15.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-codecs/3.2.13/grails-codecs-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-taglib/3.2.13/grails-taglib-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-web-taglib/3.2.13/grails-web-taglib-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-core/3.2.13/grails-core-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-boot/3.2.13/grails-web-boot-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-tx/4.3.16.RELEASE/spring-tx-4.3.16.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-spring/3.2.13/grails-spring-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-rest/3.2.13/grails-plugin-rest-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-databinding/3.2.13/grails-plugin-databinding-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-i18n/3.2.13/grails-plugin-i18n-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-gsp/3.2.13/grails-plugin-gsp-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-services/3.2.13/grails-plugin-services-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-url-mappings/3.2.13/grails-plugin-url-mappings-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-interceptors/3.2.13/grails-plugin-interceptors-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-async/3.2.13/grails-plugin-async-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-common/3.2.13/grails-web-common-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-orm/4.3.16.RELEASE/spring-orm-4.3.16.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web/3.2.13/grails-web-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-controllers/3.2.13/grails-plugin-controllers-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-datasource/3.2.13/grails-plugin-datasource-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-codecs/3.2.13/grails-plugin-codecs-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-logging/3.2.13/grails-logging-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-gsp-taglib/3.2.13/grails-web-gsp-taglib-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-events/3.2.13/grails-plugin-events-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-validation/3.2.13/grails-validation-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-databinding/3.2.13/grails-databinding-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-encoder/3.2.13/grails-encoder-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-gsp/3.2.13/grails-gsp-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-context-support/4.3.16.RELEASE/spring-context-support-4.3.16.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-jdbc/4.3.16.RELEASE/spring-jdbc-4.3.16.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-aspects/4.3.16.RELEASE/spring-aspects-4.3.16.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-gsp/3.2.13/grails-web-gsp-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-databinding/3.2.13/grails-web-databinding-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-url-mappings/3.2.13/grails-web-url-mappings-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-jsp/3.2.13/grails-web-jsp-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-mvc/3.2.13/grails-web-mvc-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-sitemesh/3.2.13/grails-web-sitemesh-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-async/3.2.13/grails-async-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-converters/3.2.13/grails-plugin-converters-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-mimetypes/3.2.13/grails-plugin-mimetypes-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-validation/3.2.13/grails-plugin-validation-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-domain-class/3.2.13/grails-plugin-domain-class-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-sql/2.4.15/groovy-sql-2.4.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-codecs/3.2.13/grails-codecs-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-taglib/3.2.13/grails-taglib-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-taglib/3.2.13/grails-web-taglib-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-console/3.2.13/grails-console-3.2.13.pom
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-console/2.4.15/groovy-console-2.4.15.pom
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-swing/2.4.15/groovy-swing-2.4.15.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-console/3.2.13/grails-console-3.2.13.jar
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-console/2.4.15/groovy-console-2.4.15.jar
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-swing/2.4.15/groovy-swing-2.4.15.jar
 :dependencyManagement
 
 ------------------------------------------------------------
@@ -255,25 +283,25 @@ global - Default dependency management for all configurations
     org.aspectj:aspectjweaver 1.8.10
     org.assertj:assertj-core 2.5.0
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.4.11
+    org.codehaus.groovy:groovy 2.4.15
     org.codehaus.groovy:groovy-all 2.4.10
-    org.codehaus.groovy:groovy-ant 2.4.11
+    org.codehaus.groovy:groovy-ant 2.4.15
     org.codehaus.groovy:groovy-bsf 2.4.10
-    org.codehaus.groovy:groovy-console 2.4.11
+    org.codehaus.groovy:groovy-console 2.4.15
     org.codehaus.groovy:groovy-docgenerator 2.4.10
     org.codehaus.groovy:groovy-groovydoc 2.4.10
     org.codehaus.groovy:groovy-groovysh 2.4.10
     org.codehaus.groovy:groovy-jmx 2.4.10
-    org.codehaus.groovy:groovy-json 2.4.11
+    org.codehaus.groovy:groovy-json 2.4.15
     org.codehaus.groovy:groovy-jsr223 2.4.10
-    org.codehaus.groovy:groovy-nio 2.4.11
+    org.codehaus.groovy:groovy-nio 2.4.15
     org.codehaus.groovy:groovy-servlet 2.4.10
-    org.codehaus.groovy:groovy-sql 2.4.11
-    org.codehaus.groovy:groovy-swing 2.4.11
-    org.codehaus.groovy:groovy-templates 2.4.11
+    org.codehaus.groovy:groovy-sql 2.4.15
+    org.codehaus.groovy:groovy-swing 2.4.15
+    org.codehaus.groovy:groovy-templates 2.4.15
     org.codehaus.groovy:groovy-test 2.4.10
     org.codehaus.groovy:groovy-testng 2.4.10
-    org.codehaus.groovy:groovy-xml 2.4.11
+    org.codehaus.groovy:groovy-xml 2.4.15
     org.codehaus.janino:janino 2.7.8
     org.crashub:crash.cli 1.3.2
     org.crashub:crash.connectors.ssh 1.3.2
@@ -319,12 +347,12 @@ global - Default dependency management for all configurations
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.12
-    org.grails:grails-bootstrap 3.2.12
-    org.grails:grails-codecs 3.2.12
-    org.grails:grails-console 3.2.12
-    org.grails:grails-core 3.2.12
-    org.grails:grails-databinding 3.2.12
+    org.grails:grails-async 3.2.13
+    org.grails:grails-bootstrap 3.2.13
+    org.grails:grails-codecs 3.2.13
+    org.grails:grails-console 3.2.13
+    org.grails:grails-core 3.2.13
+    org.grails:grails-databinding 3.2.13
     org.grails:grails-datastore-core 6.0.12.RELEASE
     org.grails:grails-datastore-gorm 6.0.12.RELEASE
     org.grails:grails-datastore-gorm-support 6.0.12.RELEASE
@@ -335,51 +363,51 @@ global - Default dependency management for all configurations
     org.grails:grails-datastore-simple 6.0.12.RELEASE
     org.grails:grails-datastore-test-support 6.0.12.RELEASE
     org.grails:grails-datastore-web 6.0.12.RELEASE
-    org.grails:grails-dependencies 3.2.12
-    org.grails:grails-docs 3.2.12
-    org.grails:grails-encoder 3.2.12
-    org.grails:grails-gradle-model 3.2.12
-    org.grails:grails-gradle-plugin 3.2.12
-    org.grails:grails-gsp 3.2.12
-    org.grails:grails-logging 3.2.12
-    org.grails:grails-plugin-async 3.2.12
-    org.grails:grails-plugin-codecs 3.2.12
-    org.grails:grails-plugin-controllers 3.2.12
-    org.grails:grails-plugin-converters 3.2.12
-    org.grails:grails-plugin-databinding 3.2.12
-    org.grails:grails-plugin-datasource 3.2.12
-    org.grails:grails-plugin-domain-class 3.2.12
-    org.grails:grails-plugin-events 3.2.12
-    org.grails:grails-plugin-gsp 3.2.12
-    org.grails:grails-plugin-i18n 3.2.12
-    org.grails:grails-plugin-interceptors 3.2.12
-    org.grails:grails-plugin-mimetypes 3.2.12
-    org.grails:grails-plugin-rest 3.2.12
-    org.grails:grails-plugin-services 3.2.12
-    org.grails:grails-plugin-testing 3.2.12
-    org.grails:grails-plugin-url-mappings 3.2.12
-    org.grails:grails-plugin-validation 3.2.12
-    org.grails:grails-shell 3.2.12
-    org.grails:grails-spring 3.2.12
-    org.grails:grails-taglib 3.2.12
-    org.grails:grails-test 3.2.12
-    org.grails:grails-test-suite-base 3.2.12
-    org.grails:grails-test-suite-persistence 3.2.12
-    org.grails:grails-test-suite-uber 3.2.12
-    org.grails:grails-test-suite-web 3.2.12
-    org.grails:grails-validation 3.2.12
-    org.grails:grails-web 3.2.12
-    org.grails:grails-web-boot 3.2.12
-    org.grails:grails-web-common 3.2.12
-    org.grails:grails-web-databinding 3.2.12
-    org.grails:grails-web-fileupload 3.2.12
-    org.grails:grails-web-gsp 3.2.12
-    org.grails:grails-web-gsp-taglib 3.2.12
-    org.grails:grails-web-jsp 3.2.12
-    org.grails:grails-web-mvc 3.2.12
-    org.grails:grails-web-sitemesh 3.2.12
-    org.grails:grails-web-taglib 3.2.12
-    org.grails:grails-web-url-mappings 3.2.12
+    org.grails:grails-dependencies 3.2.13
+    org.grails:grails-docs 3.2.13
+    org.grails:grails-encoder 3.2.13
+    org.grails:grails-gradle-model 3.2.13
+    org.grails:grails-gradle-plugin 3.2.13
+    org.grails:grails-gsp 3.2.13
+    org.grails:grails-logging 3.2.13
+    org.grails:grails-plugin-async 3.2.13
+    org.grails:grails-plugin-codecs 3.2.13
+    org.grails:grails-plugin-controllers 3.2.13
+    org.grails:grails-plugin-converters 3.2.13
+    org.grails:grails-plugin-databinding 3.2.13
+    org.grails:grails-plugin-datasource 3.2.13
+    org.grails:grails-plugin-domain-class 3.2.13
+    org.grails:grails-plugin-events 3.2.13
+    org.grails:grails-plugin-gsp 3.2.13
+    org.grails:grails-plugin-i18n 3.2.13
+    org.grails:grails-plugin-interceptors 3.2.13
+    org.grails:grails-plugin-mimetypes 3.2.13
+    org.grails:grails-plugin-rest 3.2.13
+    org.grails:grails-plugin-services 3.2.13
+    org.grails:grails-plugin-testing 3.2.13
+    org.grails:grails-plugin-url-mappings 3.2.13
+    org.grails:grails-plugin-validation 3.2.13
+    org.grails:grails-shell 3.2.13
+    org.grails:grails-spring 3.2.13
+    org.grails:grails-taglib 3.2.13
+    org.grails:grails-test 3.2.13
+    org.grails:grails-test-suite-base 3.2.13
+    org.grails:grails-test-suite-persistence 3.2.13
+    org.grails:grails-test-suite-uber 3.2.13
+    org.grails:grails-test-suite-web 3.2.13
+    org.grails:grails-validation 3.2.13
+    org.grails:grails-web 3.2.13
+    org.grails:grails-web-boot 3.2.13
+    org.grails:grails-web-common 3.2.13
+    org.grails:grails-web-databinding 3.2.13
+    org.grails:grails-web-fileupload 3.2.13
+    org.grails:grails-web-gsp 3.2.13
+    org.grails:grails-web-gsp-taglib 3.2.13
+    org.grails:grails-web-jsp 3.2.13
+    org.grails:grails-web-mvc 3.2.13
+    org.grails:grails-web-sitemesh 3.2.13
+    org.grails:grails-web-taglib 3.2.13
+    org.grails:grails-web-url-mappings 3.2.13
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.5
     org.grails.plugins:geb 1.0.2
@@ -467,26 +495,26 @@ global - Default dependency management for all configurations
     org.slf4j:slf4j-simple 1.7.25
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.3.9.RELEASE
-    org.springframework:spring-aspects 4.3.9.RELEASE
-    org.springframework:spring-beans 4.3.9.RELEASE
-    org.springframework:spring-context 4.3.9.RELEASE
-    org.springframework:spring-context-support 4.3.9.RELEASE
-    org.springframework:spring-core 4.3.9.RELEASE
-    org.springframework:spring-expression 4.3.9.RELEASE
-    org.springframework:spring-instrument 4.3.9.RELEASE
+    org.springframework:spring-aop 4.3.16.RELEASE
+    org.springframework:spring-aspects 4.3.16.RELEASE
+    org.springframework:spring-beans 4.3.16.RELEASE
+    org.springframework:spring-context 4.3.16.RELEASE
+    org.springframework:spring-context-support 4.3.16.RELEASE
+    org.springframework:spring-core 4.3.16.RELEASE
+    org.springframework:spring-expression 4.3.16.RELEASE
+    org.springframework:spring-instrument 4.3.16.RELEASE
     org.springframework:spring-instrument-tomcat 4.3.8.RELEASE
-    org.springframework:spring-jdbc 4.3.9.RELEASE
-    org.springframework:spring-jms 4.3.9.RELEASE
-    org.springframework:spring-messaging 4.3.9.RELEASE
-    org.springframework:spring-orm 4.3.9.RELEASE
-    org.springframework:spring-oxm 4.3.9.RELEASE
-    org.springframework:spring-test 4.3.9.RELEASE
-    org.springframework:spring-tx 4.3.9.RELEASE
-    org.springframework:spring-web 4.3.9.RELEASE
-    org.springframework:spring-webmvc 4.3.9.RELEASE
+    org.springframework:spring-jdbc 4.3.16.RELEASE
+    org.springframework:spring-jms 4.3.16.RELEASE
+    org.springframework:spring-messaging 4.3.16.RELEASE
+    org.springframework:spring-orm 4.3.16.RELEASE
+    org.springframework:spring-oxm 4.3.16.RELEASE
+    org.springframework:spring-test 4.3.16.RELEASE
+    org.springframework:spring-tx 4.3.16.RELEASE
+    org.springframework:spring-web 4.3.16.RELEASE
+    org.springframework:spring-webmvc 4.3.16.RELEASE
     org.springframework:spring-webmvc-portlet 4.3.8.RELEASE
-    org.springframework:spring-websocket 4.3.9.RELEASE
+    org.springframework:spring-websocket 4.3.16.RELEASE
     org.springframework:springloaded 1.2.8.RELEASE
     org.springframework.amqp:spring-amqp 1.6.9.RELEASE
     org.springframework.amqp:spring-rabbit 1.6.9.RELEASE
@@ -836,25 +864,25 @@ apiElements - Dependency management for the apiElements configuration
     org.aspectj:aspectjweaver 1.8.10
     org.assertj:assertj-core 2.5.0
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.4.11
+    org.codehaus.groovy:groovy 2.4.15
     org.codehaus.groovy:groovy-all 2.4.10
-    org.codehaus.groovy:groovy-ant 2.4.11
+    org.codehaus.groovy:groovy-ant 2.4.15
     org.codehaus.groovy:groovy-bsf 2.4.10
-    org.codehaus.groovy:groovy-console 2.4.11
+    org.codehaus.groovy:groovy-console 2.4.15
     org.codehaus.groovy:groovy-docgenerator 2.4.10
     org.codehaus.groovy:groovy-groovydoc 2.4.10
     org.codehaus.groovy:groovy-groovysh 2.4.10
     org.codehaus.groovy:groovy-jmx 2.4.10
-    org.codehaus.groovy:groovy-json 2.4.11
+    org.codehaus.groovy:groovy-json 2.4.15
     org.codehaus.groovy:groovy-jsr223 2.4.10
-    org.codehaus.groovy:groovy-nio 2.4.11
+    org.codehaus.groovy:groovy-nio 2.4.15
     org.codehaus.groovy:groovy-servlet 2.4.10
-    org.codehaus.groovy:groovy-sql 2.4.11
-    org.codehaus.groovy:groovy-swing 2.4.11
-    org.codehaus.groovy:groovy-templates 2.4.11
+    org.codehaus.groovy:groovy-sql 2.4.15
+    org.codehaus.groovy:groovy-swing 2.4.15
+    org.codehaus.groovy:groovy-templates 2.4.15
     org.codehaus.groovy:groovy-test 2.4.10
     org.codehaus.groovy:groovy-testng 2.4.10
-    org.codehaus.groovy:groovy-xml 2.4.11
+    org.codehaus.groovy:groovy-xml 2.4.15
     org.codehaus.janino:janino 2.7.8
     org.crashub:crash.cli 1.3.2
     org.crashub:crash.connectors.ssh 1.3.2
@@ -900,12 +928,12 @@ apiElements - Dependency management for the apiElements configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.12
-    org.grails:grails-bootstrap 3.2.12
-    org.grails:grails-codecs 3.2.12
-    org.grails:grails-console 3.2.12
-    org.grails:grails-core 3.2.12
-    org.grails:grails-databinding 3.2.12
+    org.grails:grails-async 3.2.13
+    org.grails:grails-bootstrap 3.2.13
+    org.grails:grails-codecs 3.2.13
+    org.grails:grails-console 3.2.13
+    org.grails:grails-core 3.2.13
+    org.grails:grails-databinding 3.2.13
     org.grails:grails-datastore-core 6.0.12.RELEASE
     org.grails:grails-datastore-gorm 6.0.12.RELEASE
     org.grails:grails-datastore-gorm-support 6.0.12.RELEASE
@@ -916,51 +944,51 @@ apiElements - Dependency management for the apiElements configuration
     org.grails:grails-datastore-simple 6.0.12.RELEASE
     org.grails:grails-datastore-test-support 6.0.12.RELEASE
     org.grails:grails-datastore-web 6.0.12.RELEASE
-    org.grails:grails-dependencies 3.2.12
-    org.grails:grails-docs 3.2.12
-    org.grails:grails-encoder 3.2.12
-    org.grails:grails-gradle-model 3.2.12
-    org.grails:grails-gradle-plugin 3.2.12
-    org.grails:grails-gsp 3.2.12
-    org.grails:grails-logging 3.2.12
-    org.grails:grails-plugin-async 3.2.12
-    org.grails:grails-plugin-codecs 3.2.12
-    org.grails:grails-plugin-controllers 3.2.12
-    org.grails:grails-plugin-converters 3.2.12
-    org.grails:grails-plugin-databinding 3.2.12
-    org.grails:grails-plugin-datasource 3.2.12
-    org.grails:grails-plugin-domain-class 3.2.12
-    org.grails:grails-plugin-events 3.2.12
-    org.grails:grails-plugin-gsp 3.2.12
-    org.grails:grails-plugin-i18n 3.2.12
-    org.grails:grails-plugin-interceptors 3.2.12
-    org.grails:grails-plugin-mimetypes 3.2.12
-    org.grails:grails-plugin-rest 3.2.12
-    org.grails:grails-plugin-services 3.2.12
-    org.grails:grails-plugin-testing 3.2.12
-    org.grails:grails-plugin-url-mappings 3.2.12
-    org.grails:grails-plugin-validation 3.2.12
-    org.grails:grails-shell 3.2.12
-    org.grails:grails-spring 3.2.12
-    org.grails:grails-taglib 3.2.12
-    org.grails:grails-test 3.2.12
-    org.grails:grails-test-suite-base 3.2.12
-    org.grails:grails-test-suite-persistence 3.2.12
-    org.grails:grails-test-suite-uber 3.2.12
-    org.grails:grails-test-suite-web 3.2.12
-    org.grails:grails-validation 3.2.12
-    org.grails:grails-web 3.2.12
-    org.grails:grails-web-boot 3.2.12
-    org.grails:grails-web-common 3.2.12
-    org.grails:grails-web-databinding 3.2.12
-    org.grails:grails-web-fileupload 3.2.12
-    org.grails:grails-web-gsp 3.2.12
-    org.grails:grails-web-gsp-taglib 3.2.12
-    org.grails:grails-web-jsp 3.2.12
-    org.grails:grails-web-mvc 3.2.12
-    org.grails:grails-web-sitemesh 3.2.12
-    org.grails:grails-web-taglib 3.2.12
-    org.grails:grails-web-url-mappings 3.2.12
+    org.grails:grails-dependencies 3.2.13
+    org.grails:grails-docs 3.2.13
+    org.grails:grails-encoder 3.2.13
+    org.grails:grails-gradle-model 3.2.13
+    org.grails:grails-gradle-plugin 3.2.13
+    org.grails:grails-gsp 3.2.13
+    org.grails:grails-logging 3.2.13
+    org.grails:grails-plugin-async 3.2.13
+    org.grails:grails-plugin-codecs 3.2.13
+    org.grails:grails-plugin-controllers 3.2.13
+    org.grails:grails-plugin-converters 3.2.13
+    org.grails:grails-plugin-databinding 3.2.13
+    org.grails:grails-plugin-datasource 3.2.13
+    org.grails:grails-plugin-domain-class 3.2.13
+    org.grails:grails-plugin-events 3.2.13
+    org.grails:grails-plugin-gsp 3.2.13
+    org.grails:grails-plugin-i18n 3.2.13
+    org.grails:grails-plugin-interceptors 3.2.13
+    org.grails:grails-plugin-mimetypes 3.2.13
+    org.grails:grails-plugin-rest 3.2.13
+    org.grails:grails-plugin-services 3.2.13
+    org.grails:grails-plugin-testing 3.2.13
+    org.grails:grails-plugin-url-mappings 3.2.13
+    org.grails:grails-plugin-validation 3.2.13
+    org.grails:grails-shell 3.2.13
+    org.grails:grails-spring 3.2.13
+    org.grails:grails-taglib 3.2.13
+    org.grails:grails-test 3.2.13
+    org.grails:grails-test-suite-base 3.2.13
+    org.grails:grails-test-suite-persistence 3.2.13
+    org.grails:grails-test-suite-uber 3.2.13
+    org.grails:grails-test-suite-web 3.2.13
+    org.grails:grails-validation 3.2.13
+    org.grails:grails-web 3.2.13
+    org.grails:grails-web-boot 3.2.13
+    org.grails:grails-web-common 3.2.13
+    org.grails:grails-web-databinding 3.2.13
+    org.grails:grails-web-fileupload 3.2.13
+    org.grails:grails-web-gsp 3.2.13
+    org.grails:grails-web-gsp-taglib 3.2.13
+    org.grails:grails-web-jsp 3.2.13
+    org.grails:grails-web-mvc 3.2.13
+    org.grails:grails-web-sitemesh 3.2.13
+    org.grails:grails-web-taglib 3.2.13
+    org.grails:grails-web-url-mappings 3.2.13
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.5
     org.grails.plugins:geb 1.0.2
@@ -1048,26 +1076,26 @@ apiElements - Dependency management for the apiElements configuration
     org.slf4j:slf4j-simple 1.7.25
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.3.9.RELEASE
-    org.springframework:spring-aspects 4.3.9.RELEASE
-    org.springframework:spring-beans 4.3.9.RELEASE
-    org.springframework:spring-context 4.3.9.RELEASE
-    org.springframework:spring-context-support 4.3.9.RELEASE
-    org.springframework:spring-core 4.3.9.RELEASE
-    org.springframework:spring-expression 4.3.9.RELEASE
-    org.springframework:spring-instrument 4.3.9.RELEASE
+    org.springframework:spring-aop 4.3.16.RELEASE
+    org.springframework:spring-aspects 4.3.16.RELEASE
+    org.springframework:spring-beans 4.3.16.RELEASE
+    org.springframework:spring-context 4.3.16.RELEASE
+    org.springframework:spring-context-support 4.3.16.RELEASE
+    org.springframework:spring-core 4.3.16.RELEASE
+    org.springframework:spring-expression 4.3.16.RELEASE
+    org.springframework:spring-instrument 4.3.16.RELEASE
     org.springframework:spring-instrument-tomcat 4.3.8.RELEASE
-    org.springframework:spring-jdbc 4.3.9.RELEASE
-    org.springframework:spring-jms 4.3.9.RELEASE
-    org.springframework:spring-messaging 4.3.9.RELEASE
-    org.springframework:spring-orm 4.3.9.RELEASE
-    org.springframework:spring-oxm 4.3.9.RELEASE
-    org.springframework:spring-test 4.3.9.RELEASE
-    org.springframework:spring-tx 4.3.9.RELEASE
-    org.springframework:spring-web 4.3.9.RELEASE
-    org.springframework:spring-webmvc 4.3.9.RELEASE
+    org.springframework:spring-jdbc 4.3.16.RELEASE
+    org.springframework:spring-jms 4.3.16.RELEASE
+    org.springframework:spring-messaging 4.3.16.RELEASE
+    org.springframework:spring-orm 4.3.16.RELEASE
+    org.springframework:spring-oxm 4.3.16.RELEASE
+    org.springframework:spring-test 4.3.16.RELEASE
+    org.springframework:spring-tx 4.3.16.RELEASE
+    org.springframework:spring-web 4.3.16.RELEASE
+    org.springframework:spring-webmvc 4.3.16.RELEASE
     org.springframework:spring-webmvc-portlet 4.3.8.RELEASE
-    org.springframework:spring-websocket 4.3.9.RELEASE
+    org.springframework:spring-websocket 4.3.16.RELEASE
     org.springframework:springloaded 1.2.8.RELEASE
     org.springframework.amqp:spring-amqp 1.6.9.RELEASE
     org.springframework.amqp:spring-rabbit 1.6.9.RELEASE
@@ -1419,25 +1447,25 @@ compile - Dependency management for the compile configuration
     org.aspectj:aspectjweaver 1.8.10
     org.assertj:assertj-core 2.5.0
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.4.11
+    org.codehaus.groovy:groovy 2.4.15
     org.codehaus.groovy:groovy-all 2.4.10
-    org.codehaus.groovy:groovy-ant 2.4.11
+    org.codehaus.groovy:groovy-ant 2.4.15
     org.codehaus.groovy:groovy-bsf 2.4.10
-    org.codehaus.groovy:groovy-console 2.4.11
+    org.codehaus.groovy:groovy-console 2.4.15
     org.codehaus.groovy:groovy-docgenerator 2.4.10
     org.codehaus.groovy:groovy-groovydoc 2.4.10
     org.codehaus.groovy:groovy-groovysh 2.4.10
     org.codehaus.groovy:groovy-jmx 2.4.10
-    org.codehaus.groovy:groovy-json 2.4.11
+    org.codehaus.groovy:groovy-json 2.4.15
     org.codehaus.groovy:groovy-jsr223 2.4.10
-    org.codehaus.groovy:groovy-nio 2.4.11
+    org.codehaus.groovy:groovy-nio 2.4.15
     org.codehaus.groovy:groovy-servlet 2.4.10
-    org.codehaus.groovy:groovy-sql 2.4.11
-    org.codehaus.groovy:groovy-swing 2.4.11
-    org.codehaus.groovy:groovy-templates 2.4.11
+    org.codehaus.groovy:groovy-sql 2.4.15
+    org.codehaus.groovy:groovy-swing 2.4.15
+    org.codehaus.groovy:groovy-templates 2.4.15
     org.codehaus.groovy:groovy-test 2.4.10
     org.codehaus.groovy:groovy-testng 2.4.10
-    org.codehaus.groovy:groovy-xml 2.4.11
+    org.codehaus.groovy:groovy-xml 2.4.15
     org.codehaus.janino:janino 2.7.8
     org.crashub:crash.cli 1.3.2
     org.crashub:crash.connectors.ssh 1.3.2
@@ -1483,12 +1511,12 @@ compile - Dependency management for the compile configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.12
-    org.grails:grails-bootstrap 3.2.12
-    org.grails:grails-codecs 3.2.12
-    org.grails:grails-console 3.2.12
-    org.grails:grails-core 3.2.12
-    org.grails:grails-databinding 3.2.12
+    org.grails:grails-async 3.2.13
+    org.grails:grails-bootstrap 3.2.13
+    org.grails:grails-codecs 3.2.13
+    org.grails:grails-console 3.2.13
+    org.grails:grails-core 3.2.13
+    org.grails:grails-databinding 3.2.13
     org.grails:grails-datastore-core 6.0.12.RELEASE
     org.grails:grails-datastore-gorm 6.0.12.RELEASE
     org.grails:grails-datastore-gorm-support 6.0.12.RELEASE
@@ -1499,51 +1527,51 @@ compile - Dependency management for the compile configuration
     org.grails:grails-datastore-simple 6.0.12.RELEASE
     org.grails:grails-datastore-test-support 6.0.12.RELEASE
     org.grails:grails-datastore-web 6.0.12.RELEASE
-    org.grails:grails-dependencies 3.2.12
-    org.grails:grails-docs 3.2.12
-    org.grails:grails-encoder 3.2.12
-    org.grails:grails-gradle-model 3.2.12
-    org.grails:grails-gradle-plugin 3.2.12
-    org.grails:grails-gsp 3.2.12
-    org.grails:grails-logging 3.2.12
-    org.grails:grails-plugin-async 3.2.12
-    org.grails:grails-plugin-codecs 3.2.12
-    org.grails:grails-plugin-controllers 3.2.12
-    org.grails:grails-plugin-converters 3.2.12
-    org.grails:grails-plugin-databinding 3.2.12
-    org.grails:grails-plugin-datasource 3.2.12
-    org.grails:grails-plugin-domain-class 3.2.12
-    org.grails:grails-plugin-events 3.2.12
-    org.grails:grails-plugin-gsp 3.2.12
-    org.grails:grails-plugin-i18n 3.2.12
-    org.grails:grails-plugin-interceptors 3.2.12
-    org.grails:grails-plugin-mimetypes 3.2.12
-    org.grails:grails-plugin-rest 3.2.12
-    org.grails:grails-plugin-services 3.2.12
-    org.grails:grails-plugin-testing 3.2.12
-    org.grails:grails-plugin-url-mappings 3.2.12
-    org.grails:grails-plugin-validation 3.2.12
-    org.grails:grails-shell 3.2.12
-    org.grails:grails-spring 3.2.12
-    org.grails:grails-taglib 3.2.12
-    org.grails:grails-test 3.2.12
-    org.grails:grails-test-suite-base 3.2.12
-    org.grails:grails-test-suite-persistence 3.2.12
-    org.grails:grails-test-suite-uber 3.2.12
-    org.grails:grails-test-suite-web 3.2.12
-    org.grails:grails-validation 3.2.12
-    org.grails:grails-web 3.2.12
-    org.grails:grails-web-boot 3.2.12
-    org.grails:grails-web-common 3.2.12
-    org.grails:grails-web-databinding 3.2.12
-    org.grails:grails-web-fileupload 3.2.12
-    org.grails:grails-web-gsp 3.2.12
-    org.grails:grails-web-gsp-taglib 3.2.12
-    org.grails:grails-web-jsp 3.2.12
-    org.grails:grails-web-mvc 3.2.12
-    org.grails:grails-web-sitemesh 3.2.12
-    org.grails:grails-web-taglib 3.2.12
-    org.grails:grails-web-url-mappings 3.2.12
+    org.grails:grails-dependencies 3.2.13
+    org.grails:grails-docs 3.2.13
+    org.grails:grails-encoder 3.2.13
+    org.grails:grails-gradle-model 3.2.13
+    org.grails:grails-gradle-plugin 3.2.13
+    org.grails:grails-gsp 3.2.13
+    org.grails:grails-logging 3.2.13
+    org.grails:grails-plugin-async 3.2.13
+    org.grails:grails-plugin-codecs 3.2.13
+    org.grails:grails-plugin-controllers 3.2.13
+    org.grails:grails-plugin-converters 3.2.13
+    org.grails:grails-plugin-databinding 3.2.13
+    org.grails:grails-plugin-datasource 3.2.13
+    org.grails:grails-plugin-domain-class 3.2.13
+    org.grails:grails-plugin-events 3.2.13
+    org.grails:grails-plugin-gsp 3.2.13
+    org.grails:grails-plugin-i18n 3.2.13
+    org.grails:grails-plugin-interceptors 3.2.13
+    org.grails:grails-plugin-mimetypes 3.2.13
+    org.grails:grails-plugin-rest 3.2.13
+    org.grails:grails-plugin-services 3.2.13
+    org.grails:grails-plugin-testing 3.2.13
+    org.grails:grails-plugin-url-mappings 3.2.13
+    org.grails:grails-plugin-validation 3.2.13
+    org.grails:grails-shell 3.2.13
+    org.grails:grails-spring 3.2.13
+    org.grails:grails-taglib 3.2.13
+    org.grails:grails-test 3.2.13
+    org.grails:grails-test-suite-base 3.2.13
+    org.grails:grails-test-suite-persistence 3.2.13
+    org.grails:grails-test-suite-uber 3.2.13
+    org.grails:grails-test-suite-web 3.2.13
+    org.grails:grails-validation 3.2.13
+    org.grails:grails-web 3.2.13
+    org.grails:grails-web-boot 3.2.13
+    org.grails:grails-web-common 3.2.13
+    org.grails:grails-web-databinding 3.2.13
+    org.grails:grails-web-fileupload 3.2.13
+    org.grails:grails-web-gsp 3.2.13
+    org.grails:grails-web-gsp-taglib 3.2.13
+    org.grails:grails-web-jsp 3.2.13
+    org.grails:grails-web-mvc 3.2.13
+    org.grails:grails-web-sitemesh 3.2.13
+    org.grails:grails-web-taglib 3.2.13
+    org.grails:grails-web-url-mappings 3.2.13
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.5
     org.grails.plugins:geb 1.0.2
@@ -1631,26 +1659,26 @@ compile - Dependency management for the compile configuration
     org.slf4j:slf4j-simple 1.7.25
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.3.9.RELEASE
-    org.springframework:spring-aspects 4.3.9.RELEASE
-    org.springframework:spring-beans 4.3.9.RELEASE
-    org.springframework:spring-context 4.3.9.RELEASE
-    org.springframework:spring-context-support 4.3.9.RELEASE
-    org.springframework:spring-core 4.3.9.RELEASE
-    org.springframework:spring-expression 4.3.9.RELEASE
-    org.springframework:spring-instrument 4.3.9.RELEASE
+    org.springframework:spring-aop 4.3.16.RELEASE
+    org.springframework:spring-aspects 4.3.16.RELEASE
+    org.springframework:spring-beans 4.3.16.RELEASE
+    org.springframework:spring-context 4.3.16.RELEASE
+    org.springframework:spring-context-support 4.3.16.RELEASE
+    org.springframework:spring-core 4.3.16.RELEASE
+    org.springframework:spring-expression 4.3.16.RELEASE
+    org.springframework:spring-instrument 4.3.16.RELEASE
     org.springframework:spring-instrument-tomcat 4.3.8.RELEASE
-    org.springframework:spring-jdbc 4.3.9.RELEASE
-    org.springframework:spring-jms 4.3.9.RELEASE
-    org.springframework:spring-messaging 4.3.9.RELEASE
-    org.springframework:spring-orm 4.3.9.RELEASE
-    org.springframework:spring-oxm 4.3.9.RELEASE
-    org.springframework:spring-test 4.3.9.RELEASE
-    org.springframework:spring-tx 4.3.9.RELEASE
-    org.springframework:spring-web 4.3.9.RELEASE
-    org.springframework:spring-webmvc 4.3.9.RELEASE
+    org.springframework:spring-jdbc 4.3.16.RELEASE
+    org.springframework:spring-jms 4.3.16.RELEASE
+    org.springframework:spring-messaging 4.3.16.RELEASE
+    org.springframework:spring-orm 4.3.16.RELEASE
+    org.springframework:spring-oxm 4.3.16.RELEASE
+    org.springframework:spring-test 4.3.16.RELEASE
+    org.springframework:spring-tx 4.3.16.RELEASE
+    org.springframework:spring-web 4.3.16.RELEASE
+    org.springframework:spring-webmvc 4.3.16.RELEASE
     org.springframework:spring-webmvc-portlet 4.3.8.RELEASE
-    org.springframework:spring-websocket 4.3.9.RELEASE
+    org.springframework:spring-websocket 4.3.16.RELEASE
     org.springframework:springloaded 1.2.8.RELEASE
     org.springframework.amqp:spring-amqp 1.6.9.RELEASE
     org.springframework.amqp:spring-rabbit 1.6.9.RELEASE
@@ -1996,25 +2024,25 @@ compileClasspath - Dependency management for the compileClasspath configuration
     org.aspectj:aspectjweaver 1.8.10
     org.assertj:assertj-core 2.5.0
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.4.11
+    org.codehaus.groovy:groovy 2.4.15
     org.codehaus.groovy:groovy-all 2.4.10
-    org.codehaus.groovy:groovy-ant 2.4.11
+    org.codehaus.groovy:groovy-ant 2.4.15
     org.codehaus.groovy:groovy-bsf 2.4.10
-    org.codehaus.groovy:groovy-console 2.4.11
+    org.codehaus.groovy:groovy-console 2.4.15
     org.codehaus.groovy:groovy-docgenerator 2.4.10
     org.codehaus.groovy:groovy-groovydoc 2.4.10
     org.codehaus.groovy:groovy-groovysh 2.4.10
     org.codehaus.groovy:groovy-jmx 2.4.10
-    org.codehaus.groovy:groovy-json 2.4.11
+    org.codehaus.groovy:groovy-json 2.4.15
     org.codehaus.groovy:groovy-jsr223 2.4.10
-    org.codehaus.groovy:groovy-nio 2.4.11
+    org.codehaus.groovy:groovy-nio 2.4.15
     org.codehaus.groovy:groovy-servlet 2.4.10
-    org.codehaus.groovy:groovy-sql 2.4.11
-    org.codehaus.groovy:groovy-swing 2.4.11
-    org.codehaus.groovy:groovy-templates 2.4.11
+    org.codehaus.groovy:groovy-sql 2.4.15
+    org.codehaus.groovy:groovy-swing 2.4.15
+    org.codehaus.groovy:groovy-templates 2.4.15
     org.codehaus.groovy:groovy-test 2.4.10
     org.codehaus.groovy:groovy-testng 2.4.10
-    org.codehaus.groovy:groovy-xml 2.4.11
+    org.codehaus.groovy:groovy-xml 2.4.15
     org.codehaus.janino:janino 2.7.8
     org.crashub:crash.cli 1.3.2
     org.crashub:crash.connectors.ssh 1.3.2
@@ -2060,12 +2088,12 @@ compileClasspath - Dependency management for the compileClasspath configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.12
-    org.grails:grails-bootstrap 3.2.12
-    org.grails:grails-codecs 3.2.12
-    org.grails:grails-console 3.2.12
-    org.grails:grails-core 3.2.12
-    org.grails:grails-databinding 3.2.12
+    org.grails:grails-async 3.2.13
+    org.grails:grails-bootstrap 3.2.13
+    org.grails:grails-codecs 3.2.13
+    org.grails:grails-console 3.2.13
+    org.grails:grails-core 3.2.13
+    org.grails:grails-databinding 3.2.13
     org.grails:grails-datastore-core 6.0.12.RELEASE
     org.grails:grails-datastore-gorm 6.0.12.RELEASE
     org.grails:grails-datastore-gorm-support 6.0.12.RELEASE
@@ -2076,51 +2104,51 @@ compileClasspath - Dependency management for the compileClasspath configuration
     org.grails:grails-datastore-simple 6.0.12.RELEASE
     org.grails:grails-datastore-test-support 6.0.12.RELEASE
     org.grails:grails-datastore-web 6.0.12.RELEASE
-    org.grails:grails-dependencies 3.2.12
-    org.grails:grails-docs 3.2.12
-    org.grails:grails-encoder 3.2.12
-    org.grails:grails-gradle-model 3.2.12
-    org.grails:grails-gradle-plugin 3.2.12
-    org.grails:grails-gsp 3.2.12
-    org.grails:grails-logging 3.2.12
-    org.grails:grails-plugin-async 3.2.12
-    org.grails:grails-plugin-codecs 3.2.12
-    org.grails:grails-plugin-controllers 3.2.12
-    org.grails:grails-plugin-converters 3.2.12
-    org.grails:grails-plugin-databinding 3.2.12
-    org.grails:grails-plugin-datasource 3.2.12
-    org.grails:grails-plugin-domain-class 3.2.12
-    org.grails:grails-plugin-events 3.2.12
-    org.grails:grails-plugin-gsp 3.2.12
-    org.grails:grails-plugin-i18n 3.2.12
-    org.grails:grails-plugin-interceptors 3.2.12
-    org.grails:grails-plugin-mimetypes 3.2.12
-    org.grails:grails-plugin-rest 3.2.12
-    org.grails:grails-plugin-services 3.2.12
-    org.grails:grails-plugin-testing 3.2.12
-    org.grails:grails-plugin-url-mappings 3.2.12
-    org.grails:grails-plugin-validation 3.2.12
-    org.grails:grails-shell 3.2.12
-    org.grails:grails-spring 3.2.12
-    org.grails:grails-taglib 3.2.12
-    org.grails:grails-test 3.2.12
-    org.grails:grails-test-suite-base 3.2.12
-    org.grails:grails-test-suite-persistence 3.2.12
-    org.grails:grails-test-suite-uber 3.2.12
-    org.grails:grails-test-suite-web 3.2.12
-    org.grails:grails-validation 3.2.12
-    org.grails:grails-web 3.2.12
-    org.grails:grails-web-boot 3.2.12
-    org.grails:grails-web-common 3.2.12
-    org.grails:grails-web-databinding 3.2.12
-    org.grails:grails-web-fileupload 3.2.12
-    org.grails:grails-web-gsp 3.2.12
-    org.grails:grails-web-gsp-taglib 3.2.12
-    org.grails:grails-web-jsp 3.2.12
-    org.grails:grails-web-mvc 3.2.12
-    org.grails:grails-web-sitemesh 3.2.12
-    org.grails:grails-web-taglib 3.2.12
-    org.grails:grails-web-url-mappings 3.2.12
+    org.grails:grails-dependencies 3.2.13
+    org.grails:grails-docs 3.2.13
+    org.grails:grails-encoder 3.2.13
+    org.grails:grails-gradle-model 3.2.13
+    org.grails:grails-gradle-plugin 3.2.13
+    org.grails:grails-gsp 3.2.13
+    org.grails:grails-logging 3.2.13
+    org.grails:grails-plugin-async 3.2.13
+    org.grails:grails-plugin-codecs 3.2.13
+    org.grails:grails-plugin-controllers 3.2.13
+    org.grails:grails-plugin-converters 3.2.13
+    org.grails:grails-plugin-databinding 3.2.13
+    org.grails:grails-plugin-datasource 3.2.13
+    org.grails:grails-plugin-domain-class 3.2.13
+    org.grails:grails-plugin-events 3.2.13
+    org.grails:grails-plugin-gsp 3.2.13
+    org.grails:grails-plugin-i18n 3.2.13
+    org.grails:grails-plugin-interceptors 3.2.13
+    org.grails:grails-plugin-mimetypes 3.2.13
+    org.grails:grails-plugin-rest 3.2.13
+    org.grails:grails-plugin-services 3.2.13
+    org.grails:grails-plugin-testing 3.2.13
+    org.grails:grails-plugin-url-mappings 3.2.13
+    org.grails:grails-plugin-validation 3.2.13
+    org.grails:grails-shell 3.2.13
+    org.grails:grails-spring 3.2.13
+    org.grails:grails-taglib 3.2.13
+    org.grails:grails-test 3.2.13
+    org.grails:grails-test-suite-base 3.2.13
+    org.grails:grails-test-suite-persistence 3.2.13
+    org.grails:grails-test-suite-uber 3.2.13
+    org.grails:grails-test-suite-web 3.2.13
+    org.grails:grails-validation 3.2.13
+    org.grails:grails-web 3.2.13
+    org.grails:grails-web-boot 3.2.13
+    org.grails:grails-web-common 3.2.13
+    org.grails:grails-web-databinding 3.2.13
+    org.grails:grails-web-fileupload 3.2.13
+    org.grails:grails-web-gsp 3.2.13
+    org.grails:grails-web-gsp-taglib 3.2.13
+    org.grails:grails-web-jsp 3.2.13
+    org.grails:grails-web-mvc 3.2.13
+    org.grails:grails-web-sitemesh 3.2.13
+    org.grails:grails-web-taglib 3.2.13
+    org.grails:grails-web-url-mappings 3.2.13
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.5
     org.grails.plugins:geb 1.0.2
@@ -2208,26 +2236,26 @@ compileClasspath - Dependency management for the compileClasspath configuration
     org.slf4j:slf4j-simple 1.7.25
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.3.9.RELEASE
-    org.springframework:spring-aspects 4.3.9.RELEASE
-    org.springframework:spring-beans 4.3.9.RELEASE
-    org.springframework:spring-context 4.3.9.RELEASE
-    org.springframework:spring-context-support 4.3.9.RELEASE
-    org.springframework:spring-core 4.3.9.RELEASE
-    org.springframework:spring-expression 4.3.9.RELEASE
-    org.springframework:spring-instrument 4.3.9.RELEASE
+    org.springframework:spring-aop 4.3.16.RELEASE
+    org.springframework:spring-aspects 4.3.16.RELEASE
+    org.springframework:spring-beans 4.3.16.RELEASE
+    org.springframework:spring-context 4.3.16.RELEASE
+    org.springframework:spring-context-support 4.3.16.RELEASE
+    org.springframework:spring-core 4.3.16.RELEASE
+    org.springframework:spring-expression 4.3.16.RELEASE
+    org.springframework:spring-instrument 4.3.16.RELEASE
     org.springframework:spring-instrument-tomcat 4.3.8.RELEASE
-    org.springframework:spring-jdbc 4.3.9.RELEASE
-    org.springframework:spring-jms 4.3.9.RELEASE
-    org.springframework:spring-messaging 4.3.9.RELEASE
-    org.springframework:spring-orm 4.3.9.RELEASE
-    org.springframework:spring-oxm 4.3.9.RELEASE
-    org.springframework:spring-test 4.3.9.RELEASE
-    org.springframework:spring-tx 4.3.9.RELEASE
-    org.springframework:spring-web 4.3.9.RELEASE
-    org.springframework:spring-webmvc 4.3.9.RELEASE
+    org.springframework:spring-jdbc 4.3.16.RELEASE
+    org.springframework:spring-jms 4.3.16.RELEASE
+    org.springframework:spring-messaging 4.3.16.RELEASE
+    org.springframework:spring-orm 4.3.16.RELEASE
+    org.springframework:spring-oxm 4.3.16.RELEASE
+    org.springframework:spring-test 4.3.16.RELEASE
+    org.springframework:spring-tx 4.3.16.RELEASE
+    org.springframework:spring-web 4.3.16.RELEASE
+    org.springframework:spring-webmvc 4.3.16.RELEASE
     org.springframework:spring-webmvc-portlet 4.3.8.RELEASE
-    org.springframework:spring-websocket 4.3.9.RELEASE
+    org.springframework:spring-websocket 4.3.16.RELEASE
     org.springframework:springloaded 1.2.8.RELEASE
     org.springframework.amqp:spring-amqp 1.6.9.RELEASE
     org.springframework.amqp:spring-rabbit 1.6.9.RELEASE
@@ -2580,25 +2608,25 @@ default - Dependency management for the default configuration
     org.aspectj:aspectjweaver 1.8.10
     org.assertj:assertj-core 2.5.0
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.4.11
+    org.codehaus.groovy:groovy 2.4.15
     org.codehaus.groovy:groovy-all 2.4.10
-    org.codehaus.groovy:groovy-ant 2.4.11
+    org.codehaus.groovy:groovy-ant 2.4.15
     org.codehaus.groovy:groovy-bsf 2.4.10
-    org.codehaus.groovy:groovy-console 2.4.11
+    org.codehaus.groovy:groovy-console 2.4.15
     org.codehaus.groovy:groovy-docgenerator 2.4.10
     org.codehaus.groovy:groovy-groovydoc 2.4.10
     org.codehaus.groovy:groovy-groovysh 2.4.10
     org.codehaus.groovy:groovy-jmx 2.4.10
-    org.codehaus.groovy:groovy-json 2.4.11
+    org.codehaus.groovy:groovy-json 2.4.15
     org.codehaus.groovy:groovy-jsr223 2.4.10
-    org.codehaus.groovy:groovy-nio 2.4.11
+    org.codehaus.groovy:groovy-nio 2.4.15
     org.codehaus.groovy:groovy-servlet 2.4.10
-    org.codehaus.groovy:groovy-sql 2.4.11
-    org.codehaus.groovy:groovy-swing 2.4.11
-    org.codehaus.groovy:groovy-templates 2.4.11
+    org.codehaus.groovy:groovy-sql 2.4.15
+    org.codehaus.groovy:groovy-swing 2.4.15
+    org.codehaus.groovy:groovy-templates 2.4.15
     org.codehaus.groovy:groovy-test 2.4.10
     org.codehaus.groovy:groovy-testng 2.4.10
-    org.codehaus.groovy:groovy-xml 2.4.11
+    org.codehaus.groovy:groovy-xml 2.4.15
     org.codehaus.janino:janino 2.7.8
     org.crashub:crash.cli 1.3.2
     org.crashub:crash.connectors.ssh 1.3.2
@@ -2644,12 +2672,12 @@ default - Dependency management for the default configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.12
-    org.grails:grails-bootstrap 3.2.12
-    org.grails:grails-codecs 3.2.12
-    org.grails:grails-console 3.2.12
-    org.grails:grails-core 3.2.12
-    org.grails:grails-databinding 3.2.12
+    org.grails:grails-async 3.2.13
+    org.grails:grails-bootstrap 3.2.13
+    org.grails:grails-codecs 3.2.13
+    org.grails:grails-console 3.2.13
+    org.grails:grails-core 3.2.13
+    org.grails:grails-databinding 3.2.13
     org.grails:grails-datastore-core 6.0.12.RELEASE
     org.grails:grails-datastore-gorm 6.0.12.RELEASE
     org.grails:grails-datastore-gorm-support 6.0.12.RELEASE
@@ -2660,51 +2688,51 @@ default - Dependency management for the default configuration
     org.grails:grails-datastore-simple 6.0.12.RELEASE
     org.grails:grails-datastore-test-support 6.0.12.RELEASE
     org.grails:grails-datastore-web 6.0.12.RELEASE
-    org.grails:grails-dependencies 3.2.12
-    org.grails:grails-docs 3.2.12
-    org.grails:grails-encoder 3.2.12
-    org.grails:grails-gradle-model 3.2.12
-    org.grails:grails-gradle-plugin 3.2.12
-    org.grails:grails-gsp 3.2.12
-    org.grails:grails-logging 3.2.12
-    org.grails:grails-plugin-async 3.2.12
-    org.grails:grails-plugin-codecs 3.2.12
-    org.grails:grails-plugin-controllers 3.2.12
-    org.grails:grails-plugin-converters 3.2.12
-    org.grails:grails-plugin-databinding 3.2.12
-    org.grails:grails-plugin-datasource 3.2.12
-    org.grails:grails-plugin-domain-class 3.2.12
-    org.grails:grails-plugin-events 3.2.12
-    org.grails:grails-plugin-gsp 3.2.12
-    org.grails:grails-plugin-i18n 3.2.12
-    org.grails:grails-plugin-interceptors 3.2.12
-    org.grails:grails-plugin-mimetypes 3.2.12
-    org.grails:grails-plugin-rest 3.2.12
-    org.grails:grails-plugin-services 3.2.12
-    org.grails:grails-plugin-testing 3.2.12
-    org.grails:grails-plugin-url-mappings 3.2.12
-    org.grails:grails-plugin-validation 3.2.12
-    org.grails:grails-shell 3.2.12
-    org.grails:grails-spring 3.2.12
-    org.grails:grails-taglib 3.2.12
-    org.grails:grails-test 3.2.12
-    org.grails:grails-test-suite-base 3.2.12
-    org.grails:grails-test-suite-persistence 3.2.12
-    org.grails:grails-test-suite-uber 3.2.12
-    org.grails:grails-test-suite-web 3.2.12
-    org.grails:grails-validation 3.2.12
-    org.grails:grails-web 3.2.12
-    org.grails:grails-web-boot 3.2.12
-    org.grails:grails-web-common 3.2.12
-    org.grails:grails-web-databinding 3.2.12
-    org.grails:grails-web-fileupload 3.2.12
-    org.grails:grails-web-gsp 3.2.12
-    org.grails:grails-web-gsp-taglib 3.2.12
-    org.grails:grails-web-jsp 3.2.12
-    org.grails:grails-web-mvc 3.2.12
-    org.grails:grails-web-sitemesh 3.2.12
-    org.grails:grails-web-taglib 3.2.12
-    org.grails:grails-web-url-mappings 3.2.12
+    org.grails:grails-dependencies 3.2.13
+    org.grails:grails-docs 3.2.13
+    org.grails:grails-encoder 3.2.13
+    org.grails:grails-gradle-model 3.2.13
+    org.grails:grails-gradle-plugin 3.2.13
+    org.grails:grails-gsp 3.2.13
+    org.grails:grails-logging 3.2.13
+    org.grails:grails-plugin-async 3.2.13
+    org.grails:grails-plugin-codecs 3.2.13
+    org.grails:grails-plugin-controllers 3.2.13
+    org.grails:grails-plugin-converters 3.2.13
+    org.grails:grails-plugin-databinding 3.2.13
+    org.grails:grails-plugin-datasource 3.2.13
+    org.grails:grails-plugin-domain-class 3.2.13
+    org.grails:grails-plugin-events 3.2.13
+    org.grails:grails-plugin-gsp 3.2.13
+    org.grails:grails-plugin-i18n 3.2.13
+    org.grails:grails-plugin-interceptors 3.2.13
+    org.grails:grails-plugin-mimetypes 3.2.13
+    org.grails:grails-plugin-rest 3.2.13
+    org.grails:grails-plugin-services 3.2.13
+    org.grails:grails-plugin-testing 3.2.13
+    org.grails:grails-plugin-url-mappings 3.2.13
+    org.grails:grails-plugin-validation 3.2.13
+    org.grails:grails-shell 3.2.13
+    org.grails:grails-spring 3.2.13
+    org.grails:grails-taglib 3.2.13
+    org.grails:grails-test 3.2.13
+    org.grails:grails-test-suite-base 3.2.13
+    org.grails:grails-test-suite-persistence 3.2.13
+    org.grails:grails-test-suite-uber 3.2.13
+    org.grails:grails-test-suite-web 3.2.13
+    org.grails:grails-validation 3.2.13
+    org.grails:grails-web 3.2.13
+    org.grails:grails-web-boot 3.2.13
+    org.grails:grails-web-common 3.2.13
+    org.grails:grails-web-databinding 3.2.13
+    org.grails:grails-web-fileupload 3.2.13
+    org.grails:grails-web-gsp 3.2.13
+    org.grails:grails-web-gsp-taglib 3.2.13
+    org.grails:grails-web-jsp 3.2.13
+    org.grails:grails-web-mvc 3.2.13
+    org.grails:grails-web-sitemesh 3.2.13
+    org.grails:grails-web-taglib 3.2.13
+    org.grails:grails-web-url-mappings 3.2.13
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.5
     org.grails.plugins:geb 1.0.2
@@ -2792,26 +2820,26 @@ default - Dependency management for the default configuration
     org.slf4j:slf4j-simple 1.7.25
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.3.9.RELEASE
-    org.springframework:spring-aspects 4.3.9.RELEASE
-    org.springframework:spring-beans 4.3.9.RELEASE
-    org.springframework:spring-context 4.3.9.RELEASE
-    org.springframework:spring-context-support 4.3.9.RELEASE
-    org.springframework:spring-core 4.3.9.RELEASE
-    org.springframework:spring-expression 4.3.9.RELEASE
-    org.springframework:spring-instrument 4.3.9.RELEASE
+    org.springframework:spring-aop 4.3.16.RELEASE
+    org.springframework:spring-aspects 4.3.16.RELEASE
+    org.springframework:spring-beans 4.3.16.RELEASE
+    org.springframework:spring-context 4.3.16.RELEASE
+    org.springframework:spring-context-support 4.3.16.RELEASE
+    org.springframework:spring-core 4.3.16.RELEASE
+    org.springframework:spring-expression 4.3.16.RELEASE
+    org.springframework:spring-instrument 4.3.16.RELEASE
     org.springframework:spring-instrument-tomcat 4.3.8.RELEASE
-    org.springframework:spring-jdbc 4.3.9.RELEASE
-    org.springframework:spring-jms 4.3.9.RELEASE
-    org.springframework:spring-messaging 4.3.9.RELEASE
-    org.springframework:spring-orm 4.3.9.RELEASE
-    org.springframework:spring-oxm 4.3.9.RELEASE
-    org.springframework:spring-test 4.3.9.RELEASE
-    org.springframework:spring-tx 4.3.9.RELEASE
-    org.springframework:spring-web 4.3.9.RELEASE
-    org.springframework:spring-webmvc 4.3.9.RELEASE
+    org.springframework:spring-jdbc 4.3.16.RELEASE
+    org.springframework:spring-jms 4.3.16.RELEASE
+    org.springframework:spring-messaging 4.3.16.RELEASE
+    org.springframework:spring-orm 4.3.16.RELEASE
+    org.springframework:spring-oxm 4.3.16.RELEASE
+    org.springframework:spring-test 4.3.16.RELEASE
+    org.springframework:spring-tx 4.3.16.RELEASE
+    org.springframework:spring-web 4.3.16.RELEASE
+    org.springframework:spring-webmvc 4.3.16.RELEASE
     org.springframework:spring-webmvc-portlet 4.3.8.RELEASE
-    org.springframework:spring-websocket 4.3.9.RELEASE
+    org.springframework:spring-websocket 4.3.16.RELEASE
     org.springframework:springloaded 1.2.8.RELEASE
     org.springframework.amqp:spring-amqp 1.6.9.RELEASE
     org.springframework.amqp:spring-rabbit 1.6.9.RELEASE
@@ -3160,25 +3188,25 @@ implementation - Dependency management for the implementation configuration
     org.aspectj:aspectjweaver 1.8.10
     org.assertj:assertj-core 2.5.0
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.4.11
+    org.codehaus.groovy:groovy 2.4.15
     org.codehaus.groovy:groovy-all 2.4.10
-    org.codehaus.groovy:groovy-ant 2.4.11
+    org.codehaus.groovy:groovy-ant 2.4.15
     org.codehaus.groovy:groovy-bsf 2.4.10
-    org.codehaus.groovy:groovy-console 2.4.11
+    org.codehaus.groovy:groovy-console 2.4.15
     org.codehaus.groovy:groovy-docgenerator 2.4.10
     org.codehaus.groovy:groovy-groovydoc 2.4.10
     org.codehaus.groovy:groovy-groovysh 2.4.10
     org.codehaus.groovy:groovy-jmx 2.4.10
-    org.codehaus.groovy:groovy-json 2.4.11
+    org.codehaus.groovy:groovy-json 2.4.15
     org.codehaus.groovy:groovy-jsr223 2.4.10
-    org.codehaus.groovy:groovy-nio 2.4.11
+    org.codehaus.groovy:groovy-nio 2.4.15
     org.codehaus.groovy:groovy-servlet 2.4.10
-    org.codehaus.groovy:groovy-sql 2.4.11
-    org.codehaus.groovy:groovy-swing 2.4.11
-    org.codehaus.groovy:groovy-templates 2.4.11
+    org.codehaus.groovy:groovy-sql 2.4.15
+    org.codehaus.groovy:groovy-swing 2.4.15
+    org.codehaus.groovy:groovy-templates 2.4.15
     org.codehaus.groovy:groovy-test 2.4.10
     org.codehaus.groovy:groovy-testng 2.4.10
-    org.codehaus.groovy:groovy-xml 2.4.11
+    org.codehaus.groovy:groovy-xml 2.4.15
     org.codehaus.janino:janino 2.7.8
     org.crashub:crash.cli 1.3.2
     org.crashub:crash.connectors.ssh 1.3.2
@@ -3224,12 +3252,12 @@ implementation - Dependency management for the implementation configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.12
-    org.grails:grails-bootstrap 3.2.12
-    org.grails:grails-codecs 3.2.12
-    org.grails:grails-console 3.2.12
-    org.grails:grails-core 3.2.12
-    org.grails:grails-databinding 3.2.12
+    org.grails:grails-async 3.2.13
+    org.grails:grails-bootstrap 3.2.13
+    org.grails:grails-codecs 3.2.13
+    org.grails:grails-console 3.2.13
+    org.grails:grails-core 3.2.13
+    org.grails:grails-databinding 3.2.13
     org.grails:grails-datastore-core 6.0.12.RELEASE
     org.grails:grails-datastore-gorm 6.0.12.RELEASE
     org.grails:grails-datastore-gorm-support 6.0.12.RELEASE
@@ -3240,51 +3268,51 @@ implementation - Dependency management for the implementation configuration
     org.grails:grails-datastore-simple 6.0.12.RELEASE
     org.grails:grails-datastore-test-support 6.0.12.RELEASE
     org.grails:grails-datastore-web 6.0.12.RELEASE
-    org.grails:grails-dependencies 3.2.12
-    org.grails:grails-docs 3.2.12
-    org.grails:grails-encoder 3.2.12
-    org.grails:grails-gradle-model 3.2.12
-    org.grails:grails-gradle-plugin 3.2.12
-    org.grails:grails-gsp 3.2.12
-    org.grails:grails-logging 3.2.12
-    org.grails:grails-plugin-async 3.2.12
-    org.grails:grails-plugin-codecs 3.2.12
-    org.grails:grails-plugin-controllers 3.2.12
-    org.grails:grails-plugin-converters 3.2.12
-    org.grails:grails-plugin-databinding 3.2.12
-    org.grails:grails-plugin-datasource 3.2.12
-    org.grails:grails-plugin-domain-class 3.2.12
-    org.grails:grails-plugin-events 3.2.12
-    org.grails:grails-plugin-gsp 3.2.12
-    org.grails:grails-plugin-i18n 3.2.12
-    org.grails:grails-plugin-interceptors 3.2.12
-    org.grails:grails-plugin-mimetypes 3.2.12
-    org.grails:grails-plugin-rest 3.2.12
-    org.grails:grails-plugin-services 3.2.12
-    org.grails:grails-plugin-testing 3.2.12
-    org.grails:grails-plugin-url-mappings 3.2.12
-    org.grails:grails-plugin-validation 3.2.12
-    org.grails:grails-shell 3.2.12
-    org.grails:grails-spring 3.2.12
-    org.grails:grails-taglib 3.2.12
-    org.grails:grails-test 3.2.12
-    org.grails:grails-test-suite-base 3.2.12
-    org.grails:grails-test-suite-persistence 3.2.12
-    org.grails:grails-test-suite-uber 3.2.12
-    org.grails:grails-test-suite-web 3.2.12
-    org.grails:grails-validation 3.2.12
-    org.grails:grails-web 3.2.12
-    org.grails:grails-web-boot 3.2.12
-    org.grails:grails-web-common 3.2.12
-    org.grails:grails-web-databinding 3.2.12
-    org.grails:grails-web-fileupload 3.2.12
-    org.grails:grails-web-gsp 3.2.12
-    org.grails:grails-web-gsp-taglib 3.2.12
-    org.grails:grails-web-jsp 3.2.12
-    org.grails:grails-web-mvc 3.2.12
-    org.grails:grails-web-sitemesh 3.2.12
-    org.grails:grails-web-taglib 3.2.12
-    org.grails:grails-web-url-mappings 3.2.12
+    org.grails:grails-dependencies 3.2.13
+    org.grails:grails-docs 3.2.13
+    org.grails:grails-encoder 3.2.13
+    org.grails:grails-gradle-model 3.2.13
+    org.grails:grails-gradle-plugin 3.2.13
+    org.grails:grails-gsp 3.2.13
+    org.grails:grails-logging 3.2.13
+    org.grails:grails-plugin-async 3.2.13
+    org.grails:grails-plugin-codecs 3.2.13
+    org.grails:grails-plugin-controllers 3.2.13
+    org.grails:grails-plugin-converters 3.2.13
+    org.grails:grails-plugin-databinding 3.2.13
+    org.grails:grails-plugin-datasource 3.2.13
+    org.grails:grails-plugin-domain-class 3.2.13
+    org.grails:grails-plugin-events 3.2.13
+    org.grails:grails-plugin-gsp 3.2.13
+    org.grails:grails-plugin-i18n 3.2.13
+    org.grails:grails-plugin-interceptors 3.2.13
+    org.grails:grails-plugin-mimetypes 3.2.13
+    org.grails:grails-plugin-rest 3.2.13
+    org.grails:grails-plugin-services 3.2.13
+    org.grails:grails-plugin-testing 3.2.13
+    org.grails:grails-plugin-url-mappings 3.2.13
+    org.grails:grails-plugin-validation 3.2.13
+    org.grails:grails-shell 3.2.13
+    org.grails:grails-spring 3.2.13
+    org.grails:grails-taglib 3.2.13
+    org.grails:grails-test 3.2.13
+    org.grails:grails-test-suite-base 3.2.13
+    org.grails:grails-test-suite-persistence 3.2.13
+    org.grails:grails-test-suite-uber 3.2.13
+    org.grails:grails-test-suite-web 3.2.13
+    org.grails:grails-validation 3.2.13
+    org.grails:grails-web 3.2.13
+    org.grails:grails-web-boot 3.2.13
+    org.grails:grails-web-common 3.2.13
+    org.grails:grails-web-databinding 3.2.13
+    org.grails:grails-web-fileupload 3.2.13
+    org.grails:grails-web-gsp 3.2.13
+    org.grails:grails-web-gsp-taglib 3.2.13
+    org.grails:grails-web-jsp 3.2.13
+    org.grails:grails-web-mvc 3.2.13
+    org.grails:grails-web-sitemesh 3.2.13
+    org.grails:grails-web-taglib 3.2.13
+    org.grails:grails-web-url-mappings 3.2.13
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.5
     org.grails.plugins:geb 1.0.2
@@ -3372,26 +3400,26 @@ implementation - Dependency management for the implementation configuration
     org.slf4j:slf4j-simple 1.7.25
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.3.9.RELEASE
-    org.springframework:spring-aspects 4.3.9.RELEASE
-    org.springframework:spring-beans 4.3.9.RELEASE
-    org.springframework:spring-context 4.3.9.RELEASE
-    org.springframework:spring-context-support 4.3.9.RELEASE
-    org.springframework:spring-core 4.3.9.RELEASE
-    org.springframework:spring-expression 4.3.9.RELEASE
-    org.springframework:spring-instrument 4.3.9.RELEASE
+    org.springframework:spring-aop 4.3.16.RELEASE
+    org.springframework:spring-aspects 4.3.16.RELEASE
+    org.springframework:spring-beans 4.3.16.RELEASE
+    org.springframework:spring-context 4.3.16.RELEASE
+    org.springframework:spring-context-support 4.3.16.RELEASE
+    org.springframework:spring-core 4.3.16.RELEASE
+    org.springframework:spring-expression 4.3.16.RELEASE
+    org.springframework:spring-instrument 4.3.16.RELEASE
     org.springframework:spring-instrument-tomcat 4.3.8.RELEASE
-    org.springframework:spring-jdbc 4.3.9.RELEASE
-    org.springframework:spring-jms 4.3.9.RELEASE
-    org.springframework:spring-messaging 4.3.9.RELEASE
-    org.springframework:spring-orm 4.3.9.RELEASE
-    org.springframework:spring-oxm 4.3.9.RELEASE
-    org.springframework:spring-test 4.3.9.RELEASE
-    org.springframework:spring-tx 4.3.9.RELEASE
-    org.springframework:spring-web 4.3.9.RELEASE
-    org.springframework:spring-webmvc 4.3.9.RELEASE
+    org.springframework:spring-jdbc 4.3.16.RELEASE
+    org.springframework:spring-jms 4.3.16.RELEASE
+    org.springframework:spring-messaging 4.3.16.RELEASE
+    org.springframework:spring-orm 4.3.16.RELEASE
+    org.springframework:spring-oxm 4.3.16.RELEASE
+    org.springframework:spring-test 4.3.16.RELEASE
+    org.springframework:spring-tx 4.3.16.RELEASE
+    org.springframework:spring-web 4.3.16.RELEASE
+    org.springframework:spring-webmvc 4.3.16.RELEASE
     org.springframework:spring-webmvc-portlet 4.3.8.RELEASE
-    org.springframework:spring-websocket 4.3.9.RELEASE
+    org.springframework:spring-websocket 4.3.16.RELEASE
     org.springframework:springloaded 1.2.8.RELEASE
     org.springframework.amqp:spring-amqp 1.6.9.RELEASE
     org.springframework.amqp:spring-rabbit 1.6.9.RELEASE
@@ -3737,25 +3765,25 @@ integrationTestCompile - Dependency management for the integrationTestCompile co
     org.aspectj:aspectjweaver 1.8.10
     org.assertj:assertj-core 2.5.0
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.4.11
+    org.codehaus.groovy:groovy 2.4.15
     org.codehaus.groovy:groovy-all 2.4.10
-    org.codehaus.groovy:groovy-ant 2.4.11
+    org.codehaus.groovy:groovy-ant 2.4.15
     org.codehaus.groovy:groovy-bsf 2.4.10
-    org.codehaus.groovy:groovy-console 2.4.11
+    org.codehaus.groovy:groovy-console 2.4.15
     org.codehaus.groovy:groovy-docgenerator 2.4.10
     org.codehaus.groovy:groovy-groovydoc 2.4.10
     org.codehaus.groovy:groovy-groovysh 2.4.10
     org.codehaus.groovy:groovy-jmx 2.4.10
-    org.codehaus.groovy:groovy-json 2.4.11
+    org.codehaus.groovy:groovy-json 2.4.15
     org.codehaus.groovy:groovy-jsr223 2.4.10
-    org.codehaus.groovy:groovy-nio 2.4.11
+    org.codehaus.groovy:groovy-nio 2.4.15
     org.codehaus.groovy:groovy-servlet 2.4.10
-    org.codehaus.groovy:groovy-sql 2.4.11
-    org.codehaus.groovy:groovy-swing 2.4.11
-    org.codehaus.groovy:groovy-templates 2.4.11
+    org.codehaus.groovy:groovy-sql 2.4.15
+    org.codehaus.groovy:groovy-swing 2.4.15
+    org.codehaus.groovy:groovy-templates 2.4.15
     org.codehaus.groovy:groovy-test 2.4.10
     org.codehaus.groovy:groovy-testng 2.4.10
-    org.codehaus.groovy:groovy-xml 2.4.11
+    org.codehaus.groovy:groovy-xml 2.4.15
     org.codehaus.janino:janino 2.7.8
     org.crashub:crash.cli 1.3.2
     org.crashub:crash.connectors.ssh 1.3.2
@@ -3801,12 +3829,12 @@ integrationTestCompile - Dependency management for the integrationTestCompile co
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.12
-    org.grails:grails-bootstrap 3.2.12
-    org.grails:grails-codecs 3.2.12
-    org.grails:grails-console 3.2.12
-    org.grails:grails-core 3.2.12
-    org.grails:grails-databinding 3.2.12
+    org.grails:grails-async 3.2.13
+    org.grails:grails-bootstrap 3.2.13
+    org.grails:grails-codecs 3.2.13
+    org.grails:grails-console 3.2.13
+    org.grails:grails-core 3.2.13
+    org.grails:grails-databinding 3.2.13
     org.grails:grails-datastore-core 6.0.12.RELEASE
     org.grails:grails-datastore-gorm 6.0.12.RELEASE
     org.grails:grails-datastore-gorm-support 6.0.12.RELEASE
@@ -3817,51 +3845,51 @@ integrationTestCompile - Dependency management for the integrationTestCompile co
     org.grails:grails-datastore-simple 6.0.12.RELEASE
     org.grails:grails-datastore-test-support 6.0.12.RELEASE
     org.grails:grails-datastore-web 6.0.12.RELEASE
-    org.grails:grails-dependencies 3.2.12
-    org.grails:grails-docs 3.2.12
-    org.grails:grails-encoder 3.2.12
-    org.grails:grails-gradle-model 3.2.12
-    org.grails:grails-gradle-plugin 3.2.12
-    org.grails:grails-gsp 3.2.12
-    org.grails:grails-logging 3.2.12
-    org.grails:grails-plugin-async 3.2.12
-    org.grails:grails-plugin-codecs 3.2.12
-    org.grails:grails-plugin-controllers 3.2.12
-    org.grails:grails-plugin-converters 3.2.12
-    org.grails:grails-plugin-databinding 3.2.12
-    org.grails:grails-plugin-datasource 3.2.12
-    org.grails:grails-plugin-domain-class 3.2.12
-    org.grails:grails-plugin-events 3.2.12
-    org.grails:grails-plugin-gsp 3.2.12
-    org.grails:grails-plugin-i18n 3.2.12
-    org.grails:grails-plugin-interceptors 3.2.12
-    org.grails:grails-plugin-mimetypes 3.2.12
-    org.grails:grails-plugin-rest 3.2.12
-    org.grails:grails-plugin-services 3.2.12
-    org.grails:grails-plugin-testing 3.2.12
-    org.grails:grails-plugin-url-mappings 3.2.12
-    org.grails:grails-plugin-validation 3.2.12
-    org.grails:grails-shell 3.2.12
-    org.grails:grails-spring 3.2.12
-    org.grails:grails-taglib 3.2.12
-    org.grails:grails-test 3.2.12
-    org.grails:grails-test-suite-base 3.2.12
-    org.grails:grails-test-suite-persistence 3.2.12
-    org.grails:grails-test-suite-uber 3.2.12
-    org.grails:grails-test-suite-web 3.2.12
-    org.grails:grails-validation 3.2.12
-    org.grails:grails-web 3.2.12
-    org.grails:grails-web-boot 3.2.12
-    org.grails:grails-web-common 3.2.12
-    org.grails:grails-web-databinding 3.2.12
-    org.grails:grails-web-fileupload 3.2.12
-    org.grails:grails-web-gsp 3.2.12
-    org.grails:grails-web-gsp-taglib 3.2.12
-    org.grails:grails-web-jsp 3.2.12
-    org.grails:grails-web-mvc 3.2.12
-    org.grails:grails-web-sitemesh 3.2.12
-    org.grails:grails-web-taglib 3.2.12
-    org.grails:grails-web-url-mappings 3.2.12
+    org.grails:grails-dependencies 3.2.13
+    org.grails:grails-docs 3.2.13
+    org.grails:grails-encoder 3.2.13
+    org.grails:grails-gradle-model 3.2.13
+    org.grails:grails-gradle-plugin 3.2.13
+    org.grails:grails-gsp 3.2.13
+    org.grails:grails-logging 3.2.13
+    org.grails:grails-plugin-async 3.2.13
+    org.grails:grails-plugin-codecs 3.2.13
+    org.grails:grails-plugin-controllers 3.2.13
+    org.grails:grails-plugin-converters 3.2.13
+    org.grails:grails-plugin-databinding 3.2.13
+    org.grails:grails-plugin-datasource 3.2.13
+    org.grails:grails-plugin-domain-class 3.2.13
+    org.grails:grails-plugin-events 3.2.13
+    org.grails:grails-plugin-gsp 3.2.13
+    org.grails:grails-plugin-i18n 3.2.13
+    org.grails:grails-plugin-interceptors 3.2.13
+    org.grails:grails-plugin-mimetypes 3.2.13
+    org.grails:grails-plugin-rest 3.2.13
+    org.grails:grails-plugin-services 3.2.13
+    org.grails:grails-plugin-testing 3.2.13
+    org.grails:grails-plugin-url-mappings 3.2.13
+    org.grails:grails-plugin-validation 3.2.13
+    org.grails:grails-shell 3.2.13
+    org.grails:grails-spring 3.2.13
+    org.grails:grails-taglib 3.2.13
+    org.grails:grails-test 3.2.13
+    org.grails:grails-test-suite-base 3.2.13
+    org.grails:grails-test-suite-persistence 3.2.13
+    org.grails:grails-test-suite-uber 3.2.13
+    org.grails:grails-test-suite-web 3.2.13
+    org.grails:grails-validation 3.2.13
+    org.grails:grails-web 3.2.13
+    org.grails:grails-web-boot 3.2.13
+    org.grails:grails-web-common 3.2.13
+    org.grails:grails-web-databinding 3.2.13
+    org.grails:grails-web-fileupload 3.2.13
+    org.grails:grails-web-gsp 3.2.13
+    org.grails:grails-web-gsp-taglib 3.2.13
+    org.grails:grails-web-jsp 3.2.13
+    org.grails:grails-web-mvc 3.2.13
+    org.grails:grails-web-sitemesh 3.2.13
+    org.grails:grails-web-taglib 3.2.13
+    org.grails:grails-web-url-mappings 3.2.13
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.5
     org.grails.plugins:geb 1.0.2
@@ -3949,26 +3977,26 @@ integrationTestCompile - Dependency management for the integrationTestCompile co
     org.slf4j:slf4j-simple 1.7.25
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.3.9.RELEASE
-    org.springframework:spring-aspects 4.3.9.RELEASE
-    org.springframework:spring-beans 4.3.9.RELEASE
-    org.springframework:spring-context 4.3.9.RELEASE
-    org.springframework:spring-context-support 4.3.9.RELEASE
-    org.springframework:spring-core 4.3.9.RELEASE
-    org.springframework:spring-expression 4.3.9.RELEASE
-    org.springframework:spring-instrument 4.3.9.RELEASE
+    org.springframework:spring-aop 4.3.16.RELEASE
+    org.springframework:spring-aspects 4.3.16.RELEASE
+    org.springframework:spring-beans 4.3.16.RELEASE
+    org.springframework:spring-context 4.3.16.RELEASE
+    org.springframework:spring-context-support 4.3.16.RELEASE
+    org.springframework:spring-core 4.3.16.RELEASE
+    org.springframework:spring-expression 4.3.16.RELEASE
+    org.springframework:spring-instrument 4.3.16.RELEASE
     org.springframework:spring-instrument-tomcat 4.3.8.RELEASE
-    org.springframework:spring-jdbc 4.3.9.RELEASE
-    org.springframework:spring-jms 4.3.9.RELEASE
-    org.springframework:spring-messaging 4.3.9.RELEASE
-    org.springframework:spring-orm 4.3.9.RELEASE
-    org.springframework:spring-oxm 4.3.9.RELEASE
-    org.springframework:spring-test 4.3.9.RELEASE
-    org.springframework:spring-tx 4.3.9.RELEASE
-    org.springframework:spring-web 4.3.9.RELEASE
-    org.springframework:spring-webmvc 4.3.9.RELEASE
+    org.springframework:spring-jdbc 4.3.16.RELEASE
+    org.springframework:spring-jms 4.3.16.RELEASE
+    org.springframework:spring-messaging 4.3.16.RELEASE
+    org.springframework:spring-orm 4.3.16.RELEASE
+    org.springframework:spring-oxm 4.3.16.RELEASE
+    org.springframework:spring-test 4.3.16.RELEASE
+    org.springframework:spring-tx 4.3.16.RELEASE
+    org.springframework:spring-web 4.3.16.RELEASE
+    org.springframework:spring-webmvc 4.3.16.RELEASE
     org.springframework:spring-webmvc-portlet 4.3.8.RELEASE
-    org.springframework:spring-websocket 4.3.9.RELEASE
+    org.springframework:spring-websocket 4.3.16.RELEASE
     org.springframework:springloaded 1.2.8.RELEASE
     org.springframework.amqp:spring-amqp 1.6.9.RELEASE
     org.springframework.amqp:spring-rabbit 1.6.9.RELEASE
@@ -4314,25 +4342,25 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
     org.aspectj:aspectjweaver 1.8.10
     org.assertj:assertj-core 2.5.0
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.4.11
+    org.codehaus.groovy:groovy 2.4.15
     org.codehaus.groovy:groovy-all 2.4.10
-    org.codehaus.groovy:groovy-ant 2.4.11
+    org.codehaus.groovy:groovy-ant 2.4.15
     org.codehaus.groovy:groovy-bsf 2.4.10
-    org.codehaus.groovy:groovy-console 2.4.11
+    org.codehaus.groovy:groovy-console 2.4.15
     org.codehaus.groovy:groovy-docgenerator 2.4.10
     org.codehaus.groovy:groovy-groovydoc 2.4.10
     org.codehaus.groovy:groovy-groovysh 2.4.10
     org.codehaus.groovy:groovy-jmx 2.4.10
-    org.codehaus.groovy:groovy-json 2.4.11
+    org.codehaus.groovy:groovy-json 2.4.15
     org.codehaus.groovy:groovy-jsr223 2.4.10
-    org.codehaus.groovy:groovy-nio 2.4.11
+    org.codehaus.groovy:groovy-nio 2.4.15
     org.codehaus.groovy:groovy-servlet 2.4.10
-    org.codehaus.groovy:groovy-sql 2.4.11
-    org.codehaus.groovy:groovy-swing 2.4.11
-    org.codehaus.groovy:groovy-templates 2.4.11
+    org.codehaus.groovy:groovy-sql 2.4.15
+    org.codehaus.groovy:groovy-swing 2.4.15
+    org.codehaus.groovy:groovy-templates 2.4.15
     org.codehaus.groovy:groovy-test 2.4.10
     org.codehaus.groovy:groovy-testng 2.4.10
-    org.codehaus.groovy:groovy-xml 2.4.11
+    org.codehaus.groovy:groovy-xml 2.4.15
     org.codehaus.janino:janino 2.7.8
     org.crashub:crash.cli 1.3.2
     org.crashub:crash.connectors.ssh 1.3.2
@@ -4378,12 +4406,12 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.12
-    org.grails:grails-bootstrap 3.2.12
-    org.grails:grails-codecs 3.2.12
-    org.grails:grails-console 3.2.12
-    org.grails:grails-core 3.2.12
-    org.grails:grails-databinding 3.2.12
+    org.grails:grails-async 3.2.13
+    org.grails:grails-bootstrap 3.2.13
+    org.grails:grails-codecs 3.2.13
+    org.grails:grails-console 3.2.13
+    org.grails:grails-core 3.2.13
+    org.grails:grails-databinding 3.2.13
     org.grails:grails-datastore-core 6.0.12.RELEASE
     org.grails:grails-datastore-gorm 6.0.12.RELEASE
     org.grails:grails-datastore-gorm-support 6.0.12.RELEASE
@@ -4394,51 +4422,51 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
     org.grails:grails-datastore-simple 6.0.12.RELEASE
     org.grails:grails-datastore-test-support 6.0.12.RELEASE
     org.grails:grails-datastore-web 6.0.12.RELEASE
-    org.grails:grails-dependencies 3.2.12
-    org.grails:grails-docs 3.2.12
-    org.grails:grails-encoder 3.2.12
-    org.grails:grails-gradle-model 3.2.12
-    org.grails:grails-gradle-plugin 3.2.12
-    org.grails:grails-gsp 3.2.12
-    org.grails:grails-logging 3.2.12
-    org.grails:grails-plugin-async 3.2.12
-    org.grails:grails-plugin-codecs 3.2.12
-    org.grails:grails-plugin-controllers 3.2.12
-    org.grails:grails-plugin-converters 3.2.12
-    org.grails:grails-plugin-databinding 3.2.12
-    org.grails:grails-plugin-datasource 3.2.12
-    org.grails:grails-plugin-domain-class 3.2.12
-    org.grails:grails-plugin-events 3.2.12
-    org.grails:grails-plugin-gsp 3.2.12
-    org.grails:grails-plugin-i18n 3.2.12
-    org.grails:grails-plugin-interceptors 3.2.12
-    org.grails:grails-plugin-mimetypes 3.2.12
-    org.grails:grails-plugin-rest 3.2.12
-    org.grails:grails-plugin-services 3.2.12
-    org.grails:grails-plugin-testing 3.2.12
-    org.grails:grails-plugin-url-mappings 3.2.12
-    org.grails:grails-plugin-validation 3.2.12
-    org.grails:grails-shell 3.2.12
-    org.grails:grails-spring 3.2.12
-    org.grails:grails-taglib 3.2.12
-    org.grails:grails-test 3.2.12
-    org.grails:grails-test-suite-base 3.2.12
-    org.grails:grails-test-suite-persistence 3.2.12
-    org.grails:grails-test-suite-uber 3.2.12
-    org.grails:grails-test-suite-web 3.2.12
-    org.grails:grails-validation 3.2.12
-    org.grails:grails-web 3.2.12
-    org.grails:grails-web-boot 3.2.12
-    org.grails:grails-web-common 3.2.12
-    org.grails:grails-web-databinding 3.2.12
-    org.grails:grails-web-fileupload 3.2.12
-    org.grails:grails-web-gsp 3.2.12
-    org.grails:grails-web-gsp-taglib 3.2.12
-    org.grails:grails-web-jsp 3.2.12
-    org.grails:grails-web-mvc 3.2.12
-    org.grails:grails-web-sitemesh 3.2.12
-    org.grails:grails-web-taglib 3.2.12
-    org.grails:grails-web-url-mappings 3.2.12
+    org.grails:grails-dependencies 3.2.13
+    org.grails:grails-docs 3.2.13
+    org.grails:grails-encoder 3.2.13
+    org.grails:grails-gradle-model 3.2.13
+    org.grails:grails-gradle-plugin 3.2.13
+    org.grails:grails-gsp 3.2.13
+    org.grails:grails-logging 3.2.13
+    org.grails:grails-plugin-async 3.2.13
+    org.grails:grails-plugin-codecs 3.2.13
+    org.grails:grails-plugin-controllers 3.2.13
+    org.grails:grails-plugin-converters 3.2.13
+    org.grails:grails-plugin-databinding 3.2.13
+    org.grails:grails-plugin-datasource 3.2.13
+    org.grails:grails-plugin-domain-class 3.2.13
+    org.grails:grails-plugin-events 3.2.13
+    org.grails:grails-plugin-gsp 3.2.13
+    org.grails:grails-plugin-i18n 3.2.13
+    org.grails:grails-plugin-interceptors 3.2.13
+    org.grails:grails-plugin-mimetypes 3.2.13
+    org.grails:grails-plugin-rest 3.2.13
+    org.grails:grails-plugin-services 3.2.13
+    org.grails:grails-plugin-testing 3.2.13
+    org.grails:grails-plugin-url-mappings 3.2.13
+    org.grails:grails-plugin-validation 3.2.13
+    org.grails:grails-shell 3.2.13
+    org.grails:grails-spring 3.2.13
+    org.grails:grails-taglib 3.2.13
+    org.grails:grails-test 3.2.13
+    org.grails:grails-test-suite-base 3.2.13
+    org.grails:grails-test-suite-persistence 3.2.13
+    org.grails:grails-test-suite-uber 3.2.13
+    org.grails:grails-test-suite-web 3.2.13
+    org.grails:grails-validation 3.2.13
+    org.grails:grails-web 3.2.13
+    org.grails:grails-web-boot 3.2.13
+    org.grails:grails-web-common 3.2.13
+    org.grails:grails-web-databinding 3.2.13
+    org.grails:grails-web-fileupload 3.2.13
+    org.grails:grails-web-gsp 3.2.13
+    org.grails:grails-web-gsp-taglib 3.2.13
+    org.grails:grails-web-jsp 3.2.13
+    org.grails:grails-web-mvc 3.2.13
+    org.grails:grails-web-sitemesh 3.2.13
+    org.grails:grails-web-taglib 3.2.13
+    org.grails:grails-web-url-mappings 3.2.13
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.5
     org.grails.plugins:geb 1.0.2
@@ -4526,26 +4554,26 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
     org.slf4j:slf4j-simple 1.7.25
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.3.9.RELEASE
-    org.springframework:spring-aspects 4.3.9.RELEASE
-    org.springframework:spring-beans 4.3.9.RELEASE
-    org.springframework:spring-context 4.3.9.RELEASE
-    org.springframework:spring-context-support 4.3.9.RELEASE
-    org.springframework:spring-core 4.3.9.RELEASE
-    org.springframework:spring-expression 4.3.9.RELEASE
-    org.springframework:spring-instrument 4.3.9.RELEASE
+    org.springframework:spring-aop 4.3.16.RELEASE
+    org.springframework:spring-aspects 4.3.16.RELEASE
+    org.springframework:spring-beans 4.3.16.RELEASE
+    org.springframework:spring-context 4.3.16.RELEASE
+    org.springframework:spring-context-support 4.3.16.RELEASE
+    org.springframework:spring-core 4.3.16.RELEASE
+    org.springframework:spring-expression 4.3.16.RELEASE
+    org.springframework:spring-instrument 4.3.16.RELEASE
     org.springframework:spring-instrument-tomcat 4.3.8.RELEASE
-    org.springframework:spring-jdbc 4.3.9.RELEASE
-    org.springframework:spring-jms 4.3.9.RELEASE
-    org.springframework:spring-messaging 4.3.9.RELEASE
-    org.springframework:spring-orm 4.3.9.RELEASE
-    org.springframework:spring-oxm 4.3.9.RELEASE
-    org.springframework:spring-test 4.3.9.RELEASE
-    org.springframework:spring-tx 4.3.9.RELEASE
-    org.springframework:spring-web 4.3.9.RELEASE
-    org.springframework:spring-webmvc 4.3.9.RELEASE
+    org.springframework:spring-jdbc 4.3.16.RELEASE
+    org.springframework:spring-jms 4.3.16.RELEASE
+    org.springframework:spring-messaging 4.3.16.RELEASE
+    org.springframework:spring-orm 4.3.16.RELEASE
+    org.springframework:spring-oxm 4.3.16.RELEASE
+    org.springframework:spring-test 4.3.16.RELEASE
+    org.springframework:spring-tx 4.3.16.RELEASE
+    org.springframework:spring-web 4.3.16.RELEASE
+    org.springframework:spring-webmvc 4.3.16.RELEASE
     org.springframework:spring-webmvc-portlet 4.3.8.RELEASE
-    org.springframework:spring-websocket 4.3.9.RELEASE
+    org.springframework:spring-websocket 4.3.16.RELEASE
     org.springframework:springloaded 1.2.8.RELEASE
     org.springframework.amqp:spring-amqp 1.6.9.RELEASE
     org.springframework.amqp:spring-rabbit 1.6.9.RELEASE
@@ -4894,25 +4922,25 @@ integrationTestImplementation - Dependency management for the integrationTestImp
     org.aspectj:aspectjweaver 1.8.10
     org.assertj:assertj-core 2.5.0
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.4.11
+    org.codehaus.groovy:groovy 2.4.15
     org.codehaus.groovy:groovy-all 2.4.10
-    org.codehaus.groovy:groovy-ant 2.4.11
+    org.codehaus.groovy:groovy-ant 2.4.15
     org.codehaus.groovy:groovy-bsf 2.4.10
-    org.codehaus.groovy:groovy-console 2.4.11
+    org.codehaus.groovy:groovy-console 2.4.15
     org.codehaus.groovy:groovy-docgenerator 2.4.10
     org.codehaus.groovy:groovy-groovydoc 2.4.10
     org.codehaus.groovy:groovy-groovysh 2.4.10
     org.codehaus.groovy:groovy-jmx 2.4.10
-    org.codehaus.groovy:groovy-json 2.4.11
+    org.codehaus.groovy:groovy-json 2.4.15
     org.codehaus.groovy:groovy-jsr223 2.4.10
-    org.codehaus.groovy:groovy-nio 2.4.11
+    org.codehaus.groovy:groovy-nio 2.4.15
     org.codehaus.groovy:groovy-servlet 2.4.10
-    org.codehaus.groovy:groovy-sql 2.4.11
-    org.codehaus.groovy:groovy-swing 2.4.11
-    org.codehaus.groovy:groovy-templates 2.4.11
+    org.codehaus.groovy:groovy-sql 2.4.15
+    org.codehaus.groovy:groovy-swing 2.4.15
+    org.codehaus.groovy:groovy-templates 2.4.15
     org.codehaus.groovy:groovy-test 2.4.10
     org.codehaus.groovy:groovy-testng 2.4.10
-    org.codehaus.groovy:groovy-xml 2.4.11
+    org.codehaus.groovy:groovy-xml 2.4.15
     org.codehaus.janino:janino 2.7.8
     org.crashub:crash.cli 1.3.2
     org.crashub:crash.connectors.ssh 1.3.2
@@ -4958,12 +4986,12 @@ integrationTestImplementation - Dependency management for the integrationTestImp
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.12
-    org.grails:grails-bootstrap 3.2.12
-    org.grails:grails-codecs 3.2.12
-    org.grails:grails-console 3.2.12
-    org.grails:grails-core 3.2.12
-    org.grails:grails-databinding 3.2.12
+    org.grails:grails-async 3.2.13
+    org.grails:grails-bootstrap 3.2.13
+    org.grails:grails-codecs 3.2.13
+    org.grails:grails-console 3.2.13
+    org.grails:grails-core 3.2.13
+    org.grails:grails-databinding 3.2.13
     org.grails:grails-datastore-core 6.0.12.RELEASE
     org.grails:grails-datastore-gorm 6.0.12.RELEASE
     org.grails:grails-datastore-gorm-support 6.0.12.RELEASE
@@ -4974,51 +5002,51 @@ integrationTestImplementation - Dependency management for the integrationTestImp
     org.grails:grails-datastore-simple 6.0.12.RELEASE
     org.grails:grails-datastore-test-support 6.0.12.RELEASE
     org.grails:grails-datastore-web 6.0.12.RELEASE
-    org.grails:grails-dependencies 3.2.12
-    org.grails:grails-docs 3.2.12
-    org.grails:grails-encoder 3.2.12
-    org.grails:grails-gradle-model 3.2.12
-    org.grails:grails-gradle-plugin 3.2.12
-    org.grails:grails-gsp 3.2.12
-    org.grails:grails-logging 3.2.12
-    org.grails:grails-plugin-async 3.2.12
-    org.grails:grails-plugin-codecs 3.2.12
-    org.grails:grails-plugin-controllers 3.2.12
-    org.grails:grails-plugin-converters 3.2.12
-    org.grails:grails-plugin-databinding 3.2.12
-    org.grails:grails-plugin-datasource 3.2.12
-    org.grails:grails-plugin-domain-class 3.2.12
-    org.grails:grails-plugin-events 3.2.12
-    org.grails:grails-plugin-gsp 3.2.12
-    org.grails:grails-plugin-i18n 3.2.12
-    org.grails:grails-plugin-interceptors 3.2.12
-    org.grails:grails-plugin-mimetypes 3.2.12
-    org.grails:grails-plugin-rest 3.2.12
-    org.grails:grails-plugin-services 3.2.12
-    org.grails:grails-plugin-testing 3.2.12
-    org.grails:grails-plugin-url-mappings 3.2.12
-    org.grails:grails-plugin-validation 3.2.12
-    org.grails:grails-shell 3.2.12
-    org.grails:grails-spring 3.2.12
-    org.grails:grails-taglib 3.2.12
-    org.grails:grails-test 3.2.12
-    org.grails:grails-test-suite-base 3.2.12
-    org.grails:grails-test-suite-persistence 3.2.12
-    org.grails:grails-test-suite-uber 3.2.12
-    org.grails:grails-test-suite-web 3.2.12
-    org.grails:grails-validation 3.2.12
-    org.grails:grails-web 3.2.12
-    org.grails:grails-web-boot 3.2.12
-    org.grails:grails-web-common 3.2.12
-    org.grails:grails-web-databinding 3.2.12
-    org.grails:grails-web-fileupload 3.2.12
-    org.grails:grails-web-gsp 3.2.12
-    org.grails:grails-web-gsp-taglib 3.2.12
-    org.grails:grails-web-jsp 3.2.12
-    org.grails:grails-web-mvc 3.2.12
-    org.grails:grails-web-sitemesh 3.2.12
-    org.grails:grails-web-taglib 3.2.12
-    org.grails:grails-web-url-mappings 3.2.12
+    org.grails:grails-dependencies 3.2.13
+    org.grails:grails-docs 3.2.13
+    org.grails:grails-encoder 3.2.13
+    org.grails:grails-gradle-model 3.2.13
+    org.grails:grails-gradle-plugin 3.2.13
+    org.grails:grails-gsp 3.2.13
+    org.grails:grails-logging 3.2.13
+    org.grails:grails-plugin-async 3.2.13
+    org.grails:grails-plugin-codecs 3.2.13
+    org.grails:grails-plugin-controllers 3.2.13
+    org.grails:grails-plugin-converters 3.2.13
+    org.grails:grails-plugin-databinding 3.2.13
+    org.grails:grails-plugin-datasource 3.2.13
+    org.grails:grails-plugin-domain-class 3.2.13
+    org.grails:grails-plugin-events 3.2.13
+    org.grails:grails-plugin-gsp 3.2.13
+    org.grails:grails-plugin-i18n 3.2.13
+    org.grails:grails-plugin-interceptors 3.2.13
+    org.grails:grails-plugin-mimetypes 3.2.13
+    org.grails:grails-plugin-rest 3.2.13
+    org.grails:grails-plugin-services 3.2.13
+    org.grails:grails-plugin-testing 3.2.13
+    org.grails:grails-plugin-url-mappings 3.2.13
+    org.grails:grails-plugin-validation 3.2.13
+    org.grails:grails-shell 3.2.13
+    org.grails:grails-spring 3.2.13
+    org.grails:grails-taglib 3.2.13
+    org.grails:grails-test 3.2.13
+    org.grails:grails-test-suite-base 3.2.13
+    org.grails:grails-test-suite-persistence 3.2.13
+    org.grails:grails-test-suite-uber 3.2.13
+    org.grails:grails-test-suite-web 3.2.13
+    org.grails:grails-validation 3.2.13
+    org.grails:grails-web 3.2.13
+    org.grails:grails-web-boot 3.2.13
+    org.grails:grails-web-common 3.2.13
+    org.grails:grails-web-databinding 3.2.13
+    org.grails:grails-web-fileupload 3.2.13
+    org.grails:grails-web-gsp 3.2.13
+    org.grails:grails-web-gsp-taglib 3.2.13
+    org.grails:grails-web-jsp 3.2.13
+    org.grails:grails-web-mvc 3.2.13
+    org.grails:grails-web-sitemesh 3.2.13
+    org.grails:grails-web-taglib 3.2.13
+    org.grails:grails-web-url-mappings 3.2.13
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.5
     org.grails.plugins:geb 1.0.2
@@ -5106,26 +5134,26 @@ integrationTestImplementation - Dependency management for the integrationTestImp
     org.slf4j:slf4j-simple 1.7.25
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.3.9.RELEASE
-    org.springframework:spring-aspects 4.3.9.RELEASE
-    org.springframework:spring-beans 4.3.9.RELEASE
-    org.springframework:spring-context 4.3.9.RELEASE
-    org.springframework:spring-context-support 4.3.9.RELEASE
-    org.springframework:spring-core 4.3.9.RELEASE
-    org.springframework:spring-expression 4.3.9.RELEASE
-    org.springframework:spring-instrument 4.3.9.RELEASE
+    org.springframework:spring-aop 4.3.16.RELEASE
+    org.springframework:spring-aspects 4.3.16.RELEASE
+    org.springframework:spring-beans 4.3.16.RELEASE
+    org.springframework:spring-context 4.3.16.RELEASE
+    org.springframework:spring-context-support 4.3.16.RELEASE
+    org.springframework:spring-core 4.3.16.RELEASE
+    org.springframework:spring-expression 4.3.16.RELEASE
+    org.springframework:spring-instrument 4.3.16.RELEASE
     org.springframework:spring-instrument-tomcat 4.3.8.RELEASE
-    org.springframework:spring-jdbc 4.3.9.RELEASE
-    org.springframework:spring-jms 4.3.9.RELEASE
-    org.springframework:spring-messaging 4.3.9.RELEASE
-    org.springframework:spring-orm 4.3.9.RELEASE
-    org.springframework:spring-oxm 4.3.9.RELEASE
-    org.springframework:spring-test 4.3.9.RELEASE
-    org.springframework:spring-tx 4.3.9.RELEASE
-    org.springframework:spring-web 4.3.9.RELEASE
-    org.springframework:spring-webmvc 4.3.9.RELEASE
+    org.springframework:spring-jdbc 4.3.16.RELEASE
+    org.springframework:spring-jms 4.3.16.RELEASE
+    org.springframework:spring-messaging 4.3.16.RELEASE
+    org.springframework:spring-orm 4.3.16.RELEASE
+    org.springframework:spring-oxm 4.3.16.RELEASE
+    org.springframework:spring-test 4.3.16.RELEASE
+    org.springframework:spring-tx 4.3.16.RELEASE
+    org.springframework:spring-web 4.3.16.RELEASE
+    org.springframework:spring-webmvc 4.3.16.RELEASE
     org.springframework:spring-webmvc-portlet 4.3.8.RELEASE
-    org.springframework:spring-websocket 4.3.9.RELEASE
+    org.springframework:spring-websocket 4.3.16.RELEASE
     org.springframework:springloaded 1.2.8.RELEASE
     org.springframework.amqp:spring-amqp 1.6.9.RELEASE
     org.springframework.amqp:spring-rabbit 1.6.9.RELEASE
@@ -5472,25 +5500,25 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.aspectj:aspectjweaver 1.8.10
     org.assertj:assertj-core 2.5.0
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.4.11
+    org.codehaus.groovy:groovy 2.4.15
     org.codehaus.groovy:groovy-all 2.4.10
-    org.codehaus.groovy:groovy-ant 2.4.11
+    org.codehaus.groovy:groovy-ant 2.4.15
     org.codehaus.groovy:groovy-bsf 2.4.10
-    org.codehaus.groovy:groovy-console 2.4.11
+    org.codehaus.groovy:groovy-console 2.4.15
     org.codehaus.groovy:groovy-docgenerator 2.4.10
     org.codehaus.groovy:groovy-groovydoc 2.4.10
     org.codehaus.groovy:groovy-groovysh 2.4.10
     org.codehaus.groovy:groovy-jmx 2.4.10
-    org.codehaus.groovy:groovy-json 2.4.11
+    org.codehaus.groovy:groovy-json 2.4.15
     org.codehaus.groovy:groovy-jsr223 2.4.10
-    org.codehaus.groovy:groovy-nio 2.4.11
+    org.codehaus.groovy:groovy-nio 2.4.15
     org.codehaus.groovy:groovy-servlet 2.4.10
-    org.codehaus.groovy:groovy-sql 2.4.11
-    org.codehaus.groovy:groovy-swing 2.4.11
-    org.codehaus.groovy:groovy-templates 2.4.11
+    org.codehaus.groovy:groovy-sql 2.4.15
+    org.codehaus.groovy:groovy-swing 2.4.15
+    org.codehaus.groovy:groovy-templates 2.4.15
     org.codehaus.groovy:groovy-test 2.4.10
     org.codehaus.groovy:groovy-testng 2.4.10
-    org.codehaus.groovy:groovy-xml 2.4.11
+    org.codehaus.groovy:groovy-xml 2.4.15
     org.codehaus.janino:janino 2.7.8
     org.crashub:crash.cli 1.3.2
     org.crashub:crash.connectors.ssh 1.3.2
@@ -5536,12 +5564,12 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.12
-    org.grails:grails-bootstrap 3.2.12
-    org.grails:grails-codecs 3.2.12
-    org.grails:grails-console 3.2.12
-    org.grails:grails-core 3.2.12
-    org.grails:grails-databinding 3.2.12
+    org.grails:grails-async 3.2.13
+    org.grails:grails-bootstrap 3.2.13
+    org.grails:grails-codecs 3.2.13
+    org.grails:grails-console 3.2.13
+    org.grails:grails-core 3.2.13
+    org.grails:grails-databinding 3.2.13
     org.grails:grails-datastore-core 6.0.12.RELEASE
     org.grails:grails-datastore-gorm 6.0.12.RELEASE
     org.grails:grails-datastore-gorm-support 6.0.12.RELEASE
@@ -5552,51 +5580,51 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.grails:grails-datastore-simple 6.0.12.RELEASE
     org.grails:grails-datastore-test-support 6.0.12.RELEASE
     org.grails:grails-datastore-web 6.0.12.RELEASE
-    org.grails:grails-dependencies 3.2.12
-    org.grails:grails-docs 3.2.12
-    org.grails:grails-encoder 3.2.12
-    org.grails:grails-gradle-model 3.2.12
-    org.grails:grails-gradle-plugin 3.2.12
-    org.grails:grails-gsp 3.2.12
-    org.grails:grails-logging 3.2.12
-    org.grails:grails-plugin-async 3.2.12
-    org.grails:grails-plugin-codecs 3.2.12
-    org.grails:grails-plugin-controllers 3.2.12
-    org.grails:grails-plugin-converters 3.2.12
-    org.grails:grails-plugin-databinding 3.2.12
-    org.grails:grails-plugin-datasource 3.2.12
-    org.grails:grails-plugin-domain-class 3.2.12
-    org.grails:grails-plugin-events 3.2.12
-    org.grails:grails-plugin-gsp 3.2.12
-    org.grails:grails-plugin-i18n 3.2.12
-    org.grails:grails-plugin-interceptors 3.2.12
-    org.grails:grails-plugin-mimetypes 3.2.12
-    org.grails:grails-plugin-rest 3.2.12
-    org.grails:grails-plugin-services 3.2.12
-    org.grails:grails-plugin-testing 3.2.12
-    org.grails:grails-plugin-url-mappings 3.2.12
-    org.grails:grails-plugin-validation 3.2.12
-    org.grails:grails-shell 3.2.12
-    org.grails:grails-spring 3.2.12
-    org.grails:grails-taglib 3.2.12
-    org.grails:grails-test 3.2.12
-    org.grails:grails-test-suite-base 3.2.12
-    org.grails:grails-test-suite-persistence 3.2.12
-    org.grails:grails-test-suite-uber 3.2.12
-    org.grails:grails-test-suite-web 3.2.12
-    org.grails:grails-validation 3.2.12
-    org.grails:grails-web 3.2.12
-    org.grails:grails-web-boot 3.2.12
-    org.grails:grails-web-common 3.2.12
-    org.grails:grails-web-databinding 3.2.12
-    org.grails:grails-web-fileupload 3.2.12
-    org.grails:grails-web-gsp 3.2.12
-    org.grails:grails-web-gsp-taglib 3.2.12
-    org.grails:grails-web-jsp 3.2.12
-    org.grails:grails-web-mvc 3.2.12
-    org.grails:grails-web-sitemesh 3.2.12
-    org.grails:grails-web-taglib 3.2.12
-    org.grails:grails-web-url-mappings 3.2.12
+    org.grails:grails-dependencies 3.2.13
+    org.grails:grails-docs 3.2.13
+    org.grails:grails-encoder 3.2.13
+    org.grails:grails-gradle-model 3.2.13
+    org.grails:grails-gradle-plugin 3.2.13
+    org.grails:grails-gsp 3.2.13
+    org.grails:grails-logging 3.2.13
+    org.grails:grails-plugin-async 3.2.13
+    org.grails:grails-plugin-codecs 3.2.13
+    org.grails:grails-plugin-controllers 3.2.13
+    org.grails:grails-plugin-converters 3.2.13
+    org.grails:grails-plugin-databinding 3.2.13
+    org.grails:grails-plugin-datasource 3.2.13
+    org.grails:grails-plugin-domain-class 3.2.13
+    org.grails:grails-plugin-events 3.2.13
+    org.grails:grails-plugin-gsp 3.2.13
+    org.grails:grails-plugin-i18n 3.2.13
+    org.grails:grails-plugin-interceptors 3.2.13
+    org.grails:grails-plugin-mimetypes 3.2.13
+    org.grails:grails-plugin-rest 3.2.13
+    org.grails:grails-plugin-services 3.2.13
+    org.grails:grails-plugin-testing 3.2.13
+    org.grails:grails-plugin-url-mappings 3.2.13
+    org.grails:grails-plugin-validation 3.2.13
+    org.grails:grails-shell 3.2.13
+    org.grails:grails-spring 3.2.13
+    org.grails:grails-taglib 3.2.13
+    org.grails:grails-test 3.2.13
+    org.grails:grails-test-suite-base 3.2.13
+    org.grails:grails-test-suite-persistence 3.2.13
+    org.grails:grails-test-suite-uber 3.2.13
+    org.grails:grails-test-suite-web 3.2.13
+    org.grails:grails-validation 3.2.13
+    org.grails:grails-web 3.2.13
+    org.grails:grails-web-boot 3.2.13
+    org.grails:grails-web-common 3.2.13
+    org.grails:grails-web-databinding 3.2.13
+    org.grails:grails-web-fileupload 3.2.13
+    org.grails:grails-web-gsp 3.2.13
+    org.grails:grails-web-gsp-taglib 3.2.13
+    org.grails:grails-web-jsp 3.2.13
+    org.grails:grails-web-mvc 3.2.13
+    org.grails:grails-web-sitemesh 3.2.13
+    org.grails:grails-web-taglib 3.2.13
+    org.grails:grails-web-url-mappings 3.2.13
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.5
     org.grails.plugins:geb 1.0.2
@@ -5684,26 +5712,26 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.slf4j:slf4j-simple 1.7.25
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.3.9.RELEASE
-    org.springframework:spring-aspects 4.3.9.RELEASE
-    org.springframework:spring-beans 4.3.9.RELEASE
-    org.springframework:spring-context 4.3.9.RELEASE
-    org.springframework:spring-context-support 4.3.9.RELEASE
-    org.springframework:spring-core 4.3.9.RELEASE
-    org.springframework:spring-expression 4.3.9.RELEASE
-    org.springframework:spring-instrument 4.3.9.RELEASE
+    org.springframework:spring-aop 4.3.16.RELEASE
+    org.springframework:spring-aspects 4.3.16.RELEASE
+    org.springframework:spring-beans 4.3.16.RELEASE
+    org.springframework:spring-context 4.3.16.RELEASE
+    org.springframework:spring-context-support 4.3.16.RELEASE
+    org.springframework:spring-core 4.3.16.RELEASE
+    org.springframework:spring-expression 4.3.16.RELEASE
+    org.springframework:spring-instrument 4.3.16.RELEASE
     org.springframework:spring-instrument-tomcat 4.3.8.RELEASE
-    org.springframework:spring-jdbc 4.3.9.RELEASE
-    org.springframework:spring-jms 4.3.9.RELEASE
-    org.springframework:spring-messaging 4.3.9.RELEASE
-    org.springframework:spring-orm 4.3.9.RELEASE
-    org.springframework:spring-oxm 4.3.9.RELEASE
-    org.springframework:spring-test 4.3.9.RELEASE
-    org.springframework:spring-tx 4.3.9.RELEASE
-    org.springframework:spring-web 4.3.9.RELEASE
-    org.springframework:spring-webmvc 4.3.9.RELEASE
+    org.springframework:spring-jdbc 4.3.16.RELEASE
+    org.springframework:spring-jms 4.3.16.RELEASE
+    org.springframework:spring-messaging 4.3.16.RELEASE
+    org.springframework:spring-orm 4.3.16.RELEASE
+    org.springframework:spring-oxm 4.3.16.RELEASE
+    org.springframework:spring-test 4.3.16.RELEASE
+    org.springframework:spring-tx 4.3.16.RELEASE
+    org.springframework:spring-web 4.3.16.RELEASE
+    org.springframework:spring-webmvc 4.3.16.RELEASE
     org.springframework:spring-webmvc-portlet 4.3.8.RELEASE
-    org.springframework:spring-websocket 4.3.9.RELEASE
+    org.springframework:spring-websocket 4.3.16.RELEASE
     org.springframework:springloaded 1.2.8.RELEASE
     org.springframework.amqp:spring-amqp 1.6.9.RELEASE
     org.springframework.amqp:spring-rabbit 1.6.9.RELEASE
@@ -6050,25 +6078,25 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
     org.aspectj:aspectjweaver 1.8.10
     org.assertj:assertj-core 2.5.0
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.4.11
+    org.codehaus.groovy:groovy 2.4.15
     org.codehaus.groovy:groovy-all 2.4.10
-    org.codehaus.groovy:groovy-ant 2.4.11
+    org.codehaus.groovy:groovy-ant 2.4.15
     org.codehaus.groovy:groovy-bsf 2.4.10
-    org.codehaus.groovy:groovy-console 2.4.11
+    org.codehaus.groovy:groovy-console 2.4.15
     org.codehaus.groovy:groovy-docgenerator 2.4.10
     org.codehaus.groovy:groovy-groovydoc 2.4.10
     org.codehaus.groovy:groovy-groovysh 2.4.10
     org.codehaus.groovy:groovy-jmx 2.4.10
-    org.codehaus.groovy:groovy-json 2.4.11
+    org.codehaus.groovy:groovy-json 2.4.15
     org.codehaus.groovy:groovy-jsr223 2.4.10
-    org.codehaus.groovy:groovy-nio 2.4.11
+    org.codehaus.groovy:groovy-nio 2.4.15
     org.codehaus.groovy:groovy-servlet 2.4.10
-    org.codehaus.groovy:groovy-sql 2.4.11
-    org.codehaus.groovy:groovy-swing 2.4.11
-    org.codehaus.groovy:groovy-templates 2.4.11
+    org.codehaus.groovy:groovy-sql 2.4.15
+    org.codehaus.groovy:groovy-swing 2.4.15
+    org.codehaus.groovy:groovy-templates 2.4.15
     org.codehaus.groovy:groovy-test 2.4.10
     org.codehaus.groovy:groovy-testng 2.4.10
-    org.codehaus.groovy:groovy-xml 2.4.11
+    org.codehaus.groovy:groovy-xml 2.4.15
     org.codehaus.janino:janino 2.7.8
     org.crashub:crash.cli 1.3.2
     org.crashub:crash.connectors.ssh 1.3.2
@@ -6114,12 +6142,12 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.12
-    org.grails:grails-bootstrap 3.2.12
-    org.grails:grails-codecs 3.2.12
-    org.grails:grails-console 3.2.12
-    org.grails:grails-core 3.2.12
-    org.grails:grails-databinding 3.2.12
+    org.grails:grails-async 3.2.13
+    org.grails:grails-bootstrap 3.2.13
+    org.grails:grails-codecs 3.2.13
+    org.grails:grails-console 3.2.13
+    org.grails:grails-core 3.2.13
+    org.grails:grails-databinding 3.2.13
     org.grails:grails-datastore-core 6.0.12.RELEASE
     org.grails:grails-datastore-gorm 6.0.12.RELEASE
     org.grails:grails-datastore-gorm-support 6.0.12.RELEASE
@@ -6130,51 +6158,51 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
     org.grails:grails-datastore-simple 6.0.12.RELEASE
     org.grails:grails-datastore-test-support 6.0.12.RELEASE
     org.grails:grails-datastore-web 6.0.12.RELEASE
-    org.grails:grails-dependencies 3.2.12
-    org.grails:grails-docs 3.2.12
-    org.grails:grails-encoder 3.2.12
-    org.grails:grails-gradle-model 3.2.12
-    org.grails:grails-gradle-plugin 3.2.12
-    org.grails:grails-gsp 3.2.12
-    org.grails:grails-logging 3.2.12
-    org.grails:grails-plugin-async 3.2.12
-    org.grails:grails-plugin-codecs 3.2.12
-    org.grails:grails-plugin-controllers 3.2.12
-    org.grails:grails-plugin-converters 3.2.12
-    org.grails:grails-plugin-databinding 3.2.12
-    org.grails:grails-plugin-datasource 3.2.12
-    org.grails:grails-plugin-domain-class 3.2.12
-    org.grails:grails-plugin-events 3.2.12
-    org.grails:grails-plugin-gsp 3.2.12
-    org.grails:grails-plugin-i18n 3.2.12
-    org.grails:grails-plugin-interceptors 3.2.12
-    org.grails:grails-plugin-mimetypes 3.2.12
-    org.grails:grails-plugin-rest 3.2.12
-    org.grails:grails-plugin-services 3.2.12
-    org.grails:grails-plugin-testing 3.2.12
-    org.grails:grails-plugin-url-mappings 3.2.12
-    org.grails:grails-plugin-validation 3.2.12
-    org.grails:grails-shell 3.2.12
-    org.grails:grails-spring 3.2.12
-    org.grails:grails-taglib 3.2.12
-    org.grails:grails-test 3.2.12
-    org.grails:grails-test-suite-base 3.2.12
-    org.grails:grails-test-suite-persistence 3.2.12
-    org.grails:grails-test-suite-uber 3.2.12
-    org.grails:grails-test-suite-web 3.2.12
-    org.grails:grails-validation 3.2.12
-    org.grails:grails-web 3.2.12
-    org.grails:grails-web-boot 3.2.12
-    org.grails:grails-web-common 3.2.12
-    org.grails:grails-web-databinding 3.2.12
-    org.grails:grails-web-fileupload 3.2.12
-    org.grails:grails-web-gsp 3.2.12
-    org.grails:grails-web-gsp-taglib 3.2.12
-    org.grails:grails-web-jsp 3.2.12
-    org.grails:grails-web-mvc 3.2.12
-    org.grails:grails-web-sitemesh 3.2.12
-    org.grails:grails-web-taglib 3.2.12
-    org.grails:grails-web-url-mappings 3.2.12
+    org.grails:grails-dependencies 3.2.13
+    org.grails:grails-docs 3.2.13
+    org.grails:grails-encoder 3.2.13
+    org.grails:grails-gradle-model 3.2.13
+    org.grails:grails-gradle-plugin 3.2.13
+    org.grails:grails-gsp 3.2.13
+    org.grails:grails-logging 3.2.13
+    org.grails:grails-plugin-async 3.2.13
+    org.grails:grails-plugin-codecs 3.2.13
+    org.grails:grails-plugin-controllers 3.2.13
+    org.grails:grails-plugin-converters 3.2.13
+    org.grails:grails-plugin-databinding 3.2.13
+    org.grails:grails-plugin-datasource 3.2.13
+    org.grails:grails-plugin-domain-class 3.2.13
+    org.grails:grails-plugin-events 3.2.13
+    org.grails:grails-plugin-gsp 3.2.13
+    org.grails:grails-plugin-i18n 3.2.13
+    org.grails:grails-plugin-interceptors 3.2.13
+    org.grails:grails-plugin-mimetypes 3.2.13
+    org.grails:grails-plugin-rest 3.2.13
+    org.grails:grails-plugin-services 3.2.13
+    org.grails:grails-plugin-testing 3.2.13
+    org.grails:grails-plugin-url-mappings 3.2.13
+    org.grails:grails-plugin-validation 3.2.13
+    org.grails:grails-shell 3.2.13
+    org.grails:grails-spring 3.2.13
+    org.grails:grails-taglib 3.2.13
+    org.grails:grails-test 3.2.13
+    org.grails:grails-test-suite-base 3.2.13
+    org.grails:grails-test-suite-persistence 3.2.13
+    org.grails:grails-test-suite-uber 3.2.13
+    org.grails:grails-test-suite-web 3.2.13
+    org.grails:grails-validation 3.2.13
+    org.grails:grails-web 3.2.13
+    org.grails:grails-web-boot 3.2.13
+    org.grails:grails-web-common 3.2.13
+    org.grails:grails-web-databinding 3.2.13
+    org.grails:grails-web-fileupload 3.2.13
+    org.grails:grails-web-gsp 3.2.13
+    org.grails:grails-web-gsp-taglib 3.2.13
+    org.grails:grails-web-jsp 3.2.13
+    org.grails:grails-web-mvc 3.2.13
+    org.grails:grails-web-sitemesh 3.2.13
+    org.grails:grails-web-taglib 3.2.13
+    org.grails:grails-web-url-mappings 3.2.13
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.5
     org.grails.plugins:geb 1.0.2
@@ -6262,26 +6290,26 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
     org.slf4j:slf4j-simple 1.7.25
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.3.9.RELEASE
-    org.springframework:spring-aspects 4.3.9.RELEASE
-    org.springframework:spring-beans 4.3.9.RELEASE
-    org.springframework:spring-context 4.3.9.RELEASE
-    org.springframework:spring-context-support 4.3.9.RELEASE
-    org.springframework:spring-core 4.3.9.RELEASE
-    org.springframework:spring-expression 4.3.9.RELEASE
-    org.springframework:spring-instrument 4.3.9.RELEASE
+    org.springframework:spring-aop 4.3.16.RELEASE
+    org.springframework:spring-aspects 4.3.16.RELEASE
+    org.springframework:spring-beans 4.3.16.RELEASE
+    org.springframework:spring-context 4.3.16.RELEASE
+    org.springframework:spring-context-support 4.3.16.RELEASE
+    org.springframework:spring-core 4.3.16.RELEASE
+    org.springframework:spring-expression 4.3.16.RELEASE
+    org.springframework:spring-instrument 4.3.16.RELEASE
     org.springframework:spring-instrument-tomcat 4.3.8.RELEASE
-    org.springframework:spring-jdbc 4.3.9.RELEASE
-    org.springframework:spring-jms 4.3.9.RELEASE
-    org.springframework:spring-messaging 4.3.9.RELEASE
-    org.springframework:spring-orm 4.3.9.RELEASE
-    org.springframework:spring-oxm 4.3.9.RELEASE
-    org.springframework:spring-test 4.3.9.RELEASE
-    org.springframework:spring-tx 4.3.9.RELEASE
-    org.springframework:spring-web 4.3.9.RELEASE
-    org.springframework:spring-webmvc 4.3.9.RELEASE
+    org.springframework:spring-jdbc 4.3.16.RELEASE
+    org.springframework:spring-jms 4.3.16.RELEASE
+    org.springframework:spring-messaging 4.3.16.RELEASE
+    org.springframework:spring-orm 4.3.16.RELEASE
+    org.springframework:spring-oxm 4.3.16.RELEASE
+    org.springframework:spring-test 4.3.16.RELEASE
+    org.springframework:spring-tx 4.3.16.RELEASE
+    org.springframework:spring-web 4.3.16.RELEASE
+    org.springframework:spring-webmvc 4.3.16.RELEASE
     org.springframework:spring-webmvc-portlet 4.3.8.RELEASE
-    org.springframework:spring-websocket 4.3.9.RELEASE
+    org.springframework:spring-websocket 4.3.16.RELEASE
     org.springframework:springloaded 1.2.8.RELEASE
     org.springframework.amqp:spring-amqp 1.6.9.RELEASE
     org.springframework.amqp:spring-rabbit 1.6.9.RELEASE
@@ -6643,25 +6671,25 @@ runtime - Dependency management for the runtime configuration
     org.aspectj:aspectjweaver 1.8.10
     org.assertj:assertj-core 2.5.0
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.4.11
+    org.codehaus.groovy:groovy 2.4.15
     org.codehaus.groovy:groovy-all 2.4.10
-    org.codehaus.groovy:groovy-ant 2.4.11
+    org.codehaus.groovy:groovy-ant 2.4.15
     org.codehaus.groovy:groovy-bsf 2.4.10
-    org.codehaus.groovy:groovy-console 2.4.11
+    org.codehaus.groovy:groovy-console 2.4.15
     org.codehaus.groovy:groovy-docgenerator 2.4.10
     org.codehaus.groovy:groovy-groovydoc 2.4.10
     org.codehaus.groovy:groovy-groovysh 2.4.10
     org.codehaus.groovy:groovy-jmx 2.4.10
-    org.codehaus.groovy:groovy-json 2.4.11
+    org.codehaus.groovy:groovy-json 2.4.15
     org.codehaus.groovy:groovy-jsr223 2.4.10
-    org.codehaus.groovy:groovy-nio 2.4.11
+    org.codehaus.groovy:groovy-nio 2.4.15
     org.codehaus.groovy:groovy-servlet 2.4.10
-    org.codehaus.groovy:groovy-sql 2.4.11
-    org.codehaus.groovy:groovy-swing 2.4.11
-    org.codehaus.groovy:groovy-templates 2.4.11
+    org.codehaus.groovy:groovy-sql 2.4.15
+    org.codehaus.groovy:groovy-swing 2.4.15
+    org.codehaus.groovy:groovy-templates 2.4.15
     org.codehaus.groovy:groovy-test 2.4.10
     org.codehaus.groovy:groovy-testng 2.4.10
-    org.codehaus.groovy:groovy-xml 2.4.11
+    org.codehaus.groovy:groovy-xml 2.4.15
     org.codehaus.janino:janino 2.7.8
     org.crashub:crash.cli 1.3.2
     org.crashub:crash.connectors.ssh 1.3.2
@@ -6707,12 +6735,12 @@ runtime - Dependency management for the runtime configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.12
-    org.grails:grails-bootstrap 3.2.12
-    org.grails:grails-codecs 3.2.12
-    org.grails:grails-console 3.2.12
-    org.grails:grails-core 3.2.12
-    org.grails:grails-databinding 3.2.12
+    org.grails:grails-async 3.2.13
+    org.grails:grails-bootstrap 3.2.13
+    org.grails:grails-codecs 3.2.13
+    org.grails:grails-console 3.2.13
+    org.grails:grails-core 3.2.13
+    org.grails:grails-databinding 3.2.13
     org.grails:grails-datastore-core 6.0.12.RELEASE
     org.grails:grails-datastore-gorm 6.0.12.RELEASE
     org.grails:grails-datastore-gorm-support 6.0.12.RELEASE
@@ -6723,51 +6751,51 @@ runtime - Dependency management for the runtime configuration
     org.grails:grails-datastore-simple 6.0.12.RELEASE
     org.grails:grails-datastore-test-support 6.0.12.RELEASE
     org.grails:grails-datastore-web 6.0.12.RELEASE
-    org.grails:grails-dependencies 3.2.12
-    org.grails:grails-docs 3.2.12
-    org.grails:grails-encoder 3.2.12
-    org.grails:grails-gradle-model 3.2.12
-    org.grails:grails-gradle-plugin 3.2.12
-    org.grails:grails-gsp 3.2.12
-    org.grails:grails-logging 3.2.12
-    org.grails:grails-plugin-async 3.2.12
-    org.grails:grails-plugin-codecs 3.2.12
-    org.grails:grails-plugin-controllers 3.2.12
-    org.grails:grails-plugin-converters 3.2.12
-    org.grails:grails-plugin-databinding 3.2.12
-    org.grails:grails-plugin-datasource 3.2.12
-    org.grails:grails-plugin-domain-class 3.2.12
-    org.grails:grails-plugin-events 3.2.12
-    org.grails:grails-plugin-gsp 3.2.12
-    org.grails:grails-plugin-i18n 3.2.12
-    org.grails:grails-plugin-interceptors 3.2.12
-    org.grails:grails-plugin-mimetypes 3.2.12
-    org.grails:grails-plugin-rest 3.2.12
-    org.grails:grails-plugin-services 3.2.12
-    org.grails:grails-plugin-testing 3.2.12
-    org.grails:grails-plugin-url-mappings 3.2.12
-    org.grails:grails-plugin-validation 3.2.12
-    org.grails:grails-shell 3.2.12
-    org.grails:grails-spring 3.2.12
-    org.grails:grails-taglib 3.2.12
-    org.grails:grails-test 3.2.12
-    org.grails:grails-test-suite-base 3.2.12
-    org.grails:grails-test-suite-persistence 3.2.12
-    org.grails:grails-test-suite-uber 3.2.12
-    org.grails:grails-test-suite-web 3.2.12
-    org.grails:grails-validation 3.2.12
-    org.grails:grails-web 3.2.12
-    org.grails:grails-web-boot 3.2.12
-    org.grails:grails-web-common 3.2.12
-    org.grails:grails-web-databinding 3.2.12
-    org.grails:grails-web-fileupload 3.2.12
-    org.grails:grails-web-gsp 3.2.12
-    org.grails:grails-web-gsp-taglib 3.2.12
-    org.grails:grails-web-jsp 3.2.12
-    org.grails:grails-web-mvc 3.2.12
-    org.grails:grails-web-sitemesh 3.2.12
-    org.grails:grails-web-taglib 3.2.12
-    org.grails:grails-web-url-mappings 3.2.12
+    org.grails:grails-dependencies 3.2.13
+    org.grails:grails-docs 3.2.13
+    org.grails:grails-encoder 3.2.13
+    org.grails:grails-gradle-model 3.2.13
+    org.grails:grails-gradle-plugin 3.2.13
+    org.grails:grails-gsp 3.2.13
+    org.grails:grails-logging 3.2.13
+    org.grails:grails-plugin-async 3.2.13
+    org.grails:grails-plugin-codecs 3.2.13
+    org.grails:grails-plugin-controllers 3.2.13
+    org.grails:grails-plugin-converters 3.2.13
+    org.grails:grails-plugin-databinding 3.2.13
+    org.grails:grails-plugin-datasource 3.2.13
+    org.grails:grails-plugin-domain-class 3.2.13
+    org.grails:grails-plugin-events 3.2.13
+    org.grails:grails-plugin-gsp 3.2.13
+    org.grails:grails-plugin-i18n 3.2.13
+    org.grails:grails-plugin-interceptors 3.2.13
+    org.grails:grails-plugin-mimetypes 3.2.13
+    org.grails:grails-plugin-rest 3.2.13
+    org.grails:grails-plugin-services 3.2.13
+    org.grails:grails-plugin-testing 3.2.13
+    org.grails:grails-plugin-url-mappings 3.2.13
+    org.grails:grails-plugin-validation 3.2.13
+    org.grails:grails-shell 3.2.13
+    org.grails:grails-spring 3.2.13
+    org.grails:grails-taglib 3.2.13
+    org.grails:grails-test 3.2.13
+    org.grails:grails-test-suite-base 3.2.13
+    org.grails:grails-test-suite-persistence 3.2.13
+    org.grails:grails-test-suite-uber 3.2.13
+    org.grails:grails-test-suite-web 3.2.13
+    org.grails:grails-validation 3.2.13
+    org.grails:grails-web 3.2.13
+    org.grails:grails-web-boot 3.2.13
+    org.grails:grails-web-common 3.2.13
+    org.grails:grails-web-databinding 3.2.13
+    org.grails:grails-web-fileupload 3.2.13
+    org.grails:grails-web-gsp 3.2.13
+    org.grails:grails-web-gsp-taglib 3.2.13
+    org.grails:grails-web-jsp 3.2.13
+    org.grails:grails-web-mvc 3.2.13
+    org.grails:grails-web-sitemesh 3.2.13
+    org.grails:grails-web-taglib 3.2.13
+    org.grails:grails-web-url-mappings 3.2.13
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.5
     org.grails.plugins:geb 1.0.2
@@ -6855,26 +6883,26 @@ runtime - Dependency management for the runtime configuration
     org.slf4j:slf4j-simple 1.7.25
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.3.9.RELEASE
-    org.springframework:spring-aspects 4.3.9.RELEASE
-    org.springframework:spring-beans 4.3.9.RELEASE
-    org.springframework:spring-context 4.3.9.RELEASE
-    org.springframework:spring-context-support 4.3.9.RELEASE
-    org.springframework:spring-core 4.3.9.RELEASE
-    org.springframework:spring-expression 4.3.9.RELEASE
-    org.springframework:spring-instrument 4.3.9.RELEASE
+    org.springframework:spring-aop 4.3.16.RELEASE
+    org.springframework:spring-aspects 4.3.16.RELEASE
+    org.springframework:spring-beans 4.3.16.RELEASE
+    org.springframework:spring-context 4.3.16.RELEASE
+    org.springframework:spring-context-support 4.3.16.RELEASE
+    org.springframework:spring-core 4.3.16.RELEASE
+    org.springframework:spring-expression 4.3.16.RELEASE
+    org.springframework:spring-instrument 4.3.16.RELEASE
     org.springframework:spring-instrument-tomcat 4.3.8.RELEASE
-    org.springframework:spring-jdbc 4.3.9.RELEASE
-    org.springframework:spring-jms 4.3.9.RELEASE
-    org.springframework:spring-messaging 4.3.9.RELEASE
-    org.springframework:spring-orm 4.3.9.RELEASE
-    org.springframework:spring-oxm 4.3.9.RELEASE
-    org.springframework:spring-test 4.3.9.RELEASE
-    org.springframework:spring-tx 4.3.9.RELEASE
-    org.springframework:spring-web 4.3.9.RELEASE
-    org.springframework:spring-webmvc 4.3.9.RELEASE
+    org.springframework:spring-jdbc 4.3.16.RELEASE
+    org.springframework:spring-jms 4.3.16.RELEASE
+    org.springframework:spring-messaging 4.3.16.RELEASE
+    org.springframework:spring-orm 4.3.16.RELEASE
+    org.springframework:spring-oxm 4.3.16.RELEASE
+    org.springframework:spring-test 4.3.16.RELEASE
+    org.springframework:spring-tx 4.3.16.RELEASE
+    org.springframework:spring-web 4.3.16.RELEASE
+    org.springframework:spring-webmvc 4.3.16.RELEASE
     org.springframework:spring-webmvc-portlet 4.3.8.RELEASE
-    org.springframework:spring-websocket 4.3.9.RELEASE
+    org.springframework:spring-websocket 4.3.16.RELEASE
     org.springframework:springloaded 1.2.8.RELEASE
     org.springframework.amqp:spring-amqp 1.6.9.RELEASE
     org.springframework.amqp:spring-rabbit 1.6.9.RELEASE
@@ -7221,25 +7249,25 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
     org.aspectj:aspectjweaver 1.8.10
     org.assertj:assertj-core 2.5.0
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.4.11
+    org.codehaus.groovy:groovy 2.4.15
     org.codehaus.groovy:groovy-all 2.4.10
-    org.codehaus.groovy:groovy-ant 2.4.11
+    org.codehaus.groovy:groovy-ant 2.4.15
     org.codehaus.groovy:groovy-bsf 2.4.10
-    org.codehaus.groovy:groovy-console 2.4.11
+    org.codehaus.groovy:groovy-console 2.4.15
     org.codehaus.groovy:groovy-docgenerator 2.4.10
     org.codehaus.groovy:groovy-groovydoc 2.4.10
     org.codehaus.groovy:groovy-groovysh 2.4.10
     org.codehaus.groovy:groovy-jmx 2.4.10
-    org.codehaus.groovy:groovy-json 2.4.11
+    org.codehaus.groovy:groovy-json 2.4.15
     org.codehaus.groovy:groovy-jsr223 2.4.10
-    org.codehaus.groovy:groovy-nio 2.4.11
+    org.codehaus.groovy:groovy-nio 2.4.15
     org.codehaus.groovy:groovy-servlet 2.4.10
-    org.codehaus.groovy:groovy-sql 2.4.11
-    org.codehaus.groovy:groovy-swing 2.4.11
-    org.codehaus.groovy:groovy-templates 2.4.11
+    org.codehaus.groovy:groovy-sql 2.4.15
+    org.codehaus.groovy:groovy-swing 2.4.15
+    org.codehaus.groovy:groovy-templates 2.4.15
     org.codehaus.groovy:groovy-test 2.4.10
     org.codehaus.groovy:groovy-testng 2.4.10
-    org.codehaus.groovy:groovy-xml 2.4.11
+    org.codehaus.groovy:groovy-xml 2.4.15
     org.codehaus.janino:janino 2.7.8
     org.crashub:crash.cli 1.3.2
     org.crashub:crash.connectors.ssh 1.3.2
@@ -7285,12 +7313,12 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.12
-    org.grails:grails-bootstrap 3.2.12
-    org.grails:grails-codecs 3.2.12
-    org.grails:grails-console 3.2.12
-    org.grails:grails-core 3.2.12
-    org.grails:grails-databinding 3.2.12
+    org.grails:grails-async 3.2.13
+    org.grails:grails-bootstrap 3.2.13
+    org.grails:grails-codecs 3.2.13
+    org.grails:grails-console 3.2.13
+    org.grails:grails-core 3.2.13
+    org.grails:grails-databinding 3.2.13
     org.grails:grails-datastore-core 6.0.12.RELEASE
     org.grails:grails-datastore-gorm 6.0.12.RELEASE
     org.grails:grails-datastore-gorm-support 6.0.12.RELEASE
@@ -7301,51 +7329,51 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
     org.grails:grails-datastore-simple 6.0.12.RELEASE
     org.grails:grails-datastore-test-support 6.0.12.RELEASE
     org.grails:grails-datastore-web 6.0.12.RELEASE
-    org.grails:grails-dependencies 3.2.12
-    org.grails:grails-docs 3.2.12
-    org.grails:grails-encoder 3.2.12
-    org.grails:grails-gradle-model 3.2.12
-    org.grails:grails-gradle-plugin 3.2.12
-    org.grails:grails-gsp 3.2.12
-    org.grails:grails-logging 3.2.12
-    org.grails:grails-plugin-async 3.2.12
-    org.grails:grails-plugin-codecs 3.2.12
-    org.grails:grails-plugin-controllers 3.2.12
-    org.grails:grails-plugin-converters 3.2.12
-    org.grails:grails-plugin-databinding 3.2.12
-    org.grails:grails-plugin-datasource 3.2.12
-    org.grails:grails-plugin-domain-class 3.2.12
-    org.grails:grails-plugin-events 3.2.12
-    org.grails:grails-plugin-gsp 3.2.12
-    org.grails:grails-plugin-i18n 3.2.12
-    org.grails:grails-plugin-interceptors 3.2.12
-    org.grails:grails-plugin-mimetypes 3.2.12
-    org.grails:grails-plugin-rest 3.2.12
-    org.grails:grails-plugin-services 3.2.12
-    org.grails:grails-plugin-testing 3.2.12
-    org.grails:grails-plugin-url-mappings 3.2.12
-    org.grails:grails-plugin-validation 3.2.12
-    org.grails:grails-shell 3.2.12
-    org.grails:grails-spring 3.2.12
-    org.grails:grails-taglib 3.2.12
-    org.grails:grails-test 3.2.12
-    org.grails:grails-test-suite-base 3.2.12
-    org.grails:grails-test-suite-persistence 3.2.12
-    org.grails:grails-test-suite-uber 3.2.12
-    org.grails:grails-test-suite-web 3.2.12
-    org.grails:grails-validation 3.2.12
-    org.grails:grails-web 3.2.12
-    org.grails:grails-web-boot 3.2.12
-    org.grails:grails-web-common 3.2.12
-    org.grails:grails-web-databinding 3.2.12
-    org.grails:grails-web-fileupload 3.2.12
-    org.grails:grails-web-gsp 3.2.12
-    org.grails:grails-web-gsp-taglib 3.2.12
-    org.grails:grails-web-jsp 3.2.12
-    org.grails:grails-web-mvc 3.2.12
-    org.grails:grails-web-sitemesh 3.2.12
-    org.grails:grails-web-taglib 3.2.12
-    org.grails:grails-web-url-mappings 3.2.12
+    org.grails:grails-dependencies 3.2.13
+    org.grails:grails-docs 3.2.13
+    org.grails:grails-encoder 3.2.13
+    org.grails:grails-gradle-model 3.2.13
+    org.grails:grails-gradle-plugin 3.2.13
+    org.grails:grails-gsp 3.2.13
+    org.grails:grails-logging 3.2.13
+    org.grails:grails-plugin-async 3.2.13
+    org.grails:grails-plugin-codecs 3.2.13
+    org.grails:grails-plugin-controllers 3.2.13
+    org.grails:grails-plugin-converters 3.2.13
+    org.grails:grails-plugin-databinding 3.2.13
+    org.grails:grails-plugin-datasource 3.2.13
+    org.grails:grails-plugin-domain-class 3.2.13
+    org.grails:grails-plugin-events 3.2.13
+    org.grails:grails-plugin-gsp 3.2.13
+    org.grails:grails-plugin-i18n 3.2.13
+    org.grails:grails-plugin-interceptors 3.2.13
+    org.grails:grails-plugin-mimetypes 3.2.13
+    org.grails:grails-plugin-rest 3.2.13
+    org.grails:grails-plugin-services 3.2.13
+    org.grails:grails-plugin-testing 3.2.13
+    org.grails:grails-plugin-url-mappings 3.2.13
+    org.grails:grails-plugin-validation 3.2.13
+    org.grails:grails-shell 3.2.13
+    org.grails:grails-spring 3.2.13
+    org.grails:grails-taglib 3.2.13
+    org.grails:grails-test 3.2.13
+    org.grails:grails-test-suite-base 3.2.13
+    org.grails:grails-test-suite-persistence 3.2.13
+    org.grails:grails-test-suite-uber 3.2.13
+    org.grails:grails-test-suite-web 3.2.13
+    org.grails:grails-validation 3.2.13
+    org.grails:grails-web 3.2.13
+    org.grails:grails-web-boot 3.2.13
+    org.grails:grails-web-common 3.2.13
+    org.grails:grails-web-databinding 3.2.13
+    org.grails:grails-web-fileupload 3.2.13
+    org.grails:grails-web-gsp 3.2.13
+    org.grails:grails-web-gsp-taglib 3.2.13
+    org.grails:grails-web-jsp 3.2.13
+    org.grails:grails-web-mvc 3.2.13
+    org.grails:grails-web-sitemesh 3.2.13
+    org.grails:grails-web-taglib 3.2.13
+    org.grails:grails-web-url-mappings 3.2.13
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.5
     org.grails.plugins:geb 1.0.2
@@ -7433,26 +7461,26 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
     org.slf4j:slf4j-simple 1.7.25
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.3.9.RELEASE
-    org.springframework:spring-aspects 4.3.9.RELEASE
-    org.springframework:spring-beans 4.3.9.RELEASE
-    org.springframework:spring-context 4.3.9.RELEASE
-    org.springframework:spring-context-support 4.3.9.RELEASE
-    org.springframework:spring-core 4.3.9.RELEASE
-    org.springframework:spring-expression 4.3.9.RELEASE
-    org.springframework:spring-instrument 4.3.9.RELEASE
+    org.springframework:spring-aop 4.3.16.RELEASE
+    org.springframework:spring-aspects 4.3.16.RELEASE
+    org.springframework:spring-beans 4.3.16.RELEASE
+    org.springframework:spring-context 4.3.16.RELEASE
+    org.springframework:spring-context-support 4.3.16.RELEASE
+    org.springframework:spring-core 4.3.16.RELEASE
+    org.springframework:spring-expression 4.3.16.RELEASE
+    org.springframework:spring-instrument 4.3.16.RELEASE
     org.springframework:spring-instrument-tomcat 4.3.8.RELEASE
-    org.springframework:spring-jdbc 4.3.9.RELEASE
-    org.springframework:spring-jms 4.3.9.RELEASE
-    org.springframework:spring-messaging 4.3.9.RELEASE
-    org.springframework:spring-orm 4.3.9.RELEASE
-    org.springframework:spring-oxm 4.3.9.RELEASE
-    org.springframework:spring-test 4.3.9.RELEASE
-    org.springframework:spring-tx 4.3.9.RELEASE
-    org.springframework:spring-web 4.3.9.RELEASE
-    org.springframework:spring-webmvc 4.3.9.RELEASE
+    org.springframework:spring-jdbc 4.3.16.RELEASE
+    org.springframework:spring-jms 4.3.16.RELEASE
+    org.springframework:spring-messaging 4.3.16.RELEASE
+    org.springframework:spring-orm 4.3.16.RELEASE
+    org.springframework:spring-oxm 4.3.16.RELEASE
+    org.springframework:spring-test 4.3.16.RELEASE
+    org.springframework:spring-tx 4.3.16.RELEASE
+    org.springframework:spring-web 4.3.16.RELEASE
+    org.springframework:spring-webmvc 4.3.16.RELEASE
     org.springframework:spring-webmvc-portlet 4.3.8.RELEASE
-    org.springframework:spring-websocket 4.3.9.RELEASE
+    org.springframework:spring-websocket 4.3.16.RELEASE
     org.springframework:springloaded 1.2.8.RELEASE
     org.springframework.amqp:spring-amqp 1.6.9.RELEASE
     org.springframework.amqp:spring-rabbit 1.6.9.RELEASE
@@ -7799,25 +7827,25 @@ runtimeElements - Dependency management for the runtimeElements configuration
     org.aspectj:aspectjweaver 1.8.10
     org.assertj:assertj-core 2.5.0
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.4.11
+    org.codehaus.groovy:groovy 2.4.15
     org.codehaus.groovy:groovy-all 2.4.10
-    org.codehaus.groovy:groovy-ant 2.4.11
+    org.codehaus.groovy:groovy-ant 2.4.15
     org.codehaus.groovy:groovy-bsf 2.4.10
-    org.codehaus.groovy:groovy-console 2.4.11
+    org.codehaus.groovy:groovy-console 2.4.15
     org.codehaus.groovy:groovy-docgenerator 2.4.10
     org.codehaus.groovy:groovy-groovydoc 2.4.10
     org.codehaus.groovy:groovy-groovysh 2.4.10
     org.codehaus.groovy:groovy-jmx 2.4.10
-    org.codehaus.groovy:groovy-json 2.4.11
+    org.codehaus.groovy:groovy-json 2.4.15
     org.codehaus.groovy:groovy-jsr223 2.4.10
-    org.codehaus.groovy:groovy-nio 2.4.11
+    org.codehaus.groovy:groovy-nio 2.4.15
     org.codehaus.groovy:groovy-servlet 2.4.10
-    org.codehaus.groovy:groovy-sql 2.4.11
-    org.codehaus.groovy:groovy-swing 2.4.11
-    org.codehaus.groovy:groovy-templates 2.4.11
+    org.codehaus.groovy:groovy-sql 2.4.15
+    org.codehaus.groovy:groovy-swing 2.4.15
+    org.codehaus.groovy:groovy-templates 2.4.15
     org.codehaus.groovy:groovy-test 2.4.10
     org.codehaus.groovy:groovy-testng 2.4.10
-    org.codehaus.groovy:groovy-xml 2.4.11
+    org.codehaus.groovy:groovy-xml 2.4.15
     org.codehaus.janino:janino 2.7.8
     org.crashub:crash.cli 1.3.2
     org.crashub:crash.connectors.ssh 1.3.2
@@ -7863,12 +7891,12 @@ runtimeElements - Dependency management for the runtimeElements configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.12
-    org.grails:grails-bootstrap 3.2.12
-    org.grails:grails-codecs 3.2.12
-    org.grails:grails-console 3.2.12
-    org.grails:grails-core 3.2.12
-    org.grails:grails-databinding 3.2.12
+    org.grails:grails-async 3.2.13
+    org.grails:grails-bootstrap 3.2.13
+    org.grails:grails-codecs 3.2.13
+    org.grails:grails-console 3.2.13
+    org.grails:grails-core 3.2.13
+    org.grails:grails-databinding 3.2.13
     org.grails:grails-datastore-core 6.0.12.RELEASE
     org.grails:grails-datastore-gorm 6.0.12.RELEASE
     org.grails:grails-datastore-gorm-support 6.0.12.RELEASE
@@ -7879,51 +7907,51 @@ runtimeElements - Dependency management for the runtimeElements configuration
     org.grails:grails-datastore-simple 6.0.12.RELEASE
     org.grails:grails-datastore-test-support 6.0.12.RELEASE
     org.grails:grails-datastore-web 6.0.12.RELEASE
-    org.grails:grails-dependencies 3.2.12
-    org.grails:grails-docs 3.2.12
-    org.grails:grails-encoder 3.2.12
-    org.grails:grails-gradle-model 3.2.12
-    org.grails:grails-gradle-plugin 3.2.12
-    org.grails:grails-gsp 3.2.12
-    org.grails:grails-logging 3.2.12
-    org.grails:grails-plugin-async 3.2.12
-    org.grails:grails-plugin-codecs 3.2.12
-    org.grails:grails-plugin-controllers 3.2.12
-    org.grails:grails-plugin-converters 3.2.12
-    org.grails:grails-plugin-databinding 3.2.12
-    org.grails:grails-plugin-datasource 3.2.12
-    org.grails:grails-plugin-domain-class 3.2.12
-    org.grails:grails-plugin-events 3.2.12
-    org.grails:grails-plugin-gsp 3.2.12
-    org.grails:grails-plugin-i18n 3.2.12
-    org.grails:grails-plugin-interceptors 3.2.12
-    org.grails:grails-plugin-mimetypes 3.2.12
-    org.grails:grails-plugin-rest 3.2.12
-    org.grails:grails-plugin-services 3.2.12
-    org.grails:grails-plugin-testing 3.2.12
-    org.grails:grails-plugin-url-mappings 3.2.12
-    org.grails:grails-plugin-validation 3.2.12
-    org.grails:grails-shell 3.2.12
-    org.grails:grails-spring 3.2.12
-    org.grails:grails-taglib 3.2.12
-    org.grails:grails-test 3.2.12
-    org.grails:grails-test-suite-base 3.2.12
-    org.grails:grails-test-suite-persistence 3.2.12
-    org.grails:grails-test-suite-uber 3.2.12
-    org.grails:grails-test-suite-web 3.2.12
-    org.grails:grails-validation 3.2.12
-    org.grails:grails-web 3.2.12
-    org.grails:grails-web-boot 3.2.12
-    org.grails:grails-web-common 3.2.12
-    org.grails:grails-web-databinding 3.2.12
-    org.grails:grails-web-fileupload 3.2.12
-    org.grails:grails-web-gsp 3.2.12
-    org.grails:grails-web-gsp-taglib 3.2.12
-    org.grails:grails-web-jsp 3.2.12
-    org.grails:grails-web-mvc 3.2.12
-    org.grails:grails-web-sitemesh 3.2.12
-    org.grails:grails-web-taglib 3.2.12
-    org.grails:grails-web-url-mappings 3.2.12
+    org.grails:grails-dependencies 3.2.13
+    org.grails:grails-docs 3.2.13
+    org.grails:grails-encoder 3.2.13
+    org.grails:grails-gradle-model 3.2.13
+    org.grails:grails-gradle-plugin 3.2.13
+    org.grails:grails-gsp 3.2.13
+    org.grails:grails-logging 3.2.13
+    org.grails:grails-plugin-async 3.2.13
+    org.grails:grails-plugin-codecs 3.2.13
+    org.grails:grails-plugin-controllers 3.2.13
+    org.grails:grails-plugin-converters 3.2.13
+    org.grails:grails-plugin-databinding 3.2.13
+    org.grails:grails-plugin-datasource 3.2.13
+    org.grails:grails-plugin-domain-class 3.2.13
+    org.grails:grails-plugin-events 3.2.13
+    org.grails:grails-plugin-gsp 3.2.13
+    org.grails:grails-plugin-i18n 3.2.13
+    org.grails:grails-plugin-interceptors 3.2.13
+    org.grails:grails-plugin-mimetypes 3.2.13
+    org.grails:grails-plugin-rest 3.2.13
+    org.grails:grails-plugin-services 3.2.13
+    org.grails:grails-plugin-testing 3.2.13
+    org.grails:grails-plugin-url-mappings 3.2.13
+    org.grails:grails-plugin-validation 3.2.13
+    org.grails:grails-shell 3.2.13
+    org.grails:grails-spring 3.2.13
+    org.grails:grails-taglib 3.2.13
+    org.grails:grails-test 3.2.13
+    org.grails:grails-test-suite-base 3.2.13
+    org.grails:grails-test-suite-persistence 3.2.13
+    org.grails:grails-test-suite-uber 3.2.13
+    org.grails:grails-test-suite-web 3.2.13
+    org.grails:grails-validation 3.2.13
+    org.grails:grails-web 3.2.13
+    org.grails:grails-web-boot 3.2.13
+    org.grails:grails-web-common 3.2.13
+    org.grails:grails-web-databinding 3.2.13
+    org.grails:grails-web-fileupload 3.2.13
+    org.grails:grails-web-gsp 3.2.13
+    org.grails:grails-web-gsp-taglib 3.2.13
+    org.grails:grails-web-jsp 3.2.13
+    org.grails:grails-web-mvc 3.2.13
+    org.grails:grails-web-sitemesh 3.2.13
+    org.grails:grails-web-taglib 3.2.13
+    org.grails:grails-web-url-mappings 3.2.13
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.5
     org.grails.plugins:geb 1.0.2
@@ -8011,26 +8039,26 @@ runtimeElements - Dependency management for the runtimeElements configuration
     org.slf4j:slf4j-simple 1.7.25
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.3.9.RELEASE
-    org.springframework:spring-aspects 4.3.9.RELEASE
-    org.springframework:spring-beans 4.3.9.RELEASE
-    org.springframework:spring-context 4.3.9.RELEASE
-    org.springframework:spring-context-support 4.3.9.RELEASE
-    org.springframework:spring-core 4.3.9.RELEASE
-    org.springframework:spring-expression 4.3.9.RELEASE
-    org.springframework:spring-instrument 4.3.9.RELEASE
+    org.springframework:spring-aop 4.3.16.RELEASE
+    org.springframework:spring-aspects 4.3.16.RELEASE
+    org.springframework:spring-beans 4.3.16.RELEASE
+    org.springframework:spring-context 4.3.16.RELEASE
+    org.springframework:spring-context-support 4.3.16.RELEASE
+    org.springframework:spring-core 4.3.16.RELEASE
+    org.springframework:spring-expression 4.3.16.RELEASE
+    org.springframework:spring-instrument 4.3.16.RELEASE
     org.springframework:spring-instrument-tomcat 4.3.8.RELEASE
-    org.springframework:spring-jdbc 4.3.9.RELEASE
-    org.springframework:spring-jms 4.3.9.RELEASE
-    org.springframework:spring-messaging 4.3.9.RELEASE
-    org.springframework:spring-orm 4.3.9.RELEASE
-    org.springframework:spring-oxm 4.3.9.RELEASE
-    org.springframework:spring-test 4.3.9.RELEASE
-    org.springframework:spring-tx 4.3.9.RELEASE
-    org.springframework:spring-web 4.3.9.RELEASE
-    org.springframework:spring-webmvc 4.3.9.RELEASE
+    org.springframework:spring-jdbc 4.3.16.RELEASE
+    org.springframework:spring-jms 4.3.16.RELEASE
+    org.springframework:spring-messaging 4.3.16.RELEASE
+    org.springframework:spring-orm 4.3.16.RELEASE
+    org.springframework:spring-oxm 4.3.16.RELEASE
+    org.springframework:spring-test 4.3.16.RELEASE
+    org.springframework:spring-tx 4.3.16.RELEASE
+    org.springframework:spring-web 4.3.16.RELEASE
+    org.springframework:spring-webmvc 4.3.16.RELEASE
     org.springframework:spring-webmvc-portlet 4.3.8.RELEASE
-    org.springframework:spring-websocket 4.3.9.RELEASE
+    org.springframework:spring-websocket 4.3.16.RELEASE
     org.springframework:springloaded 1.2.8.RELEASE
     org.springframework.amqp:spring-amqp 1.6.9.RELEASE
     org.springframework.amqp:spring-rabbit 1.6.9.RELEASE
@@ -8379,25 +8407,25 @@ testCompile - Dependency management for the testCompile configuration
     org.aspectj:aspectjweaver 1.8.10
     org.assertj:assertj-core 2.5.0
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.4.11
+    org.codehaus.groovy:groovy 2.4.15
     org.codehaus.groovy:groovy-all 2.4.10
-    org.codehaus.groovy:groovy-ant 2.4.11
+    org.codehaus.groovy:groovy-ant 2.4.15
     org.codehaus.groovy:groovy-bsf 2.4.10
-    org.codehaus.groovy:groovy-console 2.4.11
+    org.codehaus.groovy:groovy-console 2.4.15
     org.codehaus.groovy:groovy-docgenerator 2.4.10
     org.codehaus.groovy:groovy-groovydoc 2.4.10
     org.codehaus.groovy:groovy-groovysh 2.4.10
     org.codehaus.groovy:groovy-jmx 2.4.10
-    org.codehaus.groovy:groovy-json 2.4.11
+    org.codehaus.groovy:groovy-json 2.4.15
     org.codehaus.groovy:groovy-jsr223 2.4.10
-    org.codehaus.groovy:groovy-nio 2.4.11
+    org.codehaus.groovy:groovy-nio 2.4.15
     org.codehaus.groovy:groovy-servlet 2.4.10
-    org.codehaus.groovy:groovy-sql 2.4.11
-    org.codehaus.groovy:groovy-swing 2.4.11
-    org.codehaus.groovy:groovy-templates 2.4.11
+    org.codehaus.groovy:groovy-sql 2.4.15
+    org.codehaus.groovy:groovy-swing 2.4.15
+    org.codehaus.groovy:groovy-templates 2.4.15
     org.codehaus.groovy:groovy-test 2.4.10
     org.codehaus.groovy:groovy-testng 2.4.10
-    org.codehaus.groovy:groovy-xml 2.4.11
+    org.codehaus.groovy:groovy-xml 2.4.15
     org.codehaus.janino:janino 2.7.8
     org.crashub:crash.cli 1.3.2
     org.crashub:crash.connectors.ssh 1.3.2
@@ -8443,12 +8471,12 @@ testCompile - Dependency management for the testCompile configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.12
-    org.grails:grails-bootstrap 3.2.12
-    org.grails:grails-codecs 3.2.12
-    org.grails:grails-console 3.2.12
-    org.grails:grails-core 3.2.12
-    org.grails:grails-databinding 3.2.12
+    org.grails:grails-async 3.2.13
+    org.grails:grails-bootstrap 3.2.13
+    org.grails:grails-codecs 3.2.13
+    org.grails:grails-console 3.2.13
+    org.grails:grails-core 3.2.13
+    org.grails:grails-databinding 3.2.13
     org.grails:grails-datastore-core 6.0.12.RELEASE
     org.grails:grails-datastore-gorm 6.0.12.RELEASE
     org.grails:grails-datastore-gorm-support 6.0.12.RELEASE
@@ -8459,51 +8487,51 @@ testCompile - Dependency management for the testCompile configuration
     org.grails:grails-datastore-simple 6.0.12.RELEASE
     org.grails:grails-datastore-test-support 6.0.12.RELEASE
     org.grails:grails-datastore-web 6.0.12.RELEASE
-    org.grails:grails-dependencies 3.2.12
-    org.grails:grails-docs 3.2.12
-    org.grails:grails-encoder 3.2.12
-    org.grails:grails-gradle-model 3.2.12
-    org.grails:grails-gradle-plugin 3.2.12
-    org.grails:grails-gsp 3.2.12
-    org.grails:grails-logging 3.2.12
-    org.grails:grails-plugin-async 3.2.12
-    org.grails:grails-plugin-codecs 3.2.12
-    org.grails:grails-plugin-controllers 3.2.12
-    org.grails:grails-plugin-converters 3.2.12
-    org.grails:grails-plugin-databinding 3.2.12
-    org.grails:grails-plugin-datasource 3.2.12
-    org.grails:grails-plugin-domain-class 3.2.12
-    org.grails:grails-plugin-events 3.2.12
-    org.grails:grails-plugin-gsp 3.2.12
-    org.grails:grails-plugin-i18n 3.2.12
-    org.grails:grails-plugin-interceptors 3.2.12
-    org.grails:grails-plugin-mimetypes 3.2.12
-    org.grails:grails-plugin-rest 3.2.12
-    org.grails:grails-plugin-services 3.2.12
-    org.grails:grails-plugin-testing 3.2.12
-    org.grails:grails-plugin-url-mappings 3.2.12
-    org.grails:grails-plugin-validation 3.2.12
-    org.grails:grails-shell 3.2.12
-    org.grails:grails-spring 3.2.12
-    org.grails:grails-taglib 3.2.12
-    org.grails:grails-test 3.2.12
-    org.grails:grails-test-suite-base 3.2.12
-    org.grails:grails-test-suite-persistence 3.2.12
-    org.grails:grails-test-suite-uber 3.2.12
-    org.grails:grails-test-suite-web 3.2.12
-    org.grails:grails-validation 3.2.12
-    org.grails:grails-web 3.2.12
-    org.grails:grails-web-boot 3.2.12
-    org.grails:grails-web-common 3.2.12
-    org.grails:grails-web-databinding 3.2.12
-    org.grails:grails-web-fileupload 3.2.12
-    org.grails:grails-web-gsp 3.2.12
-    org.grails:grails-web-gsp-taglib 3.2.12
-    org.grails:grails-web-jsp 3.2.12
-    org.grails:grails-web-mvc 3.2.12
-    org.grails:grails-web-sitemesh 3.2.12
-    org.grails:grails-web-taglib 3.2.12
-    org.grails:grails-web-url-mappings 3.2.12
+    org.grails:grails-dependencies 3.2.13
+    org.grails:grails-docs 3.2.13
+    org.grails:grails-encoder 3.2.13
+    org.grails:grails-gradle-model 3.2.13
+    org.grails:grails-gradle-plugin 3.2.13
+    org.grails:grails-gsp 3.2.13
+    org.grails:grails-logging 3.2.13
+    org.grails:grails-plugin-async 3.2.13
+    org.grails:grails-plugin-codecs 3.2.13
+    org.grails:grails-plugin-controllers 3.2.13
+    org.grails:grails-plugin-converters 3.2.13
+    org.grails:grails-plugin-databinding 3.2.13
+    org.grails:grails-plugin-datasource 3.2.13
+    org.grails:grails-plugin-domain-class 3.2.13
+    org.grails:grails-plugin-events 3.2.13
+    org.grails:grails-plugin-gsp 3.2.13
+    org.grails:grails-plugin-i18n 3.2.13
+    org.grails:grails-plugin-interceptors 3.2.13
+    org.grails:grails-plugin-mimetypes 3.2.13
+    org.grails:grails-plugin-rest 3.2.13
+    org.grails:grails-plugin-services 3.2.13
+    org.grails:grails-plugin-testing 3.2.13
+    org.grails:grails-plugin-url-mappings 3.2.13
+    org.grails:grails-plugin-validation 3.2.13
+    org.grails:grails-shell 3.2.13
+    org.grails:grails-spring 3.2.13
+    org.grails:grails-taglib 3.2.13
+    org.grails:grails-test 3.2.13
+    org.grails:grails-test-suite-base 3.2.13
+    org.grails:grails-test-suite-persistence 3.2.13
+    org.grails:grails-test-suite-uber 3.2.13
+    org.grails:grails-test-suite-web 3.2.13
+    org.grails:grails-validation 3.2.13
+    org.grails:grails-web 3.2.13
+    org.grails:grails-web-boot 3.2.13
+    org.grails:grails-web-common 3.2.13
+    org.grails:grails-web-databinding 3.2.13
+    org.grails:grails-web-fileupload 3.2.13
+    org.grails:grails-web-gsp 3.2.13
+    org.grails:grails-web-gsp-taglib 3.2.13
+    org.grails:grails-web-jsp 3.2.13
+    org.grails:grails-web-mvc 3.2.13
+    org.grails:grails-web-sitemesh 3.2.13
+    org.grails:grails-web-taglib 3.2.13
+    org.grails:grails-web-url-mappings 3.2.13
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.5
     org.grails.plugins:geb 1.0.2
@@ -8591,26 +8619,26 @@ testCompile - Dependency management for the testCompile configuration
     org.slf4j:slf4j-simple 1.7.25
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.3.9.RELEASE
-    org.springframework:spring-aspects 4.3.9.RELEASE
-    org.springframework:spring-beans 4.3.9.RELEASE
-    org.springframework:spring-context 4.3.9.RELEASE
-    org.springframework:spring-context-support 4.3.9.RELEASE
-    org.springframework:spring-core 4.3.9.RELEASE
-    org.springframework:spring-expression 4.3.9.RELEASE
-    org.springframework:spring-instrument 4.3.9.RELEASE
+    org.springframework:spring-aop 4.3.16.RELEASE
+    org.springframework:spring-aspects 4.3.16.RELEASE
+    org.springframework:spring-beans 4.3.16.RELEASE
+    org.springframework:spring-context 4.3.16.RELEASE
+    org.springframework:spring-context-support 4.3.16.RELEASE
+    org.springframework:spring-core 4.3.16.RELEASE
+    org.springframework:spring-expression 4.3.16.RELEASE
+    org.springframework:spring-instrument 4.3.16.RELEASE
     org.springframework:spring-instrument-tomcat 4.3.8.RELEASE
-    org.springframework:spring-jdbc 4.3.9.RELEASE
-    org.springframework:spring-jms 4.3.9.RELEASE
-    org.springframework:spring-messaging 4.3.9.RELEASE
-    org.springframework:spring-orm 4.3.9.RELEASE
-    org.springframework:spring-oxm 4.3.9.RELEASE
-    org.springframework:spring-test 4.3.9.RELEASE
-    org.springframework:spring-tx 4.3.9.RELEASE
-    org.springframework:spring-web 4.3.9.RELEASE
-    org.springframework:spring-webmvc 4.3.9.RELEASE
+    org.springframework:spring-jdbc 4.3.16.RELEASE
+    org.springframework:spring-jms 4.3.16.RELEASE
+    org.springframework:spring-messaging 4.3.16.RELEASE
+    org.springframework:spring-orm 4.3.16.RELEASE
+    org.springframework:spring-oxm 4.3.16.RELEASE
+    org.springframework:spring-test 4.3.16.RELEASE
+    org.springframework:spring-tx 4.3.16.RELEASE
+    org.springframework:spring-web 4.3.16.RELEASE
+    org.springframework:spring-webmvc 4.3.16.RELEASE
     org.springframework:spring-webmvc-portlet 4.3.8.RELEASE
-    org.springframework:spring-websocket 4.3.9.RELEASE
+    org.springframework:spring-websocket 4.3.16.RELEASE
     org.springframework:springloaded 1.2.8.RELEASE
     org.springframework.amqp:spring-amqp 1.6.9.RELEASE
     org.springframework.amqp:spring-rabbit 1.6.9.RELEASE
@@ -8956,25 +8984,25 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
     org.aspectj:aspectjweaver 1.8.10
     org.assertj:assertj-core 2.5.0
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.4.11
+    org.codehaus.groovy:groovy 2.4.15
     org.codehaus.groovy:groovy-all 2.4.10
-    org.codehaus.groovy:groovy-ant 2.4.11
+    org.codehaus.groovy:groovy-ant 2.4.15
     org.codehaus.groovy:groovy-bsf 2.4.10
-    org.codehaus.groovy:groovy-console 2.4.11
+    org.codehaus.groovy:groovy-console 2.4.15
     org.codehaus.groovy:groovy-docgenerator 2.4.10
     org.codehaus.groovy:groovy-groovydoc 2.4.10
     org.codehaus.groovy:groovy-groovysh 2.4.10
     org.codehaus.groovy:groovy-jmx 2.4.10
-    org.codehaus.groovy:groovy-json 2.4.11
+    org.codehaus.groovy:groovy-json 2.4.15
     org.codehaus.groovy:groovy-jsr223 2.4.10
-    org.codehaus.groovy:groovy-nio 2.4.11
+    org.codehaus.groovy:groovy-nio 2.4.15
     org.codehaus.groovy:groovy-servlet 2.4.10
-    org.codehaus.groovy:groovy-sql 2.4.11
-    org.codehaus.groovy:groovy-swing 2.4.11
-    org.codehaus.groovy:groovy-templates 2.4.11
+    org.codehaus.groovy:groovy-sql 2.4.15
+    org.codehaus.groovy:groovy-swing 2.4.15
+    org.codehaus.groovy:groovy-templates 2.4.15
     org.codehaus.groovy:groovy-test 2.4.10
     org.codehaus.groovy:groovy-testng 2.4.10
-    org.codehaus.groovy:groovy-xml 2.4.11
+    org.codehaus.groovy:groovy-xml 2.4.15
     org.codehaus.janino:janino 2.7.8
     org.crashub:crash.cli 1.3.2
     org.crashub:crash.connectors.ssh 1.3.2
@@ -9020,12 +9048,12 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.12
-    org.grails:grails-bootstrap 3.2.12
-    org.grails:grails-codecs 3.2.12
-    org.grails:grails-console 3.2.12
-    org.grails:grails-core 3.2.12
-    org.grails:grails-databinding 3.2.12
+    org.grails:grails-async 3.2.13
+    org.grails:grails-bootstrap 3.2.13
+    org.grails:grails-codecs 3.2.13
+    org.grails:grails-console 3.2.13
+    org.grails:grails-core 3.2.13
+    org.grails:grails-databinding 3.2.13
     org.grails:grails-datastore-core 6.0.12.RELEASE
     org.grails:grails-datastore-gorm 6.0.12.RELEASE
     org.grails:grails-datastore-gorm-support 6.0.12.RELEASE
@@ -9036,51 +9064,51 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
     org.grails:grails-datastore-simple 6.0.12.RELEASE
     org.grails:grails-datastore-test-support 6.0.12.RELEASE
     org.grails:grails-datastore-web 6.0.12.RELEASE
-    org.grails:grails-dependencies 3.2.12
-    org.grails:grails-docs 3.2.12
-    org.grails:grails-encoder 3.2.12
-    org.grails:grails-gradle-model 3.2.12
-    org.grails:grails-gradle-plugin 3.2.12
-    org.grails:grails-gsp 3.2.12
-    org.grails:grails-logging 3.2.12
-    org.grails:grails-plugin-async 3.2.12
-    org.grails:grails-plugin-codecs 3.2.12
-    org.grails:grails-plugin-controllers 3.2.12
-    org.grails:grails-plugin-converters 3.2.12
-    org.grails:grails-plugin-databinding 3.2.12
-    org.grails:grails-plugin-datasource 3.2.12
-    org.grails:grails-plugin-domain-class 3.2.12
-    org.grails:grails-plugin-events 3.2.12
-    org.grails:grails-plugin-gsp 3.2.12
-    org.grails:grails-plugin-i18n 3.2.12
-    org.grails:grails-plugin-interceptors 3.2.12
-    org.grails:grails-plugin-mimetypes 3.2.12
-    org.grails:grails-plugin-rest 3.2.12
-    org.grails:grails-plugin-services 3.2.12
-    org.grails:grails-plugin-testing 3.2.12
-    org.grails:grails-plugin-url-mappings 3.2.12
-    org.grails:grails-plugin-validation 3.2.12
-    org.grails:grails-shell 3.2.12
-    org.grails:grails-spring 3.2.12
-    org.grails:grails-taglib 3.2.12
-    org.grails:grails-test 3.2.12
-    org.grails:grails-test-suite-base 3.2.12
-    org.grails:grails-test-suite-persistence 3.2.12
-    org.grails:grails-test-suite-uber 3.2.12
-    org.grails:grails-test-suite-web 3.2.12
-    org.grails:grails-validation 3.2.12
-    org.grails:grails-web 3.2.12
-    org.grails:grails-web-boot 3.2.12
-    org.grails:grails-web-common 3.2.12
-    org.grails:grails-web-databinding 3.2.12
-    org.grails:grails-web-fileupload 3.2.12
-    org.grails:grails-web-gsp 3.2.12
-    org.grails:grails-web-gsp-taglib 3.2.12
-    org.grails:grails-web-jsp 3.2.12
-    org.grails:grails-web-mvc 3.2.12
-    org.grails:grails-web-sitemesh 3.2.12
-    org.grails:grails-web-taglib 3.2.12
-    org.grails:grails-web-url-mappings 3.2.12
+    org.grails:grails-dependencies 3.2.13
+    org.grails:grails-docs 3.2.13
+    org.grails:grails-encoder 3.2.13
+    org.grails:grails-gradle-model 3.2.13
+    org.grails:grails-gradle-plugin 3.2.13
+    org.grails:grails-gsp 3.2.13
+    org.grails:grails-logging 3.2.13
+    org.grails:grails-plugin-async 3.2.13
+    org.grails:grails-plugin-codecs 3.2.13
+    org.grails:grails-plugin-controllers 3.2.13
+    org.grails:grails-plugin-converters 3.2.13
+    org.grails:grails-plugin-databinding 3.2.13
+    org.grails:grails-plugin-datasource 3.2.13
+    org.grails:grails-plugin-domain-class 3.2.13
+    org.grails:grails-plugin-events 3.2.13
+    org.grails:grails-plugin-gsp 3.2.13
+    org.grails:grails-plugin-i18n 3.2.13
+    org.grails:grails-plugin-interceptors 3.2.13
+    org.grails:grails-plugin-mimetypes 3.2.13
+    org.grails:grails-plugin-rest 3.2.13
+    org.grails:grails-plugin-services 3.2.13
+    org.grails:grails-plugin-testing 3.2.13
+    org.grails:grails-plugin-url-mappings 3.2.13
+    org.grails:grails-plugin-validation 3.2.13
+    org.grails:grails-shell 3.2.13
+    org.grails:grails-spring 3.2.13
+    org.grails:grails-taglib 3.2.13
+    org.grails:grails-test 3.2.13
+    org.grails:grails-test-suite-base 3.2.13
+    org.grails:grails-test-suite-persistence 3.2.13
+    org.grails:grails-test-suite-uber 3.2.13
+    org.grails:grails-test-suite-web 3.2.13
+    org.grails:grails-validation 3.2.13
+    org.grails:grails-web 3.2.13
+    org.grails:grails-web-boot 3.2.13
+    org.grails:grails-web-common 3.2.13
+    org.grails:grails-web-databinding 3.2.13
+    org.grails:grails-web-fileupload 3.2.13
+    org.grails:grails-web-gsp 3.2.13
+    org.grails:grails-web-gsp-taglib 3.2.13
+    org.grails:grails-web-jsp 3.2.13
+    org.grails:grails-web-mvc 3.2.13
+    org.grails:grails-web-sitemesh 3.2.13
+    org.grails:grails-web-taglib 3.2.13
+    org.grails:grails-web-url-mappings 3.2.13
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.5
     org.grails.plugins:geb 1.0.2
@@ -9168,26 +9196,26 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
     org.slf4j:slf4j-simple 1.7.25
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.3.9.RELEASE
-    org.springframework:spring-aspects 4.3.9.RELEASE
-    org.springframework:spring-beans 4.3.9.RELEASE
-    org.springframework:spring-context 4.3.9.RELEASE
-    org.springframework:spring-context-support 4.3.9.RELEASE
-    org.springframework:spring-core 4.3.9.RELEASE
-    org.springframework:spring-expression 4.3.9.RELEASE
-    org.springframework:spring-instrument 4.3.9.RELEASE
+    org.springframework:spring-aop 4.3.16.RELEASE
+    org.springframework:spring-aspects 4.3.16.RELEASE
+    org.springframework:spring-beans 4.3.16.RELEASE
+    org.springframework:spring-context 4.3.16.RELEASE
+    org.springframework:spring-context-support 4.3.16.RELEASE
+    org.springframework:spring-core 4.3.16.RELEASE
+    org.springframework:spring-expression 4.3.16.RELEASE
+    org.springframework:spring-instrument 4.3.16.RELEASE
     org.springframework:spring-instrument-tomcat 4.3.8.RELEASE
-    org.springframework:spring-jdbc 4.3.9.RELEASE
-    org.springframework:spring-jms 4.3.9.RELEASE
-    org.springframework:spring-messaging 4.3.9.RELEASE
-    org.springframework:spring-orm 4.3.9.RELEASE
-    org.springframework:spring-oxm 4.3.9.RELEASE
-    org.springframework:spring-test 4.3.9.RELEASE
-    org.springframework:spring-tx 4.3.9.RELEASE
-    org.springframework:spring-web 4.3.9.RELEASE
-    org.springframework:spring-webmvc 4.3.9.RELEASE
+    org.springframework:spring-jdbc 4.3.16.RELEASE
+    org.springframework:spring-jms 4.3.16.RELEASE
+    org.springframework:spring-messaging 4.3.16.RELEASE
+    org.springframework:spring-orm 4.3.16.RELEASE
+    org.springframework:spring-oxm 4.3.16.RELEASE
+    org.springframework:spring-test 4.3.16.RELEASE
+    org.springframework:spring-tx 4.3.16.RELEASE
+    org.springframework:spring-web 4.3.16.RELEASE
+    org.springframework:spring-webmvc 4.3.16.RELEASE
     org.springframework:spring-webmvc-portlet 4.3.8.RELEASE
-    org.springframework:spring-websocket 4.3.9.RELEASE
+    org.springframework:spring-websocket 4.3.16.RELEASE
     org.springframework:springloaded 1.2.8.RELEASE
     org.springframework.amqp:spring-amqp 1.6.9.RELEASE
     org.springframework.amqp:spring-rabbit 1.6.9.RELEASE
@@ -9536,25 +9564,25 @@ testImplementation - Dependency management for the testImplementation configurat
     org.aspectj:aspectjweaver 1.8.10
     org.assertj:assertj-core 2.5.0
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.4.11
+    org.codehaus.groovy:groovy 2.4.15
     org.codehaus.groovy:groovy-all 2.4.10
-    org.codehaus.groovy:groovy-ant 2.4.11
+    org.codehaus.groovy:groovy-ant 2.4.15
     org.codehaus.groovy:groovy-bsf 2.4.10
-    org.codehaus.groovy:groovy-console 2.4.11
+    org.codehaus.groovy:groovy-console 2.4.15
     org.codehaus.groovy:groovy-docgenerator 2.4.10
     org.codehaus.groovy:groovy-groovydoc 2.4.10
     org.codehaus.groovy:groovy-groovysh 2.4.10
     org.codehaus.groovy:groovy-jmx 2.4.10
-    org.codehaus.groovy:groovy-json 2.4.11
+    org.codehaus.groovy:groovy-json 2.4.15
     org.codehaus.groovy:groovy-jsr223 2.4.10
-    org.codehaus.groovy:groovy-nio 2.4.11
+    org.codehaus.groovy:groovy-nio 2.4.15
     org.codehaus.groovy:groovy-servlet 2.4.10
-    org.codehaus.groovy:groovy-sql 2.4.11
-    org.codehaus.groovy:groovy-swing 2.4.11
-    org.codehaus.groovy:groovy-templates 2.4.11
+    org.codehaus.groovy:groovy-sql 2.4.15
+    org.codehaus.groovy:groovy-swing 2.4.15
+    org.codehaus.groovy:groovy-templates 2.4.15
     org.codehaus.groovy:groovy-test 2.4.10
     org.codehaus.groovy:groovy-testng 2.4.10
-    org.codehaus.groovy:groovy-xml 2.4.11
+    org.codehaus.groovy:groovy-xml 2.4.15
     org.codehaus.janino:janino 2.7.8
     org.crashub:crash.cli 1.3.2
     org.crashub:crash.connectors.ssh 1.3.2
@@ -9600,12 +9628,12 @@ testImplementation - Dependency management for the testImplementation configurat
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.12
-    org.grails:grails-bootstrap 3.2.12
-    org.grails:grails-codecs 3.2.12
-    org.grails:grails-console 3.2.12
-    org.grails:grails-core 3.2.12
-    org.grails:grails-databinding 3.2.12
+    org.grails:grails-async 3.2.13
+    org.grails:grails-bootstrap 3.2.13
+    org.grails:grails-codecs 3.2.13
+    org.grails:grails-console 3.2.13
+    org.grails:grails-core 3.2.13
+    org.grails:grails-databinding 3.2.13
     org.grails:grails-datastore-core 6.0.12.RELEASE
     org.grails:grails-datastore-gorm 6.0.12.RELEASE
     org.grails:grails-datastore-gorm-support 6.0.12.RELEASE
@@ -9616,51 +9644,51 @@ testImplementation - Dependency management for the testImplementation configurat
     org.grails:grails-datastore-simple 6.0.12.RELEASE
     org.grails:grails-datastore-test-support 6.0.12.RELEASE
     org.grails:grails-datastore-web 6.0.12.RELEASE
-    org.grails:grails-dependencies 3.2.12
-    org.grails:grails-docs 3.2.12
-    org.grails:grails-encoder 3.2.12
-    org.grails:grails-gradle-model 3.2.12
-    org.grails:grails-gradle-plugin 3.2.12
-    org.grails:grails-gsp 3.2.12
-    org.grails:grails-logging 3.2.12
-    org.grails:grails-plugin-async 3.2.12
-    org.grails:grails-plugin-codecs 3.2.12
-    org.grails:grails-plugin-controllers 3.2.12
-    org.grails:grails-plugin-converters 3.2.12
-    org.grails:grails-plugin-databinding 3.2.12
-    org.grails:grails-plugin-datasource 3.2.12
-    org.grails:grails-plugin-domain-class 3.2.12
-    org.grails:grails-plugin-events 3.2.12
-    org.grails:grails-plugin-gsp 3.2.12
-    org.grails:grails-plugin-i18n 3.2.12
-    org.grails:grails-plugin-interceptors 3.2.12
-    org.grails:grails-plugin-mimetypes 3.2.12
-    org.grails:grails-plugin-rest 3.2.12
-    org.grails:grails-plugin-services 3.2.12
-    org.grails:grails-plugin-testing 3.2.12
-    org.grails:grails-plugin-url-mappings 3.2.12
-    org.grails:grails-plugin-validation 3.2.12
-    org.grails:grails-shell 3.2.12
-    org.grails:grails-spring 3.2.12
-    org.grails:grails-taglib 3.2.12
-    org.grails:grails-test 3.2.12
-    org.grails:grails-test-suite-base 3.2.12
-    org.grails:grails-test-suite-persistence 3.2.12
-    org.grails:grails-test-suite-uber 3.2.12
-    org.grails:grails-test-suite-web 3.2.12
-    org.grails:grails-validation 3.2.12
-    org.grails:grails-web 3.2.12
-    org.grails:grails-web-boot 3.2.12
-    org.grails:grails-web-common 3.2.12
-    org.grails:grails-web-databinding 3.2.12
-    org.grails:grails-web-fileupload 3.2.12
-    org.grails:grails-web-gsp 3.2.12
-    org.grails:grails-web-gsp-taglib 3.2.12
-    org.grails:grails-web-jsp 3.2.12
-    org.grails:grails-web-mvc 3.2.12
-    org.grails:grails-web-sitemesh 3.2.12
-    org.grails:grails-web-taglib 3.2.12
-    org.grails:grails-web-url-mappings 3.2.12
+    org.grails:grails-dependencies 3.2.13
+    org.grails:grails-docs 3.2.13
+    org.grails:grails-encoder 3.2.13
+    org.grails:grails-gradle-model 3.2.13
+    org.grails:grails-gradle-plugin 3.2.13
+    org.grails:grails-gsp 3.2.13
+    org.grails:grails-logging 3.2.13
+    org.grails:grails-plugin-async 3.2.13
+    org.grails:grails-plugin-codecs 3.2.13
+    org.grails:grails-plugin-controllers 3.2.13
+    org.grails:grails-plugin-converters 3.2.13
+    org.grails:grails-plugin-databinding 3.2.13
+    org.grails:grails-plugin-datasource 3.2.13
+    org.grails:grails-plugin-domain-class 3.2.13
+    org.grails:grails-plugin-events 3.2.13
+    org.grails:grails-plugin-gsp 3.2.13
+    org.grails:grails-plugin-i18n 3.2.13
+    org.grails:grails-plugin-interceptors 3.2.13
+    org.grails:grails-plugin-mimetypes 3.2.13
+    org.grails:grails-plugin-rest 3.2.13
+    org.grails:grails-plugin-services 3.2.13
+    org.grails:grails-plugin-testing 3.2.13
+    org.grails:grails-plugin-url-mappings 3.2.13
+    org.grails:grails-plugin-validation 3.2.13
+    org.grails:grails-shell 3.2.13
+    org.grails:grails-spring 3.2.13
+    org.grails:grails-taglib 3.2.13
+    org.grails:grails-test 3.2.13
+    org.grails:grails-test-suite-base 3.2.13
+    org.grails:grails-test-suite-persistence 3.2.13
+    org.grails:grails-test-suite-uber 3.2.13
+    org.grails:grails-test-suite-web 3.2.13
+    org.grails:grails-validation 3.2.13
+    org.grails:grails-web 3.2.13
+    org.grails:grails-web-boot 3.2.13
+    org.grails:grails-web-common 3.2.13
+    org.grails:grails-web-databinding 3.2.13
+    org.grails:grails-web-fileupload 3.2.13
+    org.grails:grails-web-gsp 3.2.13
+    org.grails:grails-web-gsp-taglib 3.2.13
+    org.grails:grails-web-jsp 3.2.13
+    org.grails:grails-web-mvc 3.2.13
+    org.grails:grails-web-sitemesh 3.2.13
+    org.grails:grails-web-taglib 3.2.13
+    org.grails:grails-web-url-mappings 3.2.13
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.5
     org.grails.plugins:geb 1.0.2
@@ -9748,26 +9776,26 @@ testImplementation - Dependency management for the testImplementation configurat
     org.slf4j:slf4j-simple 1.7.25
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.3.9.RELEASE
-    org.springframework:spring-aspects 4.3.9.RELEASE
-    org.springframework:spring-beans 4.3.9.RELEASE
-    org.springframework:spring-context 4.3.9.RELEASE
-    org.springframework:spring-context-support 4.3.9.RELEASE
-    org.springframework:spring-core 4.3.9.RELEASE
-    org.springframework:spring-expression 4.3.9.RELEASE
-    org.springframework:spring-instrument 4.3.9.RELEASE
+    org.springframework:spring-aop 4.3.16.RELEASE
+    org.springframework:spring-aspects 4.3.16.RELEASE
+    org.springframework:spring-beans 4.3.16.RELEASE
+    org.springframework:spring-context 4.3.16.RELEASE
+    org.springframework:spring-context-support 4.3.16.RELEASE
+    org.springframework:spring-core 4.3.16.RELEASE
+    org.springframework:spring-expression 4.3.16.RELEASE
+    org.springframework:spring-instrument 4.3.16.RELEASE
     org.springframework:spring-instrument-tomcat 4.3.8.RELEASE
-    org.springframework:spring-jdbc 4.3.9.RELEASE
-    org.springframework:spring-jms 4.3.9.RELEASE
-    org.springframework:spring-messaging 4.3.9.RELEASE
-    org.springframework:spring-orm 4.3.9.RELEASE
-    org.springframework:spring-oxm 4.3.9.RELEASE
-    org.springframework:spring-test 4.3.9.RELEASE
-    org.springframework:spring-tx 4.3.9.RELEASE
-    org.springframework:spring-web 4.3.9.RELEASE
-    org.springframework:spring-webmvc 4.3.9.RELEASE
+    org.springframework:spring-jdbc 4.3.16.RELEASE
+    org.springframework:spring-jms 4.3.16.RELEASE
+    org.springframework:spring-messaging 4.3.16.RELEASE
+    org.springframework:spring-orm 4.3.16.RELEASE
+    org.springframework:spring-oxm 4.3.16.RELEASE
+    org.springframework:spring-test 4.3.16.RELEASE
+    org.springframework:spring-tx 4.3.16.RELEASE
+    org.springframework:spring-web 4.3.16.RELEASE
+    org.springframework:spring-webmvc 4.3.16.RELEASE
     org.springframework:spring-webmvc-portlet 4.3.8.RELEASE
-    org.springframework:spring-websocket 4.3.9.RELEASE
+    org.springframework:spring-websocket 4.3.16.RELEASE
     org.springframework:springloaded 1.2.8.RELEASE
     org.springframework.amqp:spring-amqp 1.6.9.RELEASE
     org.springframework.amqp:spring-rabbit 1.6.9.RELEASE
@@ -10114,25 +10142,25 @@ testRuntime - Dependency management for the testRuntime configuration
     org.aspectj:aspectjweaver 1.8.10
     org.assertj:assertj-core 2.5.0
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.4.11
+    org.codehaus.groovy:groovy 2.4.15
     org.codehaus.groovy:groovy-all 2.4.10
-    org.codehaus.groovy:groovy-ant 2.4.11
+    org.codehaus.groovy:groovy-ant 2.4.15
     org.codehaus.groovy:groovy-bsf 2.4.10
-    org.codehaus.groovy:groovy-console 2.4.11
+    org.codehaus.groovy:groovy-console 2.4.15
     org.codehaus.groovy:groovy-docgenerator 2.4.10
     org.codehaus.groovy:groovy-groovydoc 2.4.10
     org.codehaus.groovy:groovy-groovysh 2.4.10
     org.codehaus.groovy:groovy-jmx 2.4.10
-    org.codehaus.groovy:groovy-json 2.4.11
+    org.codehaus.groovy:groovy-json 2.4.15
     org.codehaus.groovy:groovy-jsr223 2.4.10
-    org.codehaus.groovy:groovy-nio 2.4.11
+    org.codehaus.groovy:groovy-nio 2.4.15
     org.codehaus.groovy:groovy-servlet 2.4.10
-    org.codehaus.groovy:groovy-sql 2.4.11
-    org.codehaus.groovy:groovy-swing 2.4.11
-    org.codehaus.groovy:groovy-templates 2.4.11
+    org.codehaus.groovy:groovy-sql 2.4.15
+    org.codehaus.groovy:groovy-swing 2.4.15
+    org.codehaus.groovy:groovy-templates 2.4.15
     org.codehaus.groovy:groovy-test 2.4.10
     org.codehaus.groovy:groovy-testng 2.4.10
-    org.codehaus.groovy:groovy-xml 2.4.11
+    org.codehaus.groovy:groovy-xml 2.4.15
     org.codehaus.janino:janino 2.7.8
     org.crashub:crash.cli 1.3.2
     org.crashub:crash.connectors.ssh 1.3.2
@@ -10178,12 +10206,12 @@ testRuntime - Dependency management for the testRuntime configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.12
-    org.grails:grails-bootstrap 3.2.12
-    org.grails:grails-codecs 3.2.12
-    org.grails:grails-console 3.2.12
-    org.grails:grails-core 3.2.12
-    org.grails:grails-databinding 3.2.12
+    org.grails:grails-async 3.2.13
+    org.grails:grails-bootstrap 3.2.13
+    org.grails:grails-codecs 3.2.13
+    org.grails:grails-console 3.2.13
+    org.grails:grails-core 3.2.13
+    org.grails:grails-databinding 3.2.13
     org.grails:grails-datastore-core 6.0.12.RELEASE
     org.grails:grails-datastore-gorm 6.0.12.RELEASE
     org.grails:grails-datastore-gorm-support 6.0.12.RELEASE
@@ -10194,51 +10222,51 @@ testRuntime - Dependency management for the testRuntime configuration
     org.grails:grails-datastore-simple 6.0.12.RELEASE
     org.grails:grails-datastore-test-support 6.0.12.RELEASE
     org.grails:grails-datastore-web 6.0.12.RELEASE
-    org.grails:grails-dependencies 3.2.12
-    org.grails:grails-docs 3.2.12
-    org.grails:grails-encoder 3.2.12
-    org.grails:grails-gradle-model 3.2.12
-    org.grails:grails-gradle-plugin 3.2.12
-    org.grails:grails-gsp 3.2.12
-    org.grails:grails-logging 3.2.12
-    org.grails:grails-plugin-async 3.2.12
-    org.grails:grails-plugin-codecs 3.2.12
-    org.grails:grails-plugin-controllers 3.2.12
-    org.grails:grails-plugin-converters 3.2.12
-    org.grails:grails-plugin-databinding 3.2.12
-    org.grails:grails-plugin-datasource 3.2.12
-    org.grails:grails-plugin-domain-class 3.2.12
-    org.grails:grails-plugin-events 3.2.12
-    org.grails:grails-plugin-gsp 3.2.12
-    org.grails:grails-plugin-i18n 3.2.12
-    org.grails:grails-plugin-interceptors 3.2.12
-    org.grails:grails-plugin-mimetypes 3.2.12
-    org.grails:grails-plugin-rest 3.2.12
-    org.grails:grails-plugin-services 3.2.12
-    org.grails:grails-plugin-testing 3.2.12
-    org.grails:grails-plugin-url-mappings 3.2.12
-    org.grails:grails-plugin-validation 3.2.12
-    org.grails:grails-shell 3.2.12
-    org.grails:grails-spring 3.2.12
-    org.grails:grails-taglib 3.2.12
-    org.grails:grails-test 3.2.12
-    org.grails:grails-test-suite-base 3.2.12
-    org.grails:grails-test-suite-persistence 3.2.12
-    org.grails:grails-test-suite-uber 3.2.12
-    org.grails:grails-test-suite-web 3.2.12
-    org.grails:grails-validation 3.2.12
-    org.grails:grails-web 3.2.12
-    org.grails:grails-web-boot 3.2.12
-    org.grails:grails-web-common 3.2.12
-    org.grails:grails-web-databinding 3.2.12
-    org.grails:grails-web-fileupload 3.2.12
-    org.grails:grails-web-gsp 3.2.12
-    org.grails:grails-web-gsp-taglib 3.2.12
-    org.grails:grails-web-jsp 3.2.12
-    org.grails:grails-web-mvc 3.2.12
-    org.grails:grails-web-sitemesh 3.2.12
-    org.grails:grails-web-taglib 3.2.12
-    org.grails:grails-web-url-mappings 3.2.12
+    org.grails:grails-dependencies 3.2.13
+    org.grails:grails-docs 3.2.13
+    org.grails:grails-encoder 3.2.13
+    org.grails:grails-gradle-model 3.2.13
+    org.grails:grails-gradle-plugin 3.2.13
+    org.grails:grails-gsp 3.2.13
+    org.grails:grails-logging 3.2.13
+    org.grails:grails-plugin-async 3.2.13
+    org.grails:grails-plugin-codecs 3.2.13
+    org.grails:grails-plugin-controllers 3.2.13
+    org.grails:grails-plugin-converters 3.2.13
+    org.grails:grails-plugin-databinding 3.2.13
+    org.grails:grails-plugin-datasource 3.2.13
+    org.grails:grails-plugin-domain-class 3.2.13
+    org.grails:grails-plugin-events 3.2.13
+    org.grails:grails-plugin-gsp 3.2.13
+    org.grails:grails-plugin-i18n 3.2.13
+    org.grails:grails-plugin-interceptors 3.2.13
+    org.grails:grails-plugin-mimetypes 3.2.13
+    org.grails:grails-plugin-rest 3.2.13
+    org.grails:grails-plugin-services 3.2.13
+    org.grails:grails-plugin-testing 3.2.13
+    org.grails:grails-plugin-url-mappings 3.2.13
+    org.grails:grails-plugin-validation 3.2.13
+    org.grails:grails-shell 3.2.13
+    org.grails:grails-spring 3.2.13
+    org.grails:grails-taglib 3.2.13
+    org.grails:grails-test 3.2.13
+    org.grails:grails-test-suite-base 3.2.13
+    org.grails:grails-test-suite-persistence 3.2.13
+    org.grails:grails-test-suite-uber 3.2.13
+    org.grails:grails-test-suite-web 3.2.13
+    org.grails:grails-validation 3.2.13
+    org.grails:grails-web 3.2.13
+    org.grails:grails-web-boot 3.2.13
+    org.grails:grails-web-common 3.2.13
+    org.grails:grails-web-databinding 3.2.13
+    org.grails:grails-web-fileupload 3.2.13
+    org.grails:grails-web-gsp 3.2.13
+    org.grails:grails-web-gsp-taglib 3.2.13
+    org.grails:grails-web-jsp 3.2.13
+    org.grails:grails-web-mvc 3.2.13
+    org.grails:grails-web-sitemesh 3.2.13
+    org.grails:grails-web-taglib 3.2.13
+    org.grails:grails-web-url-mappings 3.2.13
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.5
     org.grails.plugins:geb 1.0.2
@@ -10326,26 +10354,26 @@ testRuntime - Dependency management for the testRuntime configuration
     org.slf4j:slf4j-simple 1.7.25
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.3.9.RELEASE
-    org.springframework:spring-aspects 4.3.9.RELEASE
-    org.springframework:spring-beans 4.3.9.RELEASE
-    org.springframework:spring-context 4.3.9.RELEASE
-    org.springframework:spring-context-support 4.3.9.RELEASE
-    org.springframework:spring-core 4.3.9.RELEASE
-    org.springframework:spring-expression 4.3.9.RELEASE
-    org.springframework:spring-instrument 4.3.9.RELEASE
+    org.springframework:spring-aop 4.3.16.RELEASE
+    org.springframework:spring-aspects 4.3.16.RELEASE
+    org.springframework:spring-beans 4.3.16.RELEASE
+    org.springframework:spring-context 4.3.16.RELEASE
+    org.springframework:spring-context-support 4.3.16.RELEASE
+    org.springframework:spring-core 4.3.16.RELEASE
+    org.springframework:spring-expression 4.3.16.RELEASE
+    org.springframework:spring-instrument 4.3.16.RELEASE
     org.springframework:spring-instrument-tomcat 4.3.8.RELEASE
-    org.springframework:spring-jdbc 4.3.9.RELEASE
-    org.springframework:spring-jms 4.3.9.RELEASE
-    org.springframework:spring-messaging 4.3.9.RELEASE
-    org.springframework:spring-orm 4.3.9.RELEASE
-    org.springframework:spring-oxm 4.3.9.RELEASE
-    org.springframework:spring-test 4.3.9.RELEASE
-    org.springframework:spring-tx 4.3.9.RELEASE
-    org.springframework:spring-web 4.3.9.RELEASE
-    org.springframework:spring-webmvc 4.3.9.RELEASE
+    org.springframework:spring-jdbc 4.3.16.RELEASE
+    org.springframework:spring-jms 4.3.16.RELEASE
+    org.springframework:spring-messaging 4.3.16.RELEASE
+    org.springframework:spring-orm 4.3.16.RELEASE
+    org.springframework:spring-oxm 4.3.16.RELEASE
+    org.springframework:spring-test 4.3.16.RELEASE
+    org.springframework:spring-tx 4.3.16.RELEASE
+    org.springframework:spring-web 4.3.16.RELEASE
+    org.springframework:spring-webmvc 4.3.16.RELEASE
     org.springframework:spring-webmvc-portlet 4.3.8.RELEASE
-    org.springframework:spring-websocket 4.3.9.RELEASE
+    org.springframework:spring-websocket 4.3.16.RELEASE
     org.springframework:springloaded 1.2.8.RELEASE
     org.springframework.amqp:spring-amqp 1.6.9.RELEASE
     org.springframework.amqp:spring-rabbit 1.6.9.RELEASE
@@ -10692,25 +10720,25 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
     org.aspectj:aspectjweaver 1.8.10
     org.assertj:assertj-core 2.5.0
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.4.11
+    org.codehaus.groovy:groovy 2.4.15
     org.codehaus.groovy:groovy-all 2.4.10
-    org.codehaus.groovy:groovy-ant 2.4.11
+    org.codehaus.groovy:groovy-ant 2.4.15
     org.codehaus.groovy:groovy-bsf 2.4.10
-    org.codehaus.groovy:groovy-console 2.4.11
+    org.codehaus.groovy:groovy-console 2.4.15
     org.codehaus.groovy:groovy-docgenerator 2.4.10
     org.codehaus.groovy:groovy-groovydoc 2.4.10
     org.codehaus.groovy:groovy-groovysh 2.4.10
     org.codehaus.groovy:groovy-jmx 2.4.10
-    org.codehaus.groovy:groovy-json 2.4.11
+    org.codehaus.groovy:groovy-json 2.4.15
     org.codehaus.groovy:groovy-jsr223 2.4.10
-    org.codehaus.groovy:groovy-nio 2.4.11
+    org.codehaus.groovy:groovy-nio 2.4.15
     org.codehaus.groovy:groovy-servlet 2.4.10
-    org.codehaus.groovy:groovy-sql 2.4.11
-    org.codehaus.groovy:groovy-swing 2.4.11
-    org.codehaus.groovy:groovy-templates 2.4.11
+    org.codehaus.groovy:groovy-sql 2.4.15
+    org.codehaus.groovy:groovy-swing 2.4.15
+    org.codehaus.groovy:groovy-templates 2.4.15
     org.codehaus.groovy:groovy-test 2.4.10
     org.codehaus.groovy:groovy-testng 2.4.10
-    org.codehaus.groovy:groovy-xml 2.4.11
+    org.codehaus.groovy:groovy-xml 2.4.15
     org.codehaus.janino:janino 2.7.8
     org.crashub:crash.cli 1.3.2
     org.crashub:crash.connectors.ssh 1.3.2
@@ -10756,12 +10784,12 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.12
-    org.grails:grails-bootstrap 3.2.12
-    org.grails:grails-codecs 3.2.12
-    org.grails:grails-console 3.2.12
-    org.grails:grails-core 3.2.12
-    org.grails:grails-databinding 3.2.12
+    org.grails:grails-async 3.2.13
+    org.grails:grails-bootstrap 3.2.13
+    org.grails:grails-codecs 3.2.13
+    org.grails:grails-console 3.2.13
+    org.grails:grails-core 3.2.13
+    org.grails:grails-databinding 3.2.13
     org.grails:grails-datastore-core 6.0.12.RELEASE
     org.grails:grails-datastore-gorm 6.0.12.RELEASE
     org.grails:grails-datastore-gorm-support 6.0.12.RELEASE
@@ -10772,51 +10800,51 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
     org.grails:grails-datastore-simple 6.0.12.RELEASE
     org.grails:grails-datastore-test-support 6.0.12.RELEASE
     org.grails:grails-datastore-web 6.0.12.RELEASE
-    org.grails:grails-dependencies 3.2.12
-    org.grails:grails-docs 3.2.12
-    org.grails:grails-encoder 3.2.12
-    org.grails:grails-gradle-model 3.2.12
-    org.grails:grails-gradle-plugin 3.2.12
-    org.grails:grails-gsp 3.2.12
-    org.grails:grails-logging 3.2.12
-    org.grails:grails-plugin-async 3.2.12
-    org.grails:grails-plugin-codecs 3.2.12
-    org.grails:grails-plugin-controllers 3.2.12
-    org.grails:grails-plugin-converters 3.2.12
-    org.grails:grails-plugin-databinding 3.2.12
-    org.grails:grails-plugin-datasource 3.2.12
-    org.grails:grails-plugin-domain-class 3.2.12
-    org.grails:grails-plugin-events 3.2.12
-    org.grails:grails-plugin-gsp 3.2.12
-    org.grails:grails-plugin-i18n 3.2.12
-    org.grails:grails-plugin-interceptors 3.2.12
-    org.grails:grails-plugin-mimetypes 3.2.12
-    org.grails:grails-plugin-rest 3.2.12
-    org.grails:grails-plugin-services 3.2.12
-    org.grails:grails-plugin-testing 3.2.12
-    org.grails:grails-plugin-url-mappings 3.2.12
-    org.grails:grails-plugin-validation 3.2.12
-    org.grails:grails-shell 3.2.12
-    org.grails:grails-spring 3.2.12
-    org.grails:grails-taglib 3.2.12
-    org.grails:grails-test 3.2.12
-    org.grails:grails-test-suite-base 3.2.12
-    org.grails:grails-test-suite-persistence 3.2.12
-    org.grails:grails-test-suite-uber 3.2.12
-    org.grails:grails-test-suite-web 3.2.12
-    org.grails:grails-validation 3.2.12
-    org.grails:grails-web 3.2.12
-    org.grails:grails-web-boot 3.2.12
-    org.grails:grails-web-common 3.2.12
-    org.grails:grails-web-databinding 3.2.12
-    org.grails:grails-web-fileupload 3.2.12
-    org.grails:grails-web-gsp 3.2.12
-    org.grails:grails-web-gsp-taglib 3.2.12
-    org.grails:grails-web-jsp 3.2.12
-    org.grails:grails-web-mvc 3.2.12
-    org.grails:grails-web-sitemesh 3.2.12
-    org.grails:grails-web-taglib 3.2.12
-    org.grails:grails-web-url-mappings 3.2.12
+    org.grails:grails-dependencies 3.2.13
+    org.grails:grails-docs 3.2.13
+    org.grails:grails-encoder 3.2.13
+    org.grails:grails-gradle-model 3.2.13
+    org.grails:grails-gradle-plugin 3.2.13
+    org.grails:grails-gsp 3.2.13
+    org.grails:grails-logging 3.2.13
+    org.grails:grails-plugin-async 3.2.13
+    org.grails:grails-plugin-codecs 3.2.13
+    org.grails:grails-plugin-controllers 3.2.13
+    org.grails:grails-plugin-converters 3.2.13
+    org.grails:grails-plugin-databinding 3.2.13
+    org.grails:grails-plugin-datasource 3.2.13
+    org.grails:grails-plugin-domain-class 3.2.13
+    org.grails:grails-plugin-events 3.2.13
+    org.grails:grails-plugin-gsp 3.2.13
+    org.grails:grails-plugin-i18n 3.2.13
+    org.grails:grails-plugin-interceptors 3.2.13
+    org.grails:grails-plugin-mimetypes 3.2.13
+    org.grails:grails-plugin-rest 3.2.13
+    org.grails:grails-plugin-services 3.2.13
+    org.grails:grails-plugin-testing 3.2.13
+    org.grails:grails-plugin-url-mappings 3.2.13
+    org.grails:grails-plugin-validation 3.2.13
+    org.grails:grails-shell 3.2.13
+    org.grails:grails-spring 3.2.13
+    org.grails:grails-taglib 3.2.13
+    org.grails:grails-test 3.2.13
+    org.grails:grails-test-suite-base 3.2.13
+    org.grails:grails-test-suite-persistence 3.2.13
+    org.grails:grails-test-suite-uber 3.2.13
+    org.grails:grails-test-suite-web 3.2.13
+    org.grails:grails-validation 3.2.13
+    org.grails:grails-web 3.2.13
+    org.grails:grails-web-boot 3.2.13
+    org.grails:grails-web-common 3.2.13
+    org.grails:grails-web-databinding 3.2.13
+    org.grails:grails-web-fileupload 3.2.13
+    org.grails:grails-web-gsp 3.2.13
+    org.grails:grails-web-gsp-taglib 3.2.13
+    org.grails:grails-web-jsp 3.2.13
+    org.grails:grails-web-mvc 3.2.13
+    org.grails:grails-web-sitemesh 3.2.13
+    org.grails:grails-web-taglib 3.2.13
+    org.grails:grails-web-url-mappings 3.2.13
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.5
     org.grails.plugins:geb 1.0.2
@@ -10904,26 +10932,26 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
     org.slf4j:slf4j-simple 1.7.25
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.3.9.RELEASE
-    org.springframework:spring-aspects 4.3.9.RELEASE
-    org.springframework:spring-beans 4.3.9.RELEASE
-    org.springframework:spring-context 4.3.9.RELEASE
-    org.springframework:spring-context-support 4.3.9.RELEASE
-    org.springframework:spring-core 4.3.9.RELEASE
-    org.springframework:spring-expression 4.3.9.RELEASE
-    org.springframework:spring-instrument 4.3.9.RELEASE
+    org.springframework:spring-aop 4.3.16.RELEASE
+    org.springframework:spring-aspects 4.3.16.RELEASE
+    org.springframework:spring-beans 4.3.16.RELEASE
+    org.springframework:spring-context 4.3.16.RELEASE
+    org.springframework:spring-context-support 4.3.16.RELEASE
+    org.springframework:spring-core 4.3.16.RELEASE
+    org.springframework:spring-expression 4.3.16.RELEASE
+    org.springframework:spring-instrument 4.3.16.RELEASE
     org.springframework:spring-instrument-tomcat 4.3.8.RELEASE
-    org.springframework:spring-jdbc 4.3.9.RELEASE
-    org.springframework:spring-jms 4.3.9.RELEASE
-    org.springframework:spring-messaging 4.3.9.RELEASE
-    org.springframework:spring-orm 4.3.9.RELEASE
-    org.springframework:spring-oxm 4.3.9.RELEASE
-    org.springframework:spring-test 4.3.9.RELEASE
-    org.springframework:spring-tx 4.3.9.RELEASE
-    org.springframework:spring-web 4.3.9.RELEASE
-    org.springframework:spring-webmvc 4.3.9.RELEASE
+    org.springframework:spring-jdbc 4.3.16.RELEASE
+    org.springframework:spring-jms 4.3.16.RELEASE
+    org.springframework:spring-messaging 4.3.16.RELEASE
+    org.springframework:spring-orm 4.3.16.RELEASE
+    org.springframework:spring-oxm 4.3.16.RELEASE
+    org.springframework:spring-test 4.3.16.RELEASE
+    org.springframework:spring-tx 4.3.16.RELEASE
+    org.springframework:spring-web 4.3.16.RELEASE
+    org.springframework:spring-webmvc 4.3.16.RELEASE
     org.springframework:spring-webmvc-portlet 4.3.8.RELEASE
-    org.springframework:spring-websocket 4.3.9.RELEASE
+    org.springframework:spring-websocket 4.3.16.RELEASE
     org.springframework:springloaded 1.2.8.RELEASE
     org.springframework.amqp:spring-amqp 1.6.9.RELEASE
     org.springframework.amqp:spring-rabbit 1.6.9.RELEASE
@@ -11111,4 +11139,4 @@ No configuration-specific dependency management
 
 BUILD SUCCESSFUL
 
-Total time: 13.217 secs
+Total time: 20.174 secs
